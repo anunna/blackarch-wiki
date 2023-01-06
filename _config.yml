@@ -1,12 +1,12 @@
 # remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
-title: "Talon Wiki"
+title: "BlackArch Wiki"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-url: "https://talon.wiki" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blackarch.wiki" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: ""
 # (string) Description of your wiki
-description: "Wiki for Talon https://talonvoice.com/."
+description: "Wiki for BlackArch Linux https://blackarch.org."
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
@@ -23,13 +23,13 @@ paginate_path: "/blog/page:num"
 permalink: pretty
 # (boolean) Enable/disable download buttons in sidebar
 show_downloads: true
-repository: TalonCommunity/Wiki
+repository: anunna/ba-wiki
 # (string) Specify github metadata allowing wiki tool buttons to work
 git_hostname: "github.com"
-git_owner_url: "https://github.com/TalonCommunity"
-git_owner_name: "TalonCommunity"
-repository_url: "https://github.com/TalonCommunity/Wiki"
-git_repository_nwo: "TalonCommunity/Wiki"
+git_owner_url: "https://github.com/anunna"
+git_owner_name: "anunna"
+repository_url: "https://github.com/anunna/ba-wiki"
+git_repository_nwo: "anunna/ba-wiki"
 git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: 
