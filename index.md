@@ -1,14 +1,20 @@
-# Welcome to the Talon Community Wiki
+# Welcome to the BlackArch Linux Wiki
 
-## What is Talon
+## What is BlackArch Linux
 
-[Talon](https://talonvoice.com) is a hands-free input replacement for the keyboard and mouse. Talon enables people who have limited use of their hands or want to stop using their hands to write code, play video games, and in general have unrestricted use of their computer. Whether you are here because you have an injury, want to prevent an injury, or are just interested in voice tech, we welcome everyone.
+[BlackArch](https://blackarch.org) is a complete Linux distribution for penetration testers and security researchers.
+It is derived from [ArchLinux](https://www.archlinux.org) and users can install BlackArch components
+individually or in groups directly on top of it. 
 
-Talon is free to use and ongoing development is made possible by [donations on Patreon](https://www.patreon.com/lunixbochs).
+The toolset is distributed as an Arch Linux [unoffical user repository](https://wiki.archlinux.org/index.php/Unofficial\_User\_Repositories) so you can install BlackArch on top of
+an existing Arch Linux installation. Packages may be installed individually or by category.
+
+The constantly expanding repository currently includes over [2800](https://blackarch.org/tools.html) tools.
+All tools are thoroughly tested before being added to the codebase to maintain the quality of the repository.
 
 ## Goal of this Wiki
 
-The goal of this wiki is to provide information and documentation for the users of Talon. As the software is under rapid development, this wiki is in a constant state of "work in progress". Some of this content exists temporarily until the official Talon Docs are created.
+The goal of this wiki is to provide information and documentation for the users of BlackArch. As the distribution is under active development, this wiki is in a constant state of "work in progress".
 
 ## Wiki Navigation
 
@@ -21,8 +27,25 @@ The goal of this wiki is to provide information and documentation for the users 
 | videos of Talon in use | [Video Demos](/talon_related_resources) |
 | answers to frequently asked questions | [FAQ](/FAQ) |
 
-## Talon Slack
-Talon has a Slack community for users to get help, ask questions, and meet one another. If you are starting to use Talon, join the [Talon Slack](https://talonvoice.com/chat). This is the most efficient way to get questions answered if they are not covered in this wiki. There are also a few general channels, like `#health`, for those looking for resources and other folks who might be navigating complex injuries like RSI (Repetitive Strain Injuries) from typing.
+## Community Channels
+
+### BlackArch on Matrix
+BlackArch has a Matrix community for users to get help, ask questions, and meet one another.
+If you are starting to use BlackArch, join the [BlackArch Room](https://matrix.to/#/%23BlackArch:matrix.org). 
+This is the most efficient way to get questions answered if they are not covered in this wiki.
+
+### BlackArch on Reddit
+
+While actively monitored by the team and community, for those that prefer a slightly slower means of support and community interaction,
+join our [BlackArch subreddit](https://reddit.com/r/OfficialBlackArchLinux).
+
+### BlackArch on Twitter
+
+For updates on the status of new ISO releases, tool additions and other announcements, follow us on [Twitter](https://twitter.com/BlackArchLinux).
+
+### BlackArch on Github
+
+Get involved by contributing to BlackArch and report bugs, request new tools, or create a pull request on our many repositories located on [Github](https://github.com/blackarch).
 
 A few notable channels:
 - `#help`: get help with Talon setup, usage, or ask questions about Talon
@@ -33,4 +56,4 @@ A few notable channels:
 
 # Contributing
 
-This wiki is maintained by the members of the Talon community (i.e., anyone who uses Talon). Contributions are welcomed and appreciated. See the [Contributing](/CONTRIBUTING) documentation. Please keep in mind our [Code of Conduct](/CODE_OF_CONDUCT).
+This wiki is maintained by the members of the BlackArch Community (i.e., anyone who uses BlackArch). Contributions are welcomed and appreciated. See the [Contributing](/CONTRIBUTING) documentation. Please keep in mind our [Code of Conduct](/CODE_OF_CONDUCT).

@@ -1,12 +1,12 @@
 # Contributing to this Wiki
-This is a wiki for [Talon](https://talonvoice.com/), a hands-free input replacement for using a computer. These docs are rendered and deployed to:
+This is a wiki for [BlackArch](https://blackarch.org), a complete Linux distribution for penetration testers and security researchers. These docs are rendered and deployed to:
 
-[https://talon.wiki/](https://talon.wiki)
+[https://blackarch.org/wiki](https://blackarch.org/wiki)
 
-Join the [Talon Slack](https://talonvoice.com/chat) to find other folks interested in or using Talon. If you want to support the project, consider donating to the [Patreon](https://www.patreon.com/lunixbochs).
+Join the [BlackArch Matrix](https://matrix.to/#/%23BlackArch:matrix.org) to find other people interested in or using BlackArch Linux. If you want to support the project, consider [donating](https://blackarch.org/donate.html).
 
 ## Who can Contribute
-This wiki belongs to the Talon Community, and contributions are welcome from anyone. Any member of the TalonCommunity GitHub organization can merge pull requests. Talon Community members can push directly to the `main` branch, which is the deployed branch.
+This wiki belongs to the BlackArch Community, and contributions are welcome from anyone. Any member of the BlackArch GitHub organization can merge pull requests. BlackArch members can push directly to the `main` branch, which is the deployed branch.
 
 ## How to Contribute
 Content is formatted using [markdown syntax](https://www.markdownguide.org/basic-syntax/). There are multiple ways to contribute content:
@@ -32,10 +32,10 @@ Images can be uploaded either by dragging and dropping the image into the prose 
 ```
 
 #### New Pages
-Prose by default suggests a filename with a date, and there isn't a way currently to turn of this behavior. Please remove the date from the suggested filename, for example don't use `2020-06-16-your-filename.md` and instead name it without a date like `your-filename.md`. Remember to use the `.md` file extension. Files without the extension will not be rendered by jekyll.
+Prose by default suggests a filename with a date, and there isn't a way currently to turn of this behavior. Please remove the date from the suggested filename, for example don't use `2023-04-20-your-filename.md` and instead name it without a date like `your-filename.md`. Remember to use the `.md` file extension. Files without the extension will not be rendered by jekyll.
 
 #### Saving Changes
-Click the save button, which will commit your changes. If you are a member of the Talon Community github organization, your changes will be committed directly to the deploy branch `main` and will show up https://talon.wiki once the site is rebuilt. If you are not a member of Talon Community, saving your changes will create a Pull Request on Github. Any member of Talon Community can merge the changes. Please ping someone on your pull request or find someone in the `#talon-docs` channels of the Talon Slack.
+Click the save button, which will commit your changes. If you are a member of the BlackArch github organization, your changes will be committed directly to the deploy branch `main` and will show up https://wiki.blackarch.org once the site is rebuilt. If you are not a member of Talon Community, saving your changes will create a Pull Request on Github. Any member of BlackArch can merge the changes after review.
 
 ### Using GitHub UI
 There are links in the top right corner of the site to edit the content in GitHub. Clicking `Add new`, for example, will drop you into a GiHub UI for adding a new file:
@@ -58,7 +58,7 @@ Add images to the `media` directory and include in markdown using the syntax:
 ```
 
 ## Deploying Changes
-All changes merged to `main` branch will be automatically deployed using Netlify to the domain `talon.wiki`. There is some delay between merge and when site is refreshed with the new content, so expect changes to take a minute or two. If you are a member of TalonCommunity, you have write access and can merge your own changes.
+All changes merged to `main` branch will be automatically deployed using Netlify to the domain `https://wiki.blackarch.org`. There is some delay between merge and when site is refreshed with the new content, so expect changes to take a moment. If you are a member of BlackArch, you have write access and can merge your own changes.
 
 ## Advanced
 **If you are only looking to add content to the wiki, you should not need to do any of the following setup. This is only relevant if you want to make changes to the wiki site itself or you want to preview locally instead of using prose or GitHub UI.**
