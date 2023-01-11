@@ -20,7 +20,7 @@ The goal of this wiki is to provide information and documentation for the users 
 
 | If you are looking for: | See:   |
 |---|---------|
-| information on getting started with Talon | [Getting Started](/getting_started)  |
+| the installation guide | [Getting Started](/getting_started)  |
 | (unofficial) documentation of Talon's features | [Unofficial Talon Documentation](/unofficial_talon_docs) |
 | troubleshooting help | [Troubleshooting](/troubleshooting) |
 | help with deciding on a microphone or eye tracker | [Hardware](/hardware) |
@@ -37,7 +37,7 @@ This is the most efficient way to get questions answered if they are not covered
 ### BlackArch on Reddit
 
 While actively monitored by the team and community, for those that prefer a slightly slower means of support and community interaction,
-join our [BlackArch subreddit](https://reddit.com/r/OfficialBlackArchLinux).
+join our [BlackArch subreddit](https://reddit.com/r/OfficialBlackArchLinux). We also post project notices here.
 
 ### BlackArch on Twitter
 
