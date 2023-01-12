@@ -24,7 +24,7 @@ The goal of this wiki is to provide information and documentation for the users 
 | (unofficial) documentation of Talon's features | [Unofficial Talon Documentation](/unofficial_talon_docs) |
 | troubleshooting help | [Troubleshooting](/troubleshooting) |
 | help with deciding on a microphone or eye tracker | [Hardware](/hardware) |
-| videos of Talon in use | [Video Demos](/talon_related_resources) |
+| videos of BlackArch in use | [Video Demos](https://youtube.com/blackarch) |
 | answers to frequently asked questions | [FAQ](/FAQ) |
 
 ## Community Channels
@@ -46,13 +46,6 @@ For updates on the status of new ISO releases, tool additions and other announce
 ### BlackArch on Github
 
 Get involved by contributing to BlackArch and report bugs, request new tools, or create a pull request on our many repositories located on [Github](https://github.com/blackarch).
-
-A few notable channels:
-- `#help`: get help with Talon setup, usage, or ask questions about Talon
-- `#beta`: find beta download links and ask questions specific to the beta (this is a private channel that requires a patreon donation)
-- `#health`: chat with others about computer health issues, share knowledge, find other folks who might be going through similar things
-- `#talon-docs`: chat about Talon documentation such as this wiki
-- `#hardware`: chat about hardware, e.g., microphones
 
 # Contributing
 
