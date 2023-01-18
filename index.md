@@ -21,9 +21,7 @@ The goal of this wiki is to provide information and documentation for the users 
 | If you are looking for: | See:   |
 |---|---------|
 | the installation guide | [Getting Started](/getting_started)  |
-| (unofficial) documentation of Talon's features | [Unofficial Talon Documentation](/unofficial_talon_docs) |
 | troubleshooting help | [Troubleshooting](/troubleshooting) |
-| help with deciding on a microphone or eye tracker | [Hardware](/hardware) |
 | videos of BlackArch in use | [Video Demos](https://youtube.com/blackarch) |
 | answers to frequently asked questions | [FAQ](/FAQ) |
 
