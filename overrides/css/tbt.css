@@ -1,0 +1,44 @@
+body {
+    background-color: #0e1a1f; /* dark background color */
+    color: #9d9d9d; /* light text color */
+}
+
+.container {
+    max-width: 1200px; /* container width */
+    margin: 0 auto; /* center container on the page */
+}
+
+a {
+    color: #00bfff; /* blue link color */
+    text-decoration: none; /* remove underline from links */
+}
+
+a:hover {
+    color: #ffffff; /* white link hover color */
+}
+
+h1, h2, h3 {
+    color: #00bfff; /* blue heading color */
+}
+
+.btn {
+    background-color: #00bfff; /* blue button color */
+    color: #ffffff; /* white button text color */
+    border: none; /* remove border */
+    padding: 10px 20px; /* add padding */
+    font-size: 18px; /* increase font size */
+    cursor: pointer; /* change cursor on hover */
+}
+
+.btn:hover {
+    background-color: #ffffff; /* white button hover color */
+    color: #0e1a1f; /* dark button text hover color */
+}
+
+pre {
+    background-color: #0e1a1f; /* dark code block background color */
+    color: #9d9d9d; /* light code text color */
+    padding: 20px; /* add padding to code block */
+    overflow: auto; /* add scrollbar if needed */
+    font-size: 14px; /* decrease font size */
+}

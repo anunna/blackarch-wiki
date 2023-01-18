@@ -1,7 +1,7 @@
 # Getting Started
 
-## Install Talon
-You can install and run Talon by following the [official installation instructions](https://talonvoice.com/docs/). The rest of this page provides some additional information to supplement the information provided there.
+## Install BlackArch Linux
+You can install and run BlackArch Linux by following the [official installation instructions](/installation_guide). The rest of this page provides some additional information to supplement the information provided there.
 1. Run the Talon app.
 
 
