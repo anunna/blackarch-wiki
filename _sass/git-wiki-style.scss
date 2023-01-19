@@ -396,3 +396,7 @@ screen and (max-width: 480px) {
   background-image: linear-gradient(transparent, transparent), url("../images/external.svg");
   padding-right: 13px;
 }
+
+.highlight {
+  background-color: rgba(0, 0, 0, 0.4);
+}
