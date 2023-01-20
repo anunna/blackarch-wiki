@@ -32,7 +32,7 @@ repository_url: "https://github.com/anunna/ba-wiki"
 git_repository_nwo: "anunna/ba-wiki"
 git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: 
+logo_url: "/assets/images/ba-logo.png"
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
