@@ -27,9 +27,7 @@ There's a preview button to see your changes rendered in markdown:
 #### Images
 Images can be uploaded either by dragging and dropping the image into the prose editor or by clicking the image button in the markdown editor bar. These photos will be uploaded to the `media` directory and you should see some markdown generated for you:
 
-```
 ![prose_image_upload.png](media/prose_image_upload.png)
-```
 
 #### New Pages
 Prose by default suggests a filename with a date, and there isn't a way currently to turn of this behavior. Please remove the date from the suggested filename, for example don't use `2023-04-20-your-filename.md` and instead name it without a date like `your-filename.md`. Remember to use the `.md` file extension. Files without the extension will not be rendered by jekyll.
@@ -54,7 +52,7 @@ New pages can be added to the root directory - no need to add to any subfolder. 
 Add images to the `media` directory and include in markdown using the syntax:
 
 ```
-![prose_image_upload.png](media/prose_image_upload.png)
+![github_image_upload.png](media/github_image_upload.png)
 ```
 
 ## Deploying Changes
