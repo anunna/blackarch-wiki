@@ -56,7 +56,7 @@ Add images to the `media` directory and include in markdown using the syntax:
 ```
 
 ## Deploying Changes
-All changes merged to `main` branch will be automatically deployed using Netlify to the domain `https://wiki.blackarch.org`. There is some delay between merge and when site is refreshed with the new content, so expect changes to take a moment. If you are a member of BlackArch, you have write access and can merge your own changes.
+All changes merged to `main` branch will be automatically deployed using Netlify to the domain `https://blackarch.wiki`. There is some delay between merge and when site is refreshed with the new content, so expect changes to take a moment. If you are a member of BlackArch, you have write access and can merge your own changes.
 
 ## Advanced
 **If you are only looking to add content to the wiki, you should not need to do any of the following setup. This is only relevant if you want to make changes to the wiki site itself or you want to preview locally instead of using prose or GitHub UI.**
