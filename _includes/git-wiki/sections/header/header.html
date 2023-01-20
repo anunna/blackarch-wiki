@@ -2,9 +2,9 @@
   <button class="w3-button w3-teal" id="button-open-sidebar">&#9776;</button>
   <a href="{{ '/' | relative_url }}">
     {% if site.logo_url %}
-    <img src="{{ site.logo_url | relative_url }}" width="20px">
+    <img src="{{ site.logo_url | relative_url }}" class="git-wiki-main-logo" >
     {% endif %}
-    {{ site.title | escape }}
+    <h1 class="site-title">{{ site.title | escape }}</h1>
   </a>
 </div>
 <header class="w3-sidebar w3-bar-block w3-collapse" id="git-wiki-sidebar">
