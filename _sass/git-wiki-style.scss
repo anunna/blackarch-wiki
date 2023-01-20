@@ -167,14 +167,15 @@ screen and (max-width: 992px) {
     border-radius: 10px;
   }
 
-  .logo-title-container {
-    display: flex;
-    align-items: center;
+.logo-title-container {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
 }
 
-  .git-wiki-main-logo {
-    max-width: 10px; /* adjust width as needed */
-    margin-right: 10px;
+.git-wiki-main-logo {
+  max-width: 20px;
+  margin-right: 10px;
 }
 }
 

@@ -1,11 +1,11 @@
 <div class=" w3-xlarge w3-hide-large" id="git-wiki-mobile-header">
   <button class="w3-button w3-teal" id="button-open-sidebar">&#9776;</button>
-  <a href="{{ '/' | relative_url }}">
+  <div class="logo-title-container">
     {% if site.logo_url %}
-    <img src="{{ site.logo_url | relative_url }}" class="git-wiki-main-logo" >
+      <img src="{{ site.logo_url | relative_url }}" class="git-wiki-main-logo" >
     {% endif %}
-    {{ site.title | escape }}
-  </a>
+    <h1 class="site-title">{{ site.title | escape }}</h1>
+  </div>
 </div>
 <header class="w3-sidebar w3-bar-block w3-collapse" id="git-wiki-sidebar">
   <div>
