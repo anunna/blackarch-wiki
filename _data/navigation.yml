@@ -1,5 +1,5 @@
 pages:
   - slug: getting_started
-  - slug: wiki/tools
+  - slug: "_wiki/tools"
   - slug: troubleshooting
   - slug: FAQ
