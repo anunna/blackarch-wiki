@@ -1,6 +1,6 @@
 ---
 name: bt_audit
 url: http://www.betaversion.net/btdsd/download/
-description: Bluetooth audit URL : http://www.
+description: Bluetooth audit.
 group: blackarch blackarch-bluetooth blackarch-fuzzer
 ---

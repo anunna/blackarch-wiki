@@ -1,6 +1,6 @@
 ---
 name: rtp-flood
 url: http://www.hackingexposedvoip.com/
-description: RTP flooder URL : http://www.
+description: RTP flooder.
 group: blackarch blackarch-voip
 ---

@@ -1,6 +1,6 @@
 ---
 name: intrace
 url: http://intrace.googlecode.com
-description: Traceroute-like application piggybacking on existing TCP connections URL : http://intrace.
+description: Traceroute-like application piggybacking on existing TCP connections.
 group: blackarch blackarch-recon
 ---

@@ -1,6 +1,6 @@
 ---
 name: boofuzz
 url: https://github.com/jtpereyda/boofuzz
-description: None URL : https://github.
+description: None.
 group: blackarch blackarch-fuzzer
 ---

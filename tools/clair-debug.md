@@ -1,6 +1,6 @@
 ---
 name: clair-debug
 url: https://github.com/quay/clair
-description: Detached debugging symbols for clair URL : https://github.
+description: Detached debugging symbols for clair.
 group: None
 ---

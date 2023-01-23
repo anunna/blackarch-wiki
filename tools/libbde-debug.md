@@ -1,6 +1,6 @@
 ---
 name: libbde-debug
 url: https://github.com/libyal/libbde
-description: Detached debugging symbols for libbde URL : https://github.
+description: Detached debugging symbols for libbde.
 group: None
 ---
