@@ -1,6 +1,0 @@
----
-name: virustotal
-url: https://github.com/botherder/virustotal
-description: utility to automatically lookup on VirusTotal all files recursively contained in a directory. URL : https://github.com/botherder/virustotal Groups : blackarch blackarch-malware
-group: blackarch
----
