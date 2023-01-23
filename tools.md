@@ -1,6 +1,6 @@
- # Tools Index)
+ # Tools Index
 
-- A complete index of all tools offered in the BlackArch repository. Each link leads to a detailed page for the tool which covers tool usage, conciderations, etc.)
+- A complete index of all tools offered in the BlackArch repository. Each link leads to a detailed page for the tool which covers tool usage, conciderations, etc.
 
 - [0d1n](/tools/0d1n)
 - [0trace](/tools/0trace)
