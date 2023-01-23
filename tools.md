@@ -1,4 +1,4 @@
-# BlackArch Linux Tools Index
+# Tools Index
 
 A complete index of all tools offered in the BlackArch repository. Each link leads to a detailed page for the tool which covers tool usage, conciderations, etc.
 
@@ -30,9 +30,7 @@ A complete index of all tools offered in the BlackArch repository. Each link lea
 - [afflib](/tools/afflib)
 - [aflplusplus](/tools/aflplusplus)
 - [aflplusplus-debug](/tools/aflplusplus-debug)
-- [afpfs-ng
-afpfs-ng](/tools/afpfs-ng
-afpfs-ng)
+- [afpfs-ng](/tools/afpfs-ng
 - [agafi](/tools/agafi)
 - [against](/tools/against)
 - [aggroargs](/tools/aggroargs)
@@ -40,9 +38,7 @@ afpfs-ng)
 - [aimage](/tools/aimage)
 - [aiodnsbrute](/tools/aiodnsbrute)
 - [air](/tools/air)
-- [aircrack-ng
-aircrack-ng](/tools/aircrack-ng
-aircrack-ng)
+- [aircrack-ng](/tools/aircrack-ng
 - [aircrack-ng-beta](/tools/aircrack-ng-beta)
 - [airflood](/tools/airflood)
 - [airgeddon](/tools/airgeddon)
@@ -63,18 +59,10 @@ aircrack-ng)
 - [androguard](/tools/androguard)
 - [androick](/tools/androick)
 - [android-apktool](/tools/android-apktool)
-- [android-ndk
-android-ndk](/tools/android-ndk
-android-ndk)
-- [android-sdk
-android-sdk](/tools/android-sdk
-android-sdk)
-- [android-sdk-build-tools
-android-sdk-build-tools](/tools/android-sdk-build-tools
-android-sdk-build-tools)
-- [android-sdk-platform-tools
-android-sdk-platform-tools](/tools/android-sdk-platform-tools
-android-sdk-platform-tools)
+- [android-ndk](/tools/android-ndk
+- [android-sdk](/tools/android-sdk
+- [android-sdk-build-tools](/tools/android-sdk-build-tools
+- [android-sdk-platform-tools](/tools/android-sdk-platform-tools
 - [android-udev-rules](/tools/android-udev-rules)
 - [androidpincrack](/tools/androidpincrack)
 - [androidsniffer](/tools/androidsniffer)
@@ -102,21 +90,15 @@ android-sdk-platform-tools)
 - [aranea](/tools/aranea)
 - [arcane](/tools/arcane)
 - [archivebox](/tools/archivebox)
-- [arduino
-arduino](/tools/arduino
-arduino)
-- [argon2
-argon2](/tools/argon2
-argon2)
+- [arduino](/tools/arduino
+- [argon2](/tools/argon2
 - [argus](/tools/argus)
 - [argus-clients](/tools/argus-clients)
 - [arjun](/tools/arjun)
 - [armitage](/tools/armitage)
 - [armor](/tools/armor)
 - [armscgen](/tools/armscgen)
-- [arp-scan
-arp-scan](/tools/arp-scan
-arp-scan)
+- [arp-scan](/tools/arp-scan
 - [arpalert](/tools/arpalert)
 - [arpoison](/tools/arpoison)
 - [arpon](/tools/arpon)
@@ -131,9 +113,7 @@ arp-scan)
 - [assetfinder](/tools/assetfinder)
 - [astra](/tools/astra)
 - [atear](/tools/atear)
-- [atftp
-atftp](/tools/atftp
-atftp)
+- [atftp](/tools/atftp
 - [athena-ssl-scanner](/tools/athena-ssl-scanner)
 - [atlas](/tools/atlas)
 - [atscan](/tools/atscan)
@@ -153,9 +133,7 @@ atftp)
 - [autosint](/tools/autosint)
 - [autosploit](/tools/autosploit)
 - [autovpn](/tools/autovpn)
-- [avaloniailspy
-avaloniailspy](/tools/avaloniailspy
-avaloniailspy)
+- [avaloniailspy](/tools/avaloniailspy
 - [avet](/tools/avet)
 - [avml](/tools/avml)
 - [avr-libc-manpages](/tools/avr-libc-manpages)
@@ -190,9 +168,7 @@ avaloniailspy)
 - [basedomainname](/tools/basedomainname)
 - [bashfuscator](/tools/bashfuscator)
 - [bashscan](/tools/bashscan)
-- [batctl
-batctl](/tools/batctl
-batctl)
+- [batctl](/tools/batctl
 - [batman-adv](/tools/batman-adv)
 - [batman-alfred](/tools/batman-alfred)
 - [bbqsql](/tools/bbqsql)
@@ -206,9 +182,7 @@ batctl)
 - [beholder](/tools/beholder)
 - [belati](/tools/belati)
 - [beleth](/tools/beleth)
-- [bettercap
-bettercap](/tools/bettercap
-bettercap)
+- [bettercap](/tools/bettercap
 - [bettercap-ui](/tools/bettercap-ui)
 - [bfac](/tools/bfac)
 - [bfbtester](/tools/bfbtester)
@@ -218,9 +192,7 @@ bettercap)
 - [billcipher](/tools/billcipher)
 - [binaryninja-demo](/tools/binaryninja-demo)
 - [binaryninja-python](/tools/binaryninja-python)
-- [bind
-bind](/tools/bind
-bind)
+- [bind](/tools/bind
 - [bindead](/tools/bindead)
 - [bindiff](/tools/bindiff)
 - [binex](/tools/binex)
@@ -230,9 +202,7 @@ bind)
 - [bingoo](/tools/bingoo)
 - [binnavi](/tools/binnavi)
 - [binproxy](/tools/binproxy)
-- [binwalk
-binwalk](/tools/binwalk
-binwalk)
+- [binwalk](/tools/binwalk
 - [binwally](/tools/binwally)
 - [bios_memimage](/tools/bios_memimage)
 - [birp](/tools/birp)
@@ -271,13 +241,9 @@ binwalk)
 - [blackman](/tools/blackman)
 - [blackmate](/tools/blackmate)
 - [blacknurse](/tools/blacknurse)
-- [bladerf
-bladerf](/tools/bladerf
-bladerf)
+- [bladerf](/tools/bladerf
 - [bleah](/tools/bleah)
-- [bless
-bless](/tools/bless
-bless)
+- [bless](/tools/bless
 - [bletchley](/tools/bletchley)
 - [blind-sql-bitshifting](/tools/blind-sql-bitshifting)
 - [blindelephant](/tools/blindelephant)
@@ -335,9 +301,7 @@ bless)
 - [brutex](/tools/brutex)
 - [brutexss](/tools/brutexss)
 - [brutus](/tools/brutus)
-- [bsdiff
-bsdiff](/tools/bsdiff
-bsdiff)
+- [bsdiff](/tools/bsdiff
 - [bsqlbf](/tools/bsqlbf)
 - [bsqlinjector](/tools/bsqlinjector)
 - [bss](/tools/bss)
@@ -347,27 +311,19 @@ bsdiff)
 - [btproxy-mitm](/tools/btproxy-mitm)
 - [btscanner](/tools/btscanner)
 - [bulk-extractor](/tools/bulk-extractor)
-- [bully
-bully](/tools/bully
-bully)
+- [bully](/tools/bully
 - [bunny](/tools/bunny)
-- [burpsuite
-burpsuite](/tools/burpsuite
-burpsuite)
+- [burpsuite](/tools/burpsuite
 - [buster](/tools/buster)
 - [buttinsky](/tools/buttinsky)
 - [bvi](/tools/bvi)
 - [byacc-noconflict](/tools/byacc-noconflict)
 - [byepass](/tools/byepass)
 - [bypass-firewall-dns-history](/tools/bypass-firewall-dns-history)
-- [bytecode-viewer
-bytecode-viewer](/tools/bytecode-viewer
-bytecode-viewer)
+- [bytecode-viewer](/tools/bytecode-viewer
 - [c5scan](/tools/c5scan)
 - [cachedump](/tools/cachedump)
-- [cadaver
-cadaver](/tools/cadaver
-cadaver)
+- [cadaver](/tools/cadaver
 - [cafebabe](/tools/cafebabe)
 - [calamares](/tools/calamares)
 - [cameradar](/tools/cameradar)
@@ -383,9 +339,7 @@ cadaver)
 - [cansina](/tools/cansina)
 - [cantoolz](/tools/cantoolz)
 - [capfuzz](/tools/capfuzz)
-- [capstone
-capstone](/tools/capstone
-capstone)
+- [capstone](/tools/capstone
 - [captipper](/tools/captipper)
 - [cardpwn](/tools/cardpwn)
 - [carwhisperer](/tools/carwhisperer)
@@ -416,20 +370,14 @@ capstone)
 - [cheat-sh](/tools/cheat-sh)
 - [check-weak-dh-ssh](/tools/check-weak-dh-ssh)
 - [checkiban](/tools/checkiban)
-- [checksec
-checksec](/tools/checksec
-checksec)
+- [checksec](/tools/checksec
 - [chiasm-shell](/tools/chiasm-shell)
 - [chipsec](/tools/chipsec)
 - [chipsec-debug](/tools/chipsec-debug)
 - [chiron](/tools/chiron)
 - [chisel](/tools/chisel)
-- [chkrootkit
-chkrootkit](/tools/chkrootkit
-chkrootkit)
-- [chntpw
-chntpw](/tools/chntpw
-chntpw)
+- [chkrootkit](/tools/chkrootkit
+- [chntpw](/tools/chntpw
 - [chopshop](/tools/chopshop)
 - [choronzon](/tools/choronzon)
 - [chownat](/tools/chownat)
@@ -456,16 +404,12 @@ chntpw)
 - [ciscos](/tools/ciscos)
 - [citadel](/tools/citadel)
 - [cjexploiter](/tools/cjexploiter)
-- [ckbcomp
-ckbcomp](/tools/ckbcomp
-ckbcomp)
+- [ckbcomp](/tools/ckbcomp
 - [clair](/tools/clair)
 - [clair-debug](/tools/clair-debug)
 - [clairvoyance](/tools/clairvoyance)
 - [clamscanlogparser](/tools/clamscanlogparser)
-- [clash
-clash](/tools/clash
-clash)
+- [clash](/tools/clash
 - [climber](/tools/climber)
 - [cloakify](/tools/cloakify)
 - [cloud-buster](/tools/cloud-buster)
@@ -504,21 +448,15 @@ clash)
 - [cook](/tools/cook)
 - [cookie-cadger](/tools/cookie-cadger)
 - [cookiejar](/tools/cookiejar)
-- [corkscrew
-corkscrew](/tools/corkscrew
-corkscrew)
+- [corkscrew](/tools/corkscrew
 - [corscanner](/tools/corscanner)
 - [corstest](/tools/corstest)
 - [corsy](/tools/corsy)
 - [cottontail](/tools/cottontail)
 - [cower](/tools/cower)
-- [cowpatty
-cowpatty](/tools/cowpatty
-cowpatty)
+- [cowpatty](/tools/cowpatty
 - [cpfinder](/tools/cpfinder)
-- [cppcheck
-cppcheck](/tools/cppcheck
-cppcheck)
+- [cppcheck](/tools/cppcheck
 - [cpptest](/tools/cpptest)
 - [cpyrit-cuda](/tools/cpyrit-cuda)
 - [cpyrit-opencl](/tools/cpyrit-opencl)
@@ -543,9 +481,7 @@ cppcheck)
 - [crlf-injector](/tools/crlf-injector)
 - [crlfuzz](/tools/crlfuzz)
 - [crosslinked](/tools/crosslinked)
-- [crosstool-ng
-crosstool-ng](/tools/crosstool-ng
-crosstool-ng)
+- [crosstool-ng](/tools/crosstool-ng
 - [crowbar](/tools/crowbar)
 - [crozono](/tools/crozono)
 - [crunch](/tools/crunch)
@@ -582,9 +518,7 @@ crosstool-ng)
 - [darkmysqli](/tools/darkmysqli)
 - [darkscrape](/tools/darkscrape)
 - [darkspiritz](/tools/darkspiritz)
-- [darkstat
-darkstat](/tools/darkstat
-darkstat)
+- [darkstat](/tools/darkstat
 - [datajackproxy](/tools/datajackproxy)
 - [datasploit](/tools/datasploit)
 - [davoset](/tools/davoset)
@@ -599,9 +533,7 @@ darkstat)
 - [dcrawl](/tools/dcrawl)
 - [ddosify](/tools/ddosify)
 - [ddosify-debug](/tools/ddosify-debug)
-- [ddrescue
-ddrescue](/tools/ddrescue
-ddrescue)
+- [ddrescue](/tools/ddrescue
 - [de4dot](/tools/de4dot)
 - [deathstar](/tools/deathstar)
 - [debinject](/tools/debinject)
@@ -649,20 +581,14 @@ ddrescue)
 - [dirsearch](/tools/dirsearch)
 - [dirstalk](/tools/dirstalk)
 - [disitool](/tools/disitool)
-- [dislocker
-dislocker](/tools/dislocker
-dislocker)
+- [dislocker](/tools/dislocker
 - [dissector](/tools/dissector)
-- [distorm
-distorm](/tools/distorm
-distorm)
+- [distorm](/tools/distorm
 - [dive](/tools/dive)
 - [dizzy](/tools/dizzy)
 - [dkmc](/tools/dkmc)
 - [dmde](/tools/dmde)
-- [dmg2img
-dmg2img](/tools/dmg2img
-dmg2img)
+- [dmg2img](/tools/dmg2img
 - [dmitry](/tools/dmitry)
 - [dnmap](/tools/dnmap)
 - [dns-parallel-prober](/tools/dns-parallel-prober)
@@ -733,16 +659,12 @@ dmg2img)
 - [drupal-module-enum](/tools/drupal-module-enum)
 - [drupalscan](/tools/drupalscan)
 - [drupwn](/tools/drupwn)
-- [dscanner
-dscanner](/tools/dscanner
-dscanner)
+- [dscanner](/tools/dscanner
 - [dsd](/tools/dsd)
 - [dsfs](/tools/dsfs)
 - [dshell](/tools/dshell)
 - [dsjs](/tools/dsjs)
-- [dsniff
-dsniff](/tools/dsniff
-dsniff)
+- [dsniff](/tools/dsniff
 - [dsss](/tools/dsss)
 - [dsstore-crawler](/tools/dsstore-crawler)
 - [dsxs](/tools/dsxs)
@@ -773,20 +695,14 @@ dsniff)
 - [eggshell](/tools/eggshell)
 - [eigrp-tools](/tools/eigrp-tools)
 - [eindeutig](/tools/eindeutig)
-- [elasticsearch
-elasticsearch](/tools/elasticsearch
-elasticsearch)
+- [elasticsearch](/tools/elasticsearch
 - [electric-fence](/tools/electric-fence)
 - [elettra](/tools/elettra)
 - [elettra-gui](/tools/elettra-gui)
 - [elevate](/tools/elevate)
-- [elfkickers
-elfkickers](/tools/elfkickers
-elfkickers)
+- [elfkickers](/tools/elfkickers
 - [elfparser](/tools/elfparser)
-- [elfutils
-elfutils](/tools/elfutils
-elfutils)
+- [elfutils](/tools/elfutils
 - [elidecode](/tools/elidecode)
 - [elite-proxy-finder](/tools/elite-proxy-finder)
 - [email2phonenumber](/tools/email2phonenumber)
@@ -814,20 +730,14 @@ elfutils)
 - [erl-matter](/tools/erl-matter)
 - [espionage](/tools/espionage)
 - [eternal-scanner](/tools/eternal-scanner)
-- [etherape
-etherape](/tools/etherape
-etherape)
+- [etherape](/tools/etherape
 - [etherchange](/tools/etherchange)
 - [etherflood](/tools/etherflood)
-- [ettercap
-ettercap](/tools/ettercap
-ettercap)
+- [ettercap](/tools/ettercap
 - [evil-ssdp](/tools/evil-ssdp)
 - [evil-winrm](/tools/evil-winrm)
 - [evilclippy](/tools/evilclippy)
-- [evilginx
-evilginx](/tools/evilginx
-evilginx)
+- [evilginx](/tools/evilginx
 - [evilgrade](/tools/evilgrade)
 - [evilize](/tools/evilize)
 - [evillimiter](/tools/evillimiter)
@@ -841,14 +751,10 @@ evilginx)
 - [exiflooter](/tools/exiflooter)
 - [exiflooter-debug](/tools/exiflooter-debug)
 - [exitmap](/tools/exitmap)
-- [exiv2
-exiv2](/tools/exiv2
-exiv2)
+- [exiv2](/tools/exiv2
 - [expimp-lookup](/tools/expimp-lookup)
 - [exploit-db](/tools/exploit-db)
-- [exploitdb
-exploitdb](/tools/exploitdb
-exploitdb)
+- [exploitdb](/tools/exploitdb
 - [exploitpack](/tools/exploitpack)
 - [expose](/tools/expose)
 - [express](/tools/express)
@@ -880,9 +786,7 @@ exploitdb)
 - [fbht](/tools/fbht)
 - [fbi](/tools/fbi)
 - [fbid](/tools/fbid)
-- [fcrackzip
-fcrackzip](/tools/fcrackzip
-fcrackzip)
+- [fcrackzip](/tools/fcrackzip
 - [fdsploit](/tools/fdsploit)
 - [featherduster](/tools/featherduster)
 - [fern-wifi-cracker](/tools/fern-wifi-cracker)
@@ -910,9 +814,7 @@ fcrackzip)
 - [find3](/tools/find3)
 - [findmyhash](/tools/findmyhash)
 - [findmyiphone](/tools/findmyiphone)
-- [findomain
-findomain](/tools/findomain
-findomain)
+- [findomain](/tools/findomain
 - [findsploit](/tools/findsploit)
 - [fingerprinter](/tools/fingerprinter)
 - [firecat](/tools/firecat)
@@ -932,36 +834,26 @@ findomain)
 - [flask-session-cookie-manager2](/tools/flask-session-cookie-manager2)
 - [flask-session-cookie-manager3](/tools/flask-session-cookie-manager3)
 - [flasm](/tools/flasm)
-- [flawfinder
-flawfinder](/tools/flawfinder
-flawfinder)
+- [flawfinder](/tools/flawfinder
 - [flowinspect](/tools/flowinspect)
 - [flunym0us](/tools/flunym0us)
 - [fluxion](/tools/fluxion)
 - [flyr](/tools/flyr)
 - [fockcache](/tools/fockcache)
 - [forager](/tools/forager)
-- [foremost
-foremost](/tools/foremost
-foremost)
+- [foremost](/tools/foremost
 - [foresight](/tools/foresight)
 - [forkingportscanner](/tools/forkingportscanner)
 - [formatstringexploiter](/tools/formatstringexploiter)
 - [fortiscan](/tools/fortiscan)
 - [fpdns](/tools/fpdns)
-- [fping
-fping](/tools/fping
-fping)
+- [fping](/tools/fping
 - [fport](/tools/fport)
 - [fprotlogparser](/tools/fprotlogparser)
 - [fraud-bridge](/tools/fraud-bridge)
 - [fred](/tools/fred)
-- [freeipmi
-freeipmi](/tools/freeipmi
-freeipmi)
-- [freeradius
-freeradius](/tools/freeradius
-freeradius)
+- [freeipmi](/tools/freeipmi
+- [freeradius](/tools/freeradius
 - [freewifi](/tools/freewifi)
 - [frida](/tools/frida)
 - [frida-extract](/tools/frida-extract)
@@ -1000,25 +892,17 @@ freeradius)
 - [gatecrasher](/tools/gatecrasher)
 - [gau](/tools/gau)
 - [gcat](/tools/gcat)
-- [gconf
-gconf](/tools/gconf
-gconf)
+- [gconf](/tools/gconf
 - [gcpbucketbrute](/tools/gcpbucketbrute)
 - [gcrypt](/tools/gcrypt)
-- [gdb
-gdb](/tools/gdb
-gdb)
-- [gdb-common
-gdb-common](/tools/gdb-common
-gdb-common)
+- [gdb](/tools/gdb
+- [gdb-common](/tools/gdb-common
 - [gdbgui](/tools/gdbgui)
 - [gene](/tools/gene)
 - [genisys](/tools/genisys)
 - [genlist](/tools/genlist)
 - [geoedge](/tools/geoedge)
-- [geoip
-geoip](/tools/geoip
-geoip)
+- [geoip](/tools/geoip
 - [geoipgen](/tools/geoipgen)
 - [gerix-wifi-cracker](/tools/gerix-wifi-cracker)
 - [gethsploit](/tools/gethsploit)
@@ -1029,13 +913,9 @@ geoip)
 - [gggooglescan](/tools/gggooglescan)
 - [gh-dork](/tools/gh-dork)
 - [ghauri](/tools/ghauri)
-- [ghc
-ghc](/tools/ghc
-ghc)
+- [ghc](/tools/ghc
 - [ghettotooth](/tools/ghettotooth)
-- [ghidra
-ghidra](/tools/ghidra
-ghidra)
+- [ghidra](/tools/ghidra
 - [ghost-phisher](/tools/ghost-phisher)
 - [ghost-py](/tools/ghost-py)
 - [ghostdelivery](/tools/ghostdelivery)
@@ -1065,9 +945,7 @@ ghidra)
 - [gloom](/tools/gloom)
 - [glue](/tools/glue)
 - [gmsadumper](/tools/gmsadumper)
-- [gnuradio
-gnuradio](/tools/gnuradio
-gnuradio)
+- [gnuradio](/tools/gnuradio
 - [gnutls2](/tools/gnutls2)
 - [gobd](/tools/gobd)
 - [gobuster](/tools/gobuster)
@@ -1094,13 +972,9 @@ gnuradio)
 - [gowitness](/tools/gowitness)
 - [gplist](/tools/gplist)
 - [gpocrack](/tools/gpocrack)
-- [gpredict
-gpredict](/tools/gpredict
-gpredict)
+- [gpredict](/tools/gpredict
 - [gps-sdr-sim](/tools/gps-sdr-sim)
-- [gqrx
-gqrx](/tools/gqrx
-gqrx)
+- [gqrx](/tools/gqrx
 - [gr-air-modes](/tools/gr-air-modes)
 - [gr-gsm](/tools/gr-gsm)
 - [gr-paint](/tools/gr-paint)
@@ -1123,9 +997,7 @@ gqrx)
 - [grype](/tools/grype)
 - [gsa](/tools/gsa)
 - [gsd](/tools/gsd)
-- [gsocket
-gsocket](/tools/gsocket
-gsocket)
+- [gsocket](/tools/gsocket
 - [gspoof](/tools/gspoof)
 - [gtalk-decode](/tools/gtalk-decode)
 - [gtfo](/tools/gtfo)
@@ -1147,9 +1019,7 @@ gsocket)
 - [hachoir-parser](/tools/hachoir-parser)
 - [hackersh](/tools/hackersh)
 - [hackredis](/tools/hackredis)
-- [hackrf
-hackrf](/tools/hackrf
-hackrf)
+- [hackrf](/tools/hackrf
 - [haiti](/tools/haiti)
 - [haka](/tools/haka)
 - [hakku](/tools/hakku)
@@ -1158,9 +1028,7 @@ hackrf)
 - [halberd](/tools/halberd)
 - [halcyon](/tools/halcyon)
 - [halcyon-ide](/tools/halcyon-ide)
-- [hamlib
-hamlib](/tools/hamlib
-hamlib)
+- [hamlib](/tools/hamlib
 - [hamster](/tools/hamster)
 - [handle](/tools/handle)
 - [harness](/tools/harness)
@@ -1169,18 +1037,12 @@ hamlib)
 - [hash-buster](/tools/hash-buster)
 - [hash-extender](/tools/hash-extender)
 - [hash-identifier](/tools/hash-identifier)
-- [hashcat
-hashcat](/tools/hashcat
-hashcat)
-- [hashcat-utils
-hashcat-utils](/tools/hashcat-utils
-hashcat-utils)
+- [hashcat](/tools/hashcat
+- [hashcat-utils](/tools/hashcat-utils
 - [hashcatch](/tools/hashcatch)
 - [hashcheck](/tools/hashcheck)
 - [hashdb](/tools/hashdb)
-- [hashdeep
-hashdeep](/tools/hashdeep
-hashdeep)
+- [hashdeep](/tools/hashdeep
 - [hasher](/tools/hasher)
 - [hashfind](/tools/hashfind)
 - [hashid](/tools/hashid)
@@ -1195,15 +1057,9 @@ hashdeep)
 - [haystack](/tools/haystack)
 - [hbad](/tools/hbad)
 - [hcraft](/tools/hcraft)
-- [hcxdumptool
-hcxdumptool](/tools/hcxdumptool
-hcxdumptool)
-- [hcxkeys
-hcxkeys](/tools/hcxkeys
-hcxkeys)
-- [hcxtools
-hcxtools](/tools/hcxtools
-hcxtools)
+- [hcxdumptool](/tools/hcxdumptool
+- [hcxkeys](/tools/hcxkeys
+- [hcxtools](/tools/hcxtools
 - [hdcp-genkey](/tools/hdcp-genkey)
 - [hdmi-sniff](/tools/hdmi-sniff)
 - [heaptrace](/tools/heaptrace)
@@ -1216,9 +1072,7 @@ hcxtools)
 - [hex2bin](/tools/hex2bin)
 - [hexinject](/tools/hexinject)
 - [hexorbase](/tools/hexorbase)
-- [hexyl
-hexyl](/tools/hexyl
-hexyl)
+- [hexyl](/tools/hexyl
 - [hharp](/tools/hharp)
 - [hidattack](/tools/hidattack)
 - [hiddeneye](/tools/hiddeneye)
@@ -1239,9 +1093,7 @@ hexyl)
 - [hookshot](/tools/hookshot)
 - [hoover](/tools/hoover)
 - [hoper](/tools/hoper)
-- [hopper
-hopper](/tools/hopper
-hopper)
+- [hopper](/tools/hopper
 - [hoppy](/tools/hoppy)
 - [host-extract](/tools/host-extract)
 - [hostapd-wpe](/tools/hostapd-wpe)
@@ -1251,9 +1103,7 @@ hopper)
 - [hotspotter](/tools/hotspotter)
 - [howmanypeoplearearound](/tools/howmanypeoplearearound)
 - [hpfeeds](/tools/hpfeeds)
-- [hping
-hping](/tools/hping
-hping)
+- [hping](/tools/hping
 - [hqlmap](/tools/hqlmap)
 - [hsecscan](/tools/hsecscan)
 - [htcap](/tools/htcap)
@@ -1269,9 +1119,7 @@ hping)
 - [httpbog](/tools/httpbog)
 - [httpforge](/tools/httpforge)
 - [httpgrep](/tools/httpgrep)
-- [httping
-httping](/tools/httping
-httping)
+- [httping](/tools/httping
 - [httppwnly](/tools/httppwnly)
 - [httprecon](/tools/httprecon)
 - [httprint](/tools/httprint)
@@ -1281,14 +1129,10 @@ httping)
 - [httpscreenshot](/tools/httpscreenshot)
 - [httpsniff](/tools/httpsniff)
 - [httpsscanner](/tools/httpsscanner)
-- [httptunnel
-httptunnel](/tools/httptunnel
-httptunnel)
+- [httptunnel](/tools/httptunnel
 - [httpx](/tools/httpx)
 - [httpx-debug](/tools/httpx-debug)
-- [httrack
-httrack](/tools/httrack
-httrack)
+- [httrack](/tools/httrack
 - [hubbit-sniffer](/tools/hubbit-sniffer)
 - [hulk](/tools/hulk)
 - [hungry-interceptor](/tools/hungry-interceptor)
@@ -1296,18 +1140,12 @@ httrack)
 - [hwk](/tools/hwk)
 - [hxd](/tools/hxd)
 - [hyde](/tools/hyde)
-- [hydra
-hydra](/tools/hydra
-hydra)
+- [hydra](/tools/hydra
 - [hyenae](/tools/hyenae)
 - [hyperfox](/tools/hyperfox)
 - [hyperion-crypter](/tools/hyperion-crypter)
-- [i2pd
-i2pd](/tools/i2pd
-i2pd)
-- [iaito
-iaito](/tools/iaito
-iaito)
+- [i2pd](/tools/i2pd
+- [iaito](/tools/iaito
 - [iaxflood](/tools/iaxflood)
 - [iaxscan](/tools/iaxscan)
 - [ibrute](/tools/ibrute)
@@ -1335,13 +1173,9 @@ iaito)
 - [imagegrep](/tools/imagegrep)
 - [imagejs](/tools/imagejs)
 - [imagemounter](/tools/imagemounter)
-- [imhex
-imhex](/tools/imhex
-imhex)
+- [imhex](/tools/imhex
 - [imhex-debug](/tools/imhex-debug)
-- [impacket
-impacket](/tools/impacket
-impacket)
+- [impacket](/tools/impacket
 - [impulse](/tools/impulse)
 - [inception](/tools/inception)
 - [indx2csv](/tools/indx2csv)
@@ -1374,9 +1208,7 @@ impacket)
 - [invoke-dosfuscation](/tools/invoke-dosfuscation)
 - [invoke-obfuscation](/tools/invoke-obfuscation)
 - [inzider](/tools/inzider)
-- [iodine
-iodine](/tools/iodine
-iodine)
+- [iodine](/tools/iodine
 - [iosforensic](/tools/iosforensic)
 - [ip-https-tools](/tools/ip-https-tools)
 - [ip-tracer](/tools/ip-tracer)
@@ -1387,19 +1219,13 @@ iodine)
 - [ipdecap](/tools/ipdecap)
 - [iphoneanalyzer](/tools/iphoneanalyzer)
 - [ipmipwn](/tools/ipmipwn)
-- [ipmitool
-ipmitool](/tools/ipmitool
-ipmitool)
+- [ipmitool](/tools/ipmitool
 - [ipobfuscator](/tools/ipobfuscator)
-- [ipscan
-ipscan](/tools/ipscan
-ipscan)
+- [ipscan](/tools/ipscan
 - [ipsourcebypass](/tools/ipsourcebypass)
 - [iptodomain](/tools/iptodomain)
 - [iptv](/tools/iptv)
-- [iputils
-iputils](/tools/iputils
-iputils)
+- [iputils](/tools/iputils
 - [ipv4bypass](/tools/ipv4bypass)
 - [ipv666](/tools/ipv666)
 - [ipv6toolkit](/tools/ipv6toolkit)
@@ -1418,12 +1244,8 @@ iputils)
 - [ja3](/tools/ja3)
 - [jaadas](/tools/jaadas)
 - [jackdaw](/tools/jackdaw)
-- [jad
-jad](/tools/jad
-jad)
-- [jadx
-jadx](/tools/jadx
-jadx)
+- [jad](/tools/jad
+- [jadx](/tools/jadx
 - [jaeles](/tools/jaeles)
 - [jaidam](/tools/jaidam)
 - [jast](/tools/jast)
@@ -1444,15 +1266,11 @@ jadx)
 - [jeb-webasm](/tools/jeb-webasm)
 - [jeopardize](/tools/jeopardize)
 - [jexboss](/tools/jexboss)
-- [jhead
-jhead](/tools/jhead
-jhead)
+- [jhead](/tools/jhead
 - [jira-scan](/tools/jira-scan)
 - [jndi-injection-exploit](/tools/jndi-injection-exploit)
 - [jnetmap](/tools/jnetmap)
-- [john
-john](/tools/john
-john)
+- [john](/tools/john
 - [johnny](/tools/johnny)
 - [jok3r](/tools/jok3r)
 - [jomplug](/tools/jomplug)
@@ -1491,9 +1309,7 @@ john)
 - [katana](/tools/katana)
 - [katsnoop](/tools/katsnoop)
 - [kautilya](/tools/kautilya)
-- [kcptun
-kcptun](/tools/kcptun
-kcptun)
+- [kcptun](/tools/kcptun
 - [keimpx](/tools/keimpx)
 - [kekeo](/tools/kekeo)
 - [kerbcrack](/tools/kerbcrack)
@@ -1507,9 +1323,7 @@ kcptun)
 - [killerbee](/tools/killerbee)
 - [kimi](/tools/kimi)
 - [kippo](/tools/kippo)
-- [kismet
-kismet](/tools/kismet
-kismet)
+- [kismet](/tools/kismet
 - [kismet-earth](/tools/kismet-earth)
 - [kismet2earth](/tools/kismet2earth)
 - [kismon](/tools/kismon)
@@ -1602,9 +1416,7 @@ kismet)
 - [libpfm4](/tools/libpfm4)
 - [libpfring](/tools/libpfring)
 - [libpjf](/tools/libpjf)
-- [libpst
-libpst](/tools/libpst
-libpst)
+- [libpst](/tools/libpst
 - [libtins](/tools/libtins)
 - [libtins-debug](/tools/libtins-debug)
 - [libtirpc-compat](/tools/libtirpc-compat)
@@ -1632,53 +1444,39 @@ libpst)
 - [list-urls](/tools/list-urls)
 - [littleblackbox](/tools/littleblackbox)
 - [littlebrother](/tools/littlebrother)
-- [lldb
-lldb](/tools/lldb
-lldb)
+- [lldb](/tools/lldb
 - [loadlibrary](/tools/loadlibrary)
 - [local-php-security-checker](/tools/local-php-security-checker)
 - [locasploit](/tools/locasploit)
 - [lodowep](/tools/lodowep)
 - [log-file-parser](/tools/log-file-parser)
-- [log4cxx
-log4cxx](/tools/log4cxx
-log4cxx)
+- [log4cxx](/tools/log4cxx
 - [log4j-bypass](/tools/log4j-bypass)
 - [log4j-scan](/tools/log4j-scan)
 - [logkeys](/tools/logkeys)
 - [logmepwn](/tools/logmepwn)
 - [loic](/tools/loic)
-- [loki
-loki](/tools/loki
-loki)
+- [loki](/tools/loki
 - [loki-scanner](/tools/loki-scanner)
 - [lolbas](/tools/lolbas)
 - [loot](/tools/loot)
-- [lorcon
-lorcon](/tools/lorcon
-lorcon)
+- [lorcon](/tools/lorcon
 - [lorcon-old](/tools/lorcon-old)
 - [lorg](/tools/lorg)
 - [lorsrf](/tools/lorsrf)
 - [lotophagi](/tools/lotophagi)
 - [lsrtunnel](/tools/lsrtunnel)
 - [lte-cell-scanner](/tools/lte-cell-scanner)
-- [ltrace
-ltrace](/tools/ltrace
-ltrace)
+- [ltrace](/tools/ltrace
 - [luksipc](/tools/luksipc)
 - [lulzbuster](/tools/lulzbuster)
 - [lunar](/tools/lunar)
 - [luyten](/tools/luyten)
-- [lynis
-lynis](/tools/lynis
-lynis)
+- [lynis](/tools/lynis
 - [lyricpass](/tools/lyricpass)
 - [m3-gen](/tools/m3-gen)
 - [mac-robber](/tools/mac-robber)
-- [macchanger
-macchanger](/tools/macchanger
-macchanger)
+- [macchanger](/tools/macchanger
 - [machinae](/tools/machinae)
 - [maclookup](/tools/maclookup)
 - [magescan](/tools/magescan)
@@ -1716,38 +1514,26 @@ macchanger)
 - [maryam](/tools/maryam)
 - [maskprocessor](/tools/maskprocessor)
 - [massbleed](/tools/massbleed)
-- [masscan
-masscan](/tools/masscan
-masscan)
+- [masscan](/tools/masscan
 - [masscan-automation](/tools/masscan-automation)
 - [massdns](/tools/massdns)
 - [massexpconsole](/tools/massexpconsole)
 - [mat](/tools/mat)
-- [mat2
-mat2](/tools/mat2
-mat2)
+- [mat2](/tools/mat2
 - [matahari](/tools/matahari)
 - [matroschka](/tools/matroschka)
 - [mausezahn](/tools/mausezahn)
-- [mbelib
-mbelib](/tools/mbelib
-mbelib)
+- [mbelib](/tools/mbelib
 - [mbenum](/tools/mbenum)
 - [mboxgrep](/tools/mboxgrep)
 - [mdbtools](/tools/mdbtools)
 - [mdcrack](/tools/mdcrack)
 - [mdk3](/tools/mdk3)
-- [mdk4
-mdk4](/tools/mdk4
-mdk4)
+- [mdk4](/tools/mdk4
 - [mdns-recon](/tools/mdns-recon)
-- [mdns-scan
-mdns-scan](/tools/mdns-scan
-mdns-scan)
+- [mdns-scan](/tools/mdns-scan
 - [meanalyzer](/tools/meanalyzer)
-- [medusa
-medusa](/tools/medusa
-medusa)
+- [medusa](/tools/medusa
 - [meg](/tools/meg)
 - [melkor](/tools/melkor)
 - [memdump](/tools/memdump)
@@ -1762,16 +1548,12 @@ medusa)
 - [metaforge](/tools/metaforge)
 - [metagoofil](/tools/metagoofil)
 - [metame](/tools/metame)
-- [metasploit
-metasploit](/tools/metasploit
-metasploit)
+- [metasploit](/tools/metasploit
 - [metasploit-autopwn](/tools/metasploit-autopwn)
 - [meterssh](/tools/meterssh)
 - [metoscan](/tools/metoscan)
 - [mfcuk](/tools/mfcuk)
-- [mfoc
-mfoc](/tools/mfoc
-mfoc)
+- [mfoc](/tools/mfoc
 - [mfsniffer](/tools/mfsniffer)
 - [mft2csv](/tools/mft2csv)
 - [mftcarver](/tools/mftcarver)
@@ -1797,13 +1579,9 @@ mfoc)
 - [mitmap-old](/tools/mitmap-old)
 - [mitmer](/tools/mitmer)
 - [mitmf](/tools/mitmf)
-- [mitmproxy
-mitmproxy](/tools/mitmproxy
-mitmproxy)
+- [mitmproxy](/tools/mitmproxy
 - [mkbrutus](/tools/mkbrutus)
-- [mkinitcpio-openswap
-mkinitcpio-openswap](/tools/mkinitcpio-openswap
-mkinitcpio-openswap)
+- [mkinitcpio-openswap](/tools/mkinitcpio-openswap
 - [mkyara](/tools/mkyara)
 - [mobiusft](/tools/mobiusft)
 - [mobsf](/tools/mobsf)
@@ -1845,19 +1623,13 @@ mkinitcpio-openswap)
 - [msmailprobe](/tools/msmailprobe)
 - [mssqlscan](/tools/mssqlscan)
 - [msvpwn](/tools/msvpwn)
-- [mtr
-mtr](/tools/mtr
-mtr)
+- [mtr](/tools/mtr
 - [mtscan](/tools/mtscan)
 - [mubeng](/tools/mubeng)
-- [mugshot
-mugshot](/tools/mugshot
-mugshot)
+- [mugshot](/tools/mugshot
 - [multiinjector](/tools/multiinjector)
 - [multimac](/tools/multimac)
-- [multimon-ng
-multimon-ng](/tools/multimon-ng
-multimon-ng)
+- [multimon-ng](/tools/multimon-ng
 - [multiscanner](/tools/multiscanner)
 - [multitun](/tools/multitun)
 - [munin-hashchecker](/tools/munin-hashchecker)
@@ -1880,17 +1652,11 @@ multimon-ng)
 - [nbnspoof](/tools/nbnspoof)
 - [nbtenum](/tools/nbtenum)
 - [nbtool](/tools/nbtool)
-- [nbtscan
-nbtscan](/tools/nbtscan
-nbtscan)
+- [nbtscan](/tools/nbtscan
 - [ncp](/tools/ncp)
 - [ncpfs](/tools/ncpfs)
-- [ncrack
-ncrack](/tools/ncrack
-ncrack)
-- [ncurses5-compat-libs
-ncurses5-compat-libs](/tools/ncurses5-compat-libs
-ncurses5-compat-libs)
+- [ncrack](/tools/ncrack
+- [ncurses5-compat-libs](/tools/ncurses5-compat-libs
 - [ndpi](/tools/ndpi)
 - [necromant](/tools/necromant)
 - [needle](/tools/needle)
@@ -1917,9 +1683,7 @@ ncurses5-compat-libs)
 - [netscan](/tools/netscan)
 - [netscan2](/tools/netscan2)
 - [netsed](/tools/netsed)
-- [netsniff-ng
-netsniff-ng](/tools/netsniff-ng
-netsniff-ng)
+- [netsniff-ng](/tools/netsniff-ng
 - [netstumbler](/tools/netstumbler)
 - [nettacker](/tools/nettacker)
 - [network-app-stress-tester](/tools/network-app-stress-tester)
@@ -1934,16 +1698,10 @@ netsniff-ng)
 - [nfex](/tools/nfex)
 - [nfspy](/tools/nfspy)
 - [nfsshell](/tools/nfsshell)
-- [ngrep
-ngrep](/tools/ngrep
-ngrep)
-- [ngrok
-ngrok](/tools/ngrok
-ngrok)
+- [ngrep](/tools/ngrep
+- [ngrok](/tools/ngrok
 - [nield](/tools/nield)
-- [nikto
-nikto](/tools/nikto
-nikto)
+- [nikto](/tools/nikto
 - [nili](/tools/nili)
 - [nimbostratus](/tools/nimbostratus)
 - [nipe](/tools/nipe)
@@ -1952,9 +1710,7 @@ nikto)
 - [nishang](/tools/nishang)
 - [njsscan](/tools/njsscan)
 - [nkiller2](/tools/nkiller2)
-- [nmap
-nmap](/tools/nmap
-nmap)
+- [nmap](/tools/nmap
 - [nmap-parse-output](/tools/nmap-parse-output)
 - [nmbscan](/tools/nmbscan)
 - [node-ar-drone](/tools/node-ar-drone)
@@ -2002,9 +1758,7 @@ nmap)
 - [obevilion](/tools/obevilion)
 - [obexftp](/tools/obexftp)
 - [obexstress](/tools/obexstress)
-- [obfs4proxy
-obfs4proxy](/tools/obfs4proxy
-obfs4proxy)
+- [obfs4proxy](/tools/obfs4proxy
 - [objdump2shellcode](/tools/objdump2shellcode)
 - [objection](/tools/objection)
 - [oclhashcat](/tools/oclhashcat)
@@ -2026,34 +1780,24 @@ obfs4proxy)
 - [oniongrok](/tools/oniongrok)
 - [onionscan](/tools/onionscan)
 - [onionsearch](/tools/onionsearch)
-- [onionshare
-onionshare](/tools/onionshare
-onionshare)
-- [open-iscsi
-open-iscsi](/tools/open-iscsi
-open-iscsi)
+- [onionshare](/tools/onionshare
+- [open-iscsi](/tools/open-iscsi
 - [opendoor](/tools/opendoor)
 - [openobex](/tools/openobex)
 - [openpuff](/tools/openpuff)
 - [openscap](/tools/openscap)
 - [openscap-debug](/tools/openscap-debug)
 - [openssh-askpass](/tools/openssh-askpass)
-- [openssl-1.0
-openssl-1.0](/tools/openssl-1.0
-openssl-1.0)
+- [openssl-1.0](/tools/openssl-1.0
 - [openstego](/tools/openstego)
 - [opensvp](/tools/opensvp)
 - [openvas-scanner](/tools/openvas-scanner)
 - [operative](/tools/operative)
-- [ophcrack
-ophcrack](/tools/ophcrack
-ophcrack)
+- [ophcrack](/tools/ophcrack
 - [orakelcrackert](/tools/orakelcrackert)
 - [orbited](/tools/orbited)
 - [origami](/tools/origami)
-- [orjail
-orjail](/tools/orjail
-orjail)
+- [orjail](/tools/orjail
 - [oscanner](/tools/oscanner)
 - [osert](/tools/osert)
 - [osfooler-ng](/tools/osfooler-ng)
@@ -2072,18 +1816,12 @@ orjail)
 - [owasp-bywaf](/tools/owasp-bywaf)
 - [owasp-zsc](/tools/owasp-zsc)
 - [owtf](/tools/owtf)
-- [p0f
-p0f](/tools/p0f
-p0f)
+- [p0f](/tools/p0f
 - [pack](/tools/pack)
-- [packer
-packer](/tools/packer
-packer)
+- [packer](/tools/packer
 - [packerid](/tools/packerid)
 - [packet-o-matic](/tools/packet-o-matic)
-- [packeth
-packeth](/tools/packeth
-packeth)
+- [packeth](/tools/packeth
 - [packetq](/tools/packetq)
 - [packetsender](/tools/packetsender)
 - [packit](/tools/packit)
@@ -2092,9 +1830,7 @@ packeth)
 - [padbuster](/tools/padbuster)
 - [pafish](/tools/pafish)
 - [pagodo](/tools/pagodo)
-- [paho-mqtt-c
-paho-mqtt-c](/tools/paho-mqtt-c
-paho-mqtt-c)
+- [paho-mqtt-c](/tools/paho-mqtt-c
 - [paketto](/tools/paketto)
 - [panhunt](/tools/panhunt)
 - [panoptic](/tools/panoptic)
@@ -2108,9 +1844,7 @@ paho-mqtt-c)
 - [paros](/tools/paros)
 - [parse-evtx](/tools/parse-evtx)
 - [parsero](/tools/parsero)
-- [paru
-paru](/tools/paru
-paru)
+- [paru](/tools/paru
 - [pasco](/tools/pasco)
 - [pass-station](/tools/pass-station)
 - [passcracking](/tools/passcracking)
@@ -2138,9 +1872,7 @@ paru)
 - [pdblaster](/tools/pdblaster)
 - [pdf-parser](/tools/pdf-parser)
 - [pdfbook-analyzer](/tools/pdfbook-analyzer)
-- [pdfcrack
-pdfcrack](/tools/pdfcrack
-pdfcrack)
+- [pdfcrack](/tools/pdfcrack
 - [pdfgrab](/tools/pdfgrab)
 - [pdfid](/tools/pdfid)
 - [pdfresurrect](/tools/pdfresurrect)
@@ -2151,9 +1883,7 @@ pdfcrack)
 - [peach](/tools/peach)
 - [peach-fuzz](/tools/peach-fuzz)
 - [peass](/tools/peass)
-- [peda
-peda](/tools/peda
-peda)
+- [peda](/tools/peda
 - [peepdf](/tools/peepdf)
 - [peepingtom](/tools/peepingtom)
 - [peframe](/tools/peframe)
@@ -2170,9 +1900,7 @@ peda)
 - [perl-algorithm-generatesequence](/tools/perl-algorithm-generatesequence)
 - [perl-algorithm-permute](/tools/perl-algorithm-permute)
 - [perl-alien-gmp](/tools/perl-alien-gmp)
-- [perl-bytes-random-secure
-perl-bytes-random-secure](/tools/perl-bytes-random-secure
-perl-bytes-random-secure)
+- [perl-bytes-random-secure](/tools/perl-bytes-random-secure
 - [perl-cache-lru](/tools/perl-cache-lru)
 - [perl-cisco-copyconfig](/tools/perl-cisco-copyconfig)
 - [perl-class-accessor-lite](/tools/perl-class-accessor-lite)
@@ -2182,9 +1910,7 @@ perl-bytes-random-secure)
 - [perl-color-output](/tools/perl-color-output)
 - [perl-convert-ascii-armour](/tools/perl-convert-ascii-armour)
 - [perl-convert-pem](/tools/perl-convert-pem)
-- [perl-cpan-meta
-perl-cpan-meta](/tools/perl-cpan-meta
-perl-cpan-meta)
+- [perl-cpan-meta](/tools/perl-cpan-meta
 - [perl-crypt-des_ede3](/tools/perl-crypt-des_ede3)
 - [perl-crypt-dh](/tools/perl-crypt-dh)
 - [perl-crypt-dsa](/tools/perl-crypt-dsa)
@@ -2213,9 +1939,7 @@ perl-cpan-meta)
 - [perl-http-dav](/tools/perl-http-dav)
 - [perl-http-parser-xs](/tools/perl-http-parser-xs)
 - [perl-http-request-common](/tools/perl-http-request-common)
-- [perl-image-exiftool
-perl-image-exiftool](/tools/perl-image-exiftool
-perl-image-exiftool)
+- [perl-image-exiftool](/tools/perl-image-exiftool
 - [perl-io-async](/tools/perl-io-async)
 - [perl-io-socket](/tools/perl-io-socket)
 - [perl-io-socket-ip](/tools/perl-io-socket-ip)
@@ -2267,9 +1991,7 @@ perl-image-exiftool)
 - [perl-string-hexconvert](/tools/perl-string-hexconvert)
 - [perl-string-random](/tools/perl-string-random)
 - [perl-struct-dumb](/tools/perl-struct-dumb)
-- [perl-task-weaken
-perl-task-weaken](/tools/perl-task-weaken
-perl-task-weaken)
+- [perl-task-weaken](/tools/perl-task-weaken
 - [perl-term-ansicolor](/tools/perl-term-ansicolor)
 - [perl-term-menu](/tools/perl-term-menu)
 - [perl-test-checkdeps](/tools/perl-test-checkdeps)
@@ -2278,12 +2000,8 @@ perl-task-weaken)
 - [perl-test-sharedfork](/tools/perl-test-sharedfork)
 - [perl-test-tcp](/tools/perl-test-tcp)
 - [perl-test-tester](/tools/perl-test-tester)
-- [perl-test-without-module
-perl-test-without-module](/tools/perl-test-without-module
-perl-test-without-module)
-- [perl-text-csv
-perl-text-csv](/tools/perl-text-csv
-perl-text-csv)
+- [perl-test-without-module](/tools/perl-test-without-module
+- [perl-text-csv](/tools/perl-text-csv
 - [perl-tftp](/tools/perl-tftp)
 - [perl-tie-encryptedhash](/tools/perl-tie-encryptedhash)
 - [perl-time-duration-parse](/tools/perl-time-duration-parse)
@@ -2295,9 +2013,7 @@ perl-text-csv)
 - [perl-url-encode](/tools/perl-url-encode)
 - [perl-www-lw2](/tools/perl-www-lw2)
 - [perl-xml-dom](/tools/perl-xml-dom)
-- [perl-yaml-libyaml
-perl-yaml-libyaml](/tools/perl-yaml-libyaml
-perl-yaml-libyaml)
+- [perl-yaml-libyaml](/tools/perl-yaml-libyaml
 - [petools](/tools/petools)
 - [pev](/tools/pev)
 - [pex](/tools/pex)
@@ -2342,9 +2058,7 @@ perl-yaml-libyaml)
 - [pirana](/tools/pirana)
 - [pivotsuite](/tools/pivotsuite)
 - [pixd](/tools/pixd)
-- [pixiewps
-pixiewps](/tools/pixiewps
-pixiewps)
+- [pixiewps](/tools/pixiewps
 - [pixload](/tools/pixload)
 - [pkcrack](/tools/pkcrack)
 - [pkgcheck-arch](/tools/pkgcheck-arch)
@@ -2363,9 +2077,7 @@ pixiewps)
 - [pmdump](/tools/pmdump)
 - [pngcheck](/tools/pngcheck)
 - [pnscan](/tools/pnscan)
-- [pocketsphinx
-pocketsphinx](/tools/pocketsphinx
-pocketsphinx)
+- [pocketsphinx](/tools/pocketsphinx
 - [pocsuite](/tools/pocsuite)
 - [poison](/tools/poison)
 - [polenum](/tools/polenum)
@@ -2411,19 +2123,13 @@ pocketsphinx)
 - [proxenet](/tools/proxenet)
 - [proxify](/tools/proxify)
 - [proxmark](/tools/proxmark)
-- [proxmark3
-proxmark3](/tools/proxmark3
-proxmark3)
+- [proxmark3](/tools/proxmark3
 - [proxybroker](/tools/proxybroker)
-- [proxychains-ng
-proxychains-ng](/tools/proxychains-ng
-proxychains-ng)
+- [proxychains-ng](/tools/proxychains-ng
 - [proxycheck](/tools/proxycheck)
 - [proxyp](/tools/proxyp)
 - [proxyscan](/tools/proxyscan)
-- [proxytunnel
-proxytunnel](/tools/proxytunnel
-proxytunnel)
+- [proxytunnel](/tools/proxytunnel
 - [ps1encode](/tools/ps1encode)
 - [pscan](/tools/pscan)
 - [pshitt](/tools/pshitt)
@@ -2431,9 +2137,7 @@ proxytunnel)
 - [pstoreview](/tools/pstoreview)
 - [ptf](/tools/ptf)
 - [pth-toolkit](/tools/pth-toolkit)
-- [ptunnel
-ptunnel](/tools/ptunnel
-ptunnel)
+- [ptunnel](/tools/ptunnel
 - [pulledpork](/tools/pulledpork)
 - [pulsar](/tools/pulsar)
 - [punk](/tools/punk)
@@ -2448,9 +2152,7 @@ ptunnel)
 - [pwnat](/tools/pwnat)
 - [pwncat](/tools/pwncat)
 - [pwncat-caleb](/tools/pwncat-caleb)
-- [pwndbg
-pwndbg](/tools/pwndbg
-pwndbg)
+- [pwndbg](/tools/pwndbg
 - [pwndora](/tools/pwndora)
 - [pwndrop](/tools/pwndrop)
 - [pwned](/tools/pwned)
@@ -2489,19 +2191,13 @@ pwndbg)
 - [python-aardwolf](/tools/python-aardwolf)
 - [python-aardwolf-debug](/tools/python-aardwolf-debug)
 - [python-about-time](/tools/python-about-time)
-- [python-adal
-python-adal](/tools/python-adal
-python-adal)
+- [python-adal](/tools/python-adal
 - [python-adblockparser](/tools/python-adblockparser)
-- [python-aenum
-python-aenum](/tools/python-aenum
-python-aenum)
+- [python-aenum](/tools/python-aenum
 - [python-aesedb](/tools/python-aesedb)
 - [python-ahocorasick](/tools/python-ahocorasick)
 - [python-ahocorasick-debug](/tools/python-ahocorasick-debug)
-- [python-ailment
-python-ailment](/tools/python-ailment
-python-ailment)
+- [python-ailment](/tools/python-ailment
 - [python-aiocache](/tools/python-aiocache)
 - [python-aiocmd](/tools/python-aiocmd)
 - [python-aiohttp-jinja2](/tools/python-aiohttp-jinja2)
@@ -2515,17 +2211,13 @@ python-ailment)
 - [python-alexa-top-sites](/tools/python-alexa-top-sites)
 - [python-alive-progress](/tools/python-alive-progress)
 - [python-antlerinator](/tools/python-antlerinator)
-- [python-anyascii
-python-anyascii](/tools/python-anyascii
-python-anyascii)
+- [python-anyascii](/tools/python-anyascii
 - [python-apache-log-parser](/tools/python-apache-log-parser)
 - [python-api-dnsdumpster](/tools/python-api-dnsdumpster)
 - [python-apng](/tools/python-apng)
 - [python-arabic-reshaper](/tools/python-arabic-reshaper)
 - [python-arc4](/tools/python-arc4)
-- [python-archinfo
-python-archinfo](/tools/python-archinfo
-python-archinfo)
+- [python-archinfo](/tools/python-archinfo
 - [python-archiveis](/tools/python-archiveis)
 - [python-arpreq](/tools/python-arpreq)
 - [python-arsenic](/tools/python-arsenic)
@@ -2553,9 +2245,7 @@ python-archinfo)
 - [python-azure-mgmt-sql](/tools/python-azure-mgmt-sql)
 - [python-azure-mgmt-storage](/tools/python-azure-mgmt-storage)
 - [python-azure-mgmt-web](/tools/python-azure-mgmt-web)
-- [python-backcall
-python-backcall](/tools/python-backcall
-python-backcall)
+- [python-backcall](/tools/python-backcall
 - [python-backoff](/tools/python-backoff)
 - [python-backports-lzma](/tools/python-backports-lzma)
 - [python-backports.shutil-get-terminal-size](/tools/python-backports.shutil-get-terminal-size)
@@ -2564,23 +2254,15 @@ python-backcall)
 - [python-beautifultable](/tools/python-beautifultable)
 - [python-bencode](/tools/python-bencode)
 - [python-bencode.py](/tools/python-bencode.py)
-- [python-bidict
-python-bidict](/tools/python-bidict
-python-bidict)
-- [python-binaryornot
-python-binaryornot](/tools/python-binaryornot
-python-binaryornot)
+- [python-bidict](/tools/python-bidict
+- [python-binaryornot](/tools/python-binaryornot
 - [python-binplist](/tools/python-binplist)
 - [python-biplist](/tools/python-biplist)
 - [python-bitarray](/tools/python-bitarray)
 - [python-bitarray-debug](/tools/python-bitarray-debug)
-- [python-bitstring
-python-bitstring](/tools/python-bitstring
-python-bitstring)
+- [python-bitstring](/tools/python-bitstring
 - [python-bitstruct](/tools/python-bitstruct)
-- [python-blis
-python-blis](/tools/python-blis
-python-blis)
+- [python-blis](/tools/python-blis
 - [python-booby-ng](/tools/python-booby-ng)
 - [python-boofuzz](/tools/python-boofuzz)
 - [python-branca](/tools/python-branca)
@@ -2590,39 +2272,25 @@ python-blis)
 - [python-bson](/tools/python-bson)
 - [python-build-utils](/tools/python-build-utils)
 - [python-builtwith](/tools/python-builtwith)
-- [python-can
-python-can](/tools/python-can
-python-can)
-- [python-capstone
-python-capstone](/tools/python-capstone
-python-capstone)
-- [python-catalogue
-python-catalogue](/tools/python-catalogue
-python-catalogue)
+- [python-can](/tools/python-can
+- [python-capstone](/tools/python-capstone
+- [python-catalogue](/tools/python-catalogue
 - [python-ccrawl](/tools/python-ccrawl)
 - [python-cement](/tools/python-cement)
 - [python-censys](/tools/python-censys)
 - [python-cfscrape](/tools/python-cfscrape)
 - [python-checksumdir](/tools/python-checksumdir)
-- [python-cheetah3
-python-cheetah3](/tools/python-cheetah3
-python-cheetah3)
+- [python-cheetah3](/tools/python-cheetah3
 - [python-chepy](/tools/python-chepy)
 - [python-cherrypy-cors](/tools/python-cherrypy-cors)
 - [python-chromedriver-autoinstaller](/tools/python-chromedriver-autoinstaller)
 - [python-clamd](/tools/python-clamd)
-- [python-claripy
-python-claripy](/tools/python-claripy
-python-claripy)
-- [python-cle
-python-cle](/tools/python-cle
-python-cle)
+- [python-claripy](/tools/python-claripy
+- [python-cle](/tools/python-cle
 - [python-clearbit](/tools/python-clearbit)
 - [python-cli-helpers](/tools/python-cli-helpers)
 - [python-click-config-file](/tools/python-click-config-file)
-- [python-click-option-group
-python-click-option-group](/tools/python-click-option-group
-python-click-option-group)
+- [python-click-option-group](/tools/python-click-option-group
 - [python-click-shell](/tools/python-click-shell)
 - [python-cloudscraper](/tools/python-cloudscraper)
 - [python-cluster](/tools/python-cluster)
@@ -2630,9 +2298,7 @@ python-click-option-group)
 - [python-codecov](/tools/python-codecov)
 - [python-coding](/tools/python-coding)
 - [python-colored](/tools/python-colored)
-- [python-coloredlogs
-python-coloredlogs](/tools/python-coloredlogs
-python-coloredlogs)
+- [python-coloredlogs](/tools/python-coloredlogs
 - [python-colorizer](/tools/python-colorizer)
 - [python-columnar](/tools/python-columnar)
 - [python-commandparse](/tools/python-commandparse)
@@ -2641,9 +2307,7 @@ python-coloredlogs)
 - [python-connexion](/tools/python-connexion)
 - [python-console-menu](/tools/python-console-menu)
 - [python-consolemd](/tools/python-consolemd)
-- [python-cookiecutter
-python-cookiecutter](/tools/python-cookiecutter
-python-cookiecutter)
+- [python-cookiecutter](/tools/python-cookiecutter
 - [python-couchdb](/tools/python-couchdb)
 - [python-coveralls](/tools/python-coveralls)
 - [python-cowpy](/tools/python-cowpy)
@@ -2653,24 +2317,18 @@ python-cookiecutter)
 - [python-crc16](/tools/python-crc16)
 - [python-crccheck](/tools/python-crccheck)
 - [python-crcelk](/tools/python-crcelk)
-- [python-crcmod
-python-crcmod](/tools/python-crcmod
-python-crcmod)
+- [python-crcmod](/tools/python-crcmod
 - [python-crochet](/tools/python-crochet)
 - [python-crysp](/tools/python-crysp)
 - [python-crytic-compile](/tools/python-crytic-compile)
-- [python-cssutils
-python-cssutils](/tools/python-cssutils
-python-cssutils)
+- [python-cssutils](/tools/python-cssutils
 - [python-cursor](/tools/python-cursor)
 - [python-cx_oracle](/tools/python-cx_oracle)
 - [python-cxxfilt](/tools/python-cxxfilt)
 - [python-cybox](/tools/python-cybox)
 - [python-cymon](/tools/python-cymon)
 - [python-cymruwhois](/tools/python-cymruwhois)
-- [python-dataclasses
-python-dataclasses](/tools/python-dataclasses
-python-dataclasses)
+- [python-dataclasses](/tools/python-dataclasses
 - [python-dataset](/tools/python-dataset)
 - [python-dateparser](/tools/python-dateparser)
 - [python-defang](/tools/python-defang)
@@ -2681,18 +2339,14 @@ python-dataclasses)
 - [python-dfvfs](/tools/python-dfvfs)
 - [python-dfwinreg](/tools/python-dfwinreg)
 - [python-dhcplib](/tools/python-dhcplib)
-- [python-dict2xml
-python-dict2xml](/tools/python-dict2xml
-python-dict2xml)
+- [python-dict2xml](/tools/python-dict2xml
 - [python-dicttoxml](/tools/python-dicttoxml)
 - [python-dis3](/tools/python-dis3)
 - [python-discord-webhook](/tools/python-discord-webhook)
 - [python-diskcache](/tools/python-diskcache)
 - [python-django-nose](/tools/python-django-nose)
 - [python-django-tables2](/tools/python-django-tables2)
-- [python-dlib
-python-dlib](/tools/python-dlib
-python-dlib)
+- [python-dlib](/tools/python-dlib
 - [python-dnsimple](/tools/python-dnsimple)
 - [python-dnsknife](/tools/python-dnsknife)
 - [python-doc2dash](/tools/python-doc2dash)
@@ -2701,27 +2355,21 @@ python-dlib)
 - [python-docx2python](/tools/python-docx2python)
 - [python-docx2txt](/tools/python-docx2txt)
 - [python-dpath](/tools/python-dpath)
-- [python-dpkt
-python-dpkt](/tools/python-dpkt
-python-dpkt)
+- [python-dpkt](/tools/python-dpkt
 - [python-ds-store](/tools/python-ds-store)
 - [python-dsinternals](/tools/python-dsinternals)
 - [python-dsnap](/tools/python-dsnap)
 - [python-dtfabric](/tools/python-dtfabric)
 - [python-dukpy](/tools/python-dukpy)
 - [python-easyinject](/tools/python-easyinject)
-- [python-easyprocess
-python-easyprocess](/tools/python-easyprocess
-python-easyprocess)
+- [python-easyprocess](/tools/python-easyprocess
 - [python-ebooklib](/tools/python-ebooklib)
 - [python-efilter](/tools/python-efilter)
 - [python-egcd](/tools/python-egcd)
 - [python-elfesteem](/tools/python-elfesteem)
 - [python-elixir](/tools/python-elixir)
 - [python-emailprotectionslib](/tools/python-emailprotectionslib)
-- [python-emoji
-python-emoji](/tools/python-emoji
-python-emoji)
+- [python-emoji](/tools/python-emoji
 - [python-enaml](/tools/python-enaml)
 - [python-enhancements](/tools/python-enhancements)
 - [python-enlighten](/tools/python-enlighten)
@@ -2733,9 +2381,7 @@ python-emoji)
 - [python-eth-utils](/tools/python-eth-utils)
 - [python-event-bus](/tools/python-event-bus)
 - [python-exif](/tools/python-exif)
-- [python-exifread
-python-exifread](/tools/python-exifread
-python-exifread)
+- [python-exifread](/tools/python-exifread
 - [python-exiv2](/tools/python-exiv2)
 - [python-exscript](/tools/python-exscript)
 - [python-face-recognition](/tools/python-face-recognition)
@@ -2752,9 +2398,7 @@ python-exifread)
 - [python-filemagic](/tools/python-filemagic)
 - [python-filequeue](/tools/python-filequeue)
 - [python-filteralchemy-fork](/tools/python-filteralchemy-fork)
-- [python-fire
-python-fire](/tools/python-fire
-python-fire)
+- [python-fire](/tools/python-fire
 - [python-flake8-debugger](/tools/python-flake8-debugger)
 - [python-flake8-per-file-ignores](/tools/python-flake8-per-file-ignores)
 - [python-flask-api](/tools/python-flask-api)
@@ -2763,12 +2407,8 @@ python-fire)
 - [python-flask-bcrypt](/tools/python-flask-bcrypt)
 - [python-flask-classful](/tools/python-flask-classful)
 - [python-flask-classy](/tools/python-flask-classy)
-- [python-flask-cors
-python-flask-cors](/tools/python-flask-cors
-python-flask-cors)
-- [python-flask-httpauth
-python-flask-httpauth](/tools/python-flask-httpauth
-python-flask-httpauth)
+- [python-flask-cors](/tools/python-flask-cors
+- [python-flask-httpauth](/tools/python-flask-httpauth
 - [python-flask-jwt-extended](/tools/python-flask-jwt-extended)
 - [python-flask-kvsession-fork](/tools/python-flask-kvsession-fork)
 - [python-flask-mongoengine](/tools/python-flask-mongoengine)
@@ -2777,9 +2417,7 @@ python-flask-httpauth)
 - [python-flask-restless](/tools/python-flask-restless)
 - [python-flask-restplus](/tools/python-flask-restplus)
 - [python-flask-session](/tools/python-flask-session)
-- [python-flask-socketio
-python-flask-socketio](/tools/python-flask-socketio
-python-flask-socketio)
+- [python-flask-socketio](/tools/python-flask-socketio
 - [python-flask-whooshalchemy-redux](/tools/python-flask-whooshalchemy-redux)
 - [python-flatbencode](/tools/python-flatbencode)
 - [python-flipflop](/tools/python-flipflop)
@@ -2801,9 +2439,7 @@ python-flask-socketio)
 - [python-gitignore-parser](/tools/python-gitignore-parser)
 - [python-gnureadline](/tools/python-gnureadline)
 - [python-google](/tools/python-google)
-- [python-google-api-core
-python-google-api-core](/tools/python-google-api-core
-python-google-api-core)
+- [python-google-api-core](/tools/python-google-api-core
 - [python-google-cloud-container](/tools/python-google-cloud-container)
 - [python-google-cloud-core](/tools/python-google-cloud-core)
 - [python-google-cloud-iam](/tools/python-google-cloud-iam)
@@ -2815,9 +2451,7 @@ python-google-api-core)
 - [python-google-resumable-media](/tools/python-google-resumable-media)
 - [python-google-search-api](/tools/python-google-search-api)
 - [python-google-streetview](/tools/python-google-streetview)
-- [python-googleapis-common-protos
-python-googleapis-common-protos](/tools/python-googleapis-common-protos
-python-googleapis-common-protos)
+- [python-googleapis-common-protos](/tools/python-googleapis-common-protos
 - [python-googletransx](/tools/python-googletransx)
 - [python-gps](/tools/python-gps)
 - [python-gpsoauth](/tools/python-gpsoauth)
@@ -2827,9 +2461,7 @@ python-googleapis-common-protos)
 - [python-graphillion](/tools/python-graphillion)
 - [python-greenery](/tools/python-greenery)
 - [python-guess-language](/tools/python-guess-language)
-- [python-halo
-python-halo](/tools/python-halo
-python-halo)
+- [python-halo](/tools/python-halo
 - [python-hammertime-http](/tools/python-hammertime-http)
 - [python-hashid](/tools/python-hashid)
 - [python-helpers](/tools/python-helpers)
@@ -2845,29 +2477,19 @@ python-halo)
 - [python-httpagentparser](/tools/python-httpagentparser)
 - [python-httpcap](/tools/python-httpcap)
 - [python-httpreplay](/tools/python-httpreplay)
-- [python-httpx-socks
-python-httpx-socks](/tools/python-httpx-socks
-python-httpx-socks)
+- [python-httpx-socks](/tools/python-httpx-socks
 - [python-huepy](/tools/python-huepy)
-- [python-humanfriendly
-python-humanfriendly](/tools/python-humanfriendly
-python-humanfriendly)
+- [python-humanfriendly](/tools/python-humanfriendly
 - [python-hurry-filesize](/tools/python-hurry-filesize)
 - [python-hyper](/tools/python-hyper)
 - [python-iampoliciesgonewild](/tools/python-iampoliciesgonewild)
 - [python-icmplib](/tools/python-icmplib)
 - [python-idalink](/tools/python-idalink)
 - [python-imagehash](/tools/python-imagehash)
-- [python-imageio
-python-imageio](/tools/python-imageio
-python-imageio)
-- [python-imageio-ffmpeg
-python-imageio-ffmpeg](/tools/python-imageio-ffmpeg
-python-imageio-ffmpeg)
+- [python-imageio](/tools/python-imageio
+- [python-imageio-ffmpeg](/tools/python-imageio-ffmpeg
 - [python-imgcat](/tools/python-imgcat)
-- [python-inflect
-python-inflect](/tools/python-inflect
-python-inflect)
+- [python-inflect](/tools/python-inflect
 - [python-iniparse](/tools/python-iniparse)
 - [python-inquirer](/tools/python-inquirer)
 - [python-inspect2](/tools/python-inspect2)
@@ -2885,30 +2507,18 @@ python-inflect)
 - [python-isc_dhcp_leases](/tools/python-isc_dhcp_leases)
 - [python-ishell](/tools/python-ishell)
 - [python-iso3166](/tools/python-iso3166)
-- [python-itanium-demangler
-python-itanium-demangler](/tools/python-itanium-demangler
-python-itanium-demangler)
+- [python-itanium-demangler](/tools/python-itanium-demangler
 - [python-ivre](/tools/python-ivre)
-- [python-j2cli
-python-j2cli](/tools/python-j2cli
-python-j2cli)
+- [python-j2cli](/tools/python-j2cli
 - [python-javalang](/tools/python-javalang)
-- [python-jinja-time
-python-jinja-time](/tools/python-jinja-time
-python-jinja-time)
+- [python-jinja-time](/tools/python-jinja-time
 - [python-jproperties](/tools/python-jproperties)
-- [python-jsbeautifier
-python-jsbeautifier](/tools/python-jsbeautifier
-python-jsbeautifier)
-- [python-jschema-to-python
-python-jschema-to-python](/tools/python-jschema-to-python
-python-jschema-to-python)
+- [python-jsbeautifier](/tools/python-jsbeautifier
+- [python-jschema-to-python](/tools/python-jschema-to-python
 - [python-jsmin](/tools/python-jsmin)
 - [python-json2html](/tools/python-json2html)
 - [python-jsonpath-rw](/tools/python-jsonpath-rw)
-- [python-jwcrypto
-python-jwcrypto](/tools/python-jwcrypto
-python-jwcrypto)
+- [python-jwcrypto](/tools/python-jwcrypto
 - [python-keyboard](/tools/python-keyboard)
 - [python-keylogger](/tools/python-keylogger)
 - [python-kill](/tools/python-kill)
@@ -2948,14 +2558,10 @@ python-jwcrypto)
 - [python-libvmi](/tools/python-libvmi)
 - [python-libvshadow-python](/tools/python-libvshadow-python)
 - [python-libvslvm-python](/tools/python-libvslvm-python)
-- [python-limits
-python-limits](/tools/python-limits
-python-limits)
+- [python-limits](/tools/python-limits
 - [python-litecli](/tools/python-litecli)
 - [python-lml](/tools/python-lml)
-- [python-loguru
-python-loguru](/tools/python-loguru
-python-loguru)
+- [python-loguru](/tools/python-loguru
 - [python-lsassy](/tools/python-lsassy)
 - [python-luhn](/tools/python-luhn)
 - [python-mac-alias](/tools/python-mac-alias)
@@ -2969,55 +2575,39 @@ python-loguru)
 - [python-mido](/tools/python-mido)
 - [python-minikerberos](/tools/python-minikerberos)
 - [python-mispy](/tools/python-mispy)
-- [python-mistune1
-python-mistune1](/tools/python-mistune1
-python-mistune1)
+- [python-mistune1](/tools/python-mistune1
 - [python-mixbox](/tools/python-mixbox)
 - [python-mmbot](/tools/python-mmbot)
 - [python-mmh3](/tools/python-mmh3)
 - [python-modbus-tk](/tools/python-modbus-tk)
-- [python-moviepy
-python-moviepy](/tools/python-moviepy
-python-moviepy)
+- [python-moviepy](/tools/python-moviepy
 - [python-mr.bob](/tools/python-mr.bob)
 - [python-msal](/tools/python-msal)
 - [python-msldap](/tools/python-msldap)
 - [python-msoffcrypto-tool](/tools/python-msoffcrypto-tool)
 - [python-msrest](/tools/python-msrest)
 - [python-msrestazure](/tools/python-msrestazure)
-- [python-mss
-python-mss](/tools/python-mss
-python-mss)
+- [python-mss](/tools/python-mss
 - [python-multipartposthandler](/tools/python-multipartposthandler)
 - [python-munge](/tools/python-munge)
-- [python-murmurhash
-python-murmurhash](/tools/python-murmurhash
-python-murmurhash)
+- [python-murmurhash](/tools/python-murmurhash
 - [python-name-that-hash](/tools/python-name-that-hash)
 - [python-names](/tools/python-names)
-- [python-nampa
-python-nampa](/tools/python-nampa
-python-nampa)
+- [python-nampa](/tools/python-nampa
 - [python-nassl](/tools/python-nassl)
 - [python-nassl-debug](/tools/python-nassl-debug)
 - [python-neo4j-driver](/tools/python-neo4j-driver)
 - [python-neobolt](/tools/python-neobolt)
 - [python-neotime](/tools/python-neotime)
-- [python-nest-asyncio
-python-nest-asyncio](/tools/python-nest-asyncio
-python-nest-asyncio)
+- [python-nest-asyncio](/tools/python-nest-asyncio
 - [python-normality](/tools/python-normality)
 - [python-notifiers](/tools/python-notifiers)
-- [python-notify2
-python-notify2](/tools/python-notify2
-python-notify2)
+- [python-notify2](/tools/python-notify2
 - [python-nplusone](/tools/python-nplusone)
 - [python-ntplib](/tools/python-ntplib)
 - [python-nyawc](/tools/python-nyawc)
 - [python-oauth2](/tools/python-oauth2)
-- [python-odfpy
-python-odfpy](/tools/python-odfpy
-python-odfpy)
+- [python-odfpy](/tools/python-odfpy
 - [python-odict](/tools/python-odict)
 - [python-oletools](/tools/python-oletools)
 - [python-omitempty](/tools/python-omitempty)
@@ -3045,46 +2635,32 @@ python-odfpy)
 - [python-pgcli](/tools/python-pgcli)
 - [python-pgpdump](/tools/python-pgpdump)
 - [python-pgrep](/tools/python-pgrep)
-- [python-pgspecial
-python-pgspecial](/tools/python-pgspecial
-python-pgspecial)
+- [python-pgspecial](/tools/python-pgspecial
 - [python-phply](/tools/python-phply)
 - [python-pick](/tools/python-pick)
 - [python-pika](/tools/python-pika)
 - [python-pillow6](/tools/python-pillow6)
 - [python-piplapis-python](/tools/python-piplapis-python)
 - [python-pixelmatch](/tools/python-pixelmatch)
-- [python-plac
-python-plac](/tools/python-plac
-python-plac)
+- [python-plac](/tools/python-plac
 - [python-plaso](/tools/python-plaso)
 - [python-play-scraper](/tools/python-play-scraper)
 - [python-playwright](/tools/python-playwright)
 - [python-playwright-debug](/tools/python-playwright-debug)
 - [python-plotly](/tools/python-plotly)
-- [python-pluginbase
-python-pluginbase](/tools/python-pluginbase
-python-pluginbase)
+- [python-pluginbase](/tools/python-pluginbase
 - [python-plugnplay](/tools/python-plugnplay)
 - [python-plum-py](/tools/python-plum-py)
-- [python-plumbum
-python-plumbum](/tools/python-plumbum
-python-plumbum)
+- [python-plumbum](/tools/python-plumbum
 - [python-pmw](/tools/python-pmw)
 - [python-polyswarm-artifact](/tools/python-polyswarm-artifact)
 - [python-poormanslogging](/tools/python-poormanslogging)
 - [python-port-for](/tools/python-port-for)
-- [python-poyo
-python-poyo](/tools/python-poyo
-python-poyo)
+- [python-poyo](/tools/python-poyo
 - [python-ppdeep](/tools/python-ppdeep)
 - [python-prefixed](/tools/python-prefixed)
-- [python-preshed
-python-preshed](/tools/python-preshed
-python-preshed)
-- [python-proglog
-python-proglog](/tools/python-proglog
-python-proglog)
+- [python-preshed](/tools/python-preshed
+- [python-proglog](/tools/python-proglog
 - [python-property](/tools/python-property)
 - [python-prospector](/tools/python-prospector)
 - [python-proxy-db](/tools/python-proxy-db)
@@ -3092,16 +2668,10 @@ python-proglog)
 - [python-psrpcore](/tools/python-psrpcore)
 - [python-ptable-boxchar](/tools/python-ptable-boxchar)
 - [python-ptp](/tools/python-ptp)
-- [python-ptrace
-python-ptrace](/tools/python-ptrace
-python-ptrace)
-- [python-publicsuffix
-python-publicsuffix](/tools/python-publicsuffix
-python-publicsuffix)
+- [python-ptrace](/tools/python-ptrace
+- [python-publicsuffix](/tools/python-publicsuffix
 - [python-publicsuffixlist](/tools/python-publicsuffixlist)
-- [python-puremagic
-python-puremagic](/tools/python-puremagic
-python-puremagic)
+- [python-puremagic](/tools/python-puremagic
 - [python-puttykeys](/tools/python-puttykeys)
 - [python-py-radix](/tools/python-py-radix)
 - [python-py-zabbix](/tools/python-py-zabbix)
@@ -3109,9 +2679,7 @@ python-puremagic)
 - [python-py2neo](/tools/python-py2neo)
 - [python-py3270](/tools/python-py3270)
 - [python-py3dns](/tools/python-py3dns)
-- [python-pyasn
-python-pyasn](/tools/python-pyasn
-python-pyasn)
+- [python-pyasn](/tools/python-pyasn
 - [python-pyattck](/tools/python-pyattck)
 - [python-pyautogui](/tools/python-pyautogui)
 - [python-pybase64](/tools/python-pybase64)
@@ -3125,9 +2693,7 @@ python-pyasn)
 - [python-pydivert](/tools/python-pydivert)
 - [python-pydnet](/tools/python-pydnet)
 - [python-pydotplus](/tools/python-pydotplus)
-- [python-pyee
-python-pyee](/tools/python-pyee
-python-pyee)
+- [python-pyee](/tools/python-pyee
 - [python-pyevmasm](/tools/python-pyevmasm)
 - [python-pyexcel](/tools/python-pyexcel)
 - [python-pyexcel-io](/tools/python-pyexcel-io)
@@ -3165,17 +2731,13 @@ python-pyee)
 - [python-pymssql](/tools/python-pymssql)
 - [python-pymsteams](/tools/python-pymsteams)
 - [python-pyngrok](/tools/python-pyngrok)
-- [python-pynput
-python-pynput](/tools/python-pynput
-python-pynput)
+- [python-pynput](/tools/python-pynput
 - [python-pyodbc](/tools/python-pyodbc)
 - [python-pyof](/tools/python-pyof)
 - [python-pypacker](/tools/python-pypacker)
 - [python-pypcap](/tools/python-pypcap)
 - [python-pypdf](/tools/python-pypdf)
-- [python-pypdf2
-python-pypdf2](/tools/python-pypdf2
-python-pypdf2)
+- [python-pypdf2](/tools/python-pypdf2
 - [python-pypdns](/tools/python-pypdns)
 - [python-pype32](/tools/python-pype32)
 - [python-pypermacc](/tools/python-pypermacc)
@@ -3185,9 +2747,7 @@ python-pypdf2)
 - [python-pypsrp](/tools/python-pypsrp)
 - [python-pypssl](/tools/python-pypssl)
 - [python-pyptlib](/tools/python-pyptlib)
-- [python-pypugjs
-python-pypugjs](/tools/python-pypugjs
-python-pypugjs)
+- [python-pypugjs](/tools/python-pypugjs
 - [python-pypykatz](/tools/python-pypykatz)
 - [python-pyqodeng-core](/tools/python-pyqodeng-core)
 - [python-pyqt4](/tools/python-pyqt4)
@@ -3201,17 +2761,13 @@ python-pypugjs)
 - [python-pyside-common](/tools/python-pyside-common)
 - [python-pysigset](/tools/python-pysigset)
 - [python-pysmb](/tools/python-pysmb)
-- [python-pysmt
-python-pysmt](/tools/python-pysmt
-python-pysmt)
+- [python-pysmt](/tools/python-pysmt
 - [python-pyspf](/tools/python-pyspf)
 - [python-pysqlite3](/tools/python-pysqlite3)
 - [python-pystrich](/tools/python-pystrich)
 - [python-pyswf](/tools/python-pyswf)
 - [python-pytanque](/tools/python-pytanque)
-- [python-pytesseract
-python-pytesseract](/tools/python-pytesseract
-python-pytesseract)
+- [python-pytesseract](/tools/python-pytesseract
 - [python-python-bidi](/tools/python-python-bidi)
 - [python-python-cli-ui](/tools/python-python-cli-ui)
 - [python-python-crontab](/tools/python-python-crontab)
@@ -3237,9 +2793,7 @@ python-pytesseract)
 - [python-python-pytun](/tools/python-python-pytun)
 - [python-python-registry](/tools/python-python-registry)
 - [python-python-rle](/tools/python-python-rle)
-- [python-python-socks
-python-python-socks](/tools/python-python-socks
-python-python-socks)
+- [python-python-socks](/tools/python-python-socks
 - [python-python-symmetric-jsonrpc](/tools/python-python-symmetric-jsonrpc)
 - [python-python-wappalyzer](/tools/python-python-wappalyzer)
 - [python-python-whois](/tools/python-python-whois)
@@ -3250,13 +2804,9 @@ python-python-socks)
 - [python-pytsk3](/tools/python-pytsk3)
 - [python-pyttsx](/tools/python-pyttsx)
 - [python-pyuv](/tools/python-pyuv)
-- [python-pyvex
-python-pyvex](/tools/python-pyvex
-python-pyvex)
+- [python-pyvex](/tools/python-pyvex
 - [python-pyvex-debug](/tools/python-pyvex-debug)
-- [python-pyvirtualdisplay
-python-pyvirtualdisplay](/tools/python-pyvirtualdisplay
-python-pyvirtualdisplay)
+- [python-pyvirtualdisplay](/tools/python-pyvirtualdisplay
 - [python-pyvis](/tools/python-pyvis)
 - [python-pyvit](/tools/python-pyvit)
 - [python-pywavelets](/tools/python-pywavelets)
@@ -3265,36 +2815,24 @@ python-pyvirtualdisplay)
 - [python-pywerview](/tools/python-pywerview)
 - [python-pywhois](/tools/python-pywhois)
 - [python-pyxcute](/tools/python-pyxcute)
-- [python-qdarkstyle
-python-qdarkstyle](/tools/python-qdarkstyle
-python-qdarkstyle)
+- [python-qdarkstyle](/tools/python-qdarkstyle
 - [python-qscintilla-qt4](/tools/python-qscintilla-qt4)
 - [python-qscintilla-qt4-common](/tools/python-qscintilla-qt4-common)
 - [python-qt4reactor](/tools/python-qt4reactor)
 - [python-questionary](/tools/python-questionary)
-- [python-r2pipe
-python-r2pipe](/tools/python-r2pipe
-python-r2pipe)
+- [python-r2pipe](/tools/python-r2pipe
 - [python-rangeparser](/tools/python-rangeparser)
-- [python-rarfile
-python-rarfile](/tools/python-rarfile
-python-rarfile)
+- [python-rarfile](/tools/python-rarfile
 - [python-rdap](/tools/python-rdap)
 - [python-rdpy](/tools/python-rdpy)
-- [python-readability-lxml
-python-readability-lxml](/tools/python-readability-lxml
-python-readability-lxml)
+- [python-readability-lxml](/tools/python-readability-lxml
 - [python-readchar](/tools/python-readchar)
 - [python-relatime](/tools/python-relatime)
 - [python-request](/tools/python-request)
 - [python-requests-cache](/tools/python-requests-cache)
-- [python-requests-futures
-python-requests-futures](/tools/python-requests-futures
-python-requests-futures)
+- [python-requests-futures](/tools/python-requests-futures
 - [python-requests-html](/tools/python-requests-html)
-- [python-requests-unixsocket
-python-requests-unixsocket](/tools/python-requests-unixsocket
-python-requests-unixsocket)
+- [python-requests-unixsocket](/tools/python-requests-unixsocket
 - [python-requirements-parser](/tools/python-requirements-parser)
 - [python-requirementslib](/tools/python-requirementslib)
 - [python-restkit](/tools/python-restkit)
@@ -3307,15 +2845,11 @@ python-requests-unixsocket)
 - [python-ropper](/tools/python-ropper)
 - [python-rpi-gpio](/tools/python-rpi-gpio)
 - [python-rpio](/tools/python-rpio)
-- [python-rq
-python-rq](/tools/python-rq
-python-rq)
+- [python-rq](/tools/python-rq
 - [python-rule](/tools/python-rule)
 - [python-safedexml](/tools/python-safedexml)
 - [python-safeurl](/tools/python-safeurl)
-- [python-sarif-om
-python-sarif-om](/tools/python-sarif-om
-python-sarif-om)
+- [python-sarif-om](/tools/python-sarif-om
 - [python-scandir](/tools/python-scandir)
 - [python-scapy-http](/tools/python-scapy-http)
 - [python-schedule](/tools/python-schedule)
@@ -3332,15 +2866,11 @@ python-sarif-om)
 - [python-semgrep](/tools/python-semgrep)
 - [python-sfalearn](/tools/python-sfalearn)
 - [python-sflock](/tools/python-sflock)
-- [python-sgmllib3k
-python-sgmllib3k](/tools/python-sgmllib3k
-python-sgmllib3k)
+- [python-sgmllib3k](/tools/python-sgmllib3k
 - [python-sha3](/tools/python-sha3)
 - [python-shelljob](/tools/python-shelljob)
 - [python-shiboken](/tools/python-shiboken)
-- [python-shodan
-python-shodan](/tools/python-shodan
-python-shodan)
+- [python-shodan](/tools/python-shodan
 - [python-simhash](/tools/python-simhash)
 - [python-simple-requests](/tools/python-simple-requests)
 - [python-simple-term-menu](/tools/python-simple-term-menu)
@@ -3361,9 +2891,7 @@ python-shodan)
 - [python-spacy](/tools/python-spacy)
 - [python-spark-parser](/tools/python-spark-parser)
 - [python-speechrecognition](/tools/python-speechrecognition)
-- [python-sphinx-autobuild
-python-sphinx-autobuild](/tools/python-sphinx-autobuild
-python-sphinx-autobuild)
+- [python-sphinx-autobuild](/tools/python-sphinx-autobuild
 - [python-sphinxcontrib-httpdomain](/tools/python-sphinxcontrib-httpdomain)
 - [python-sphinxcontrib-websupport](/tools/python-sphinxcontrib-websupport)
 - [python-splinter](/tools/python-splinter)
@@ -3373,9 +2901,7 @@ python-sphinx-autobuild)
 - [python-sqlalchemy-mixins](/tools/python-sqlalchemy-mixins)
 - [python-sqlalchemy-utc](/tools/python-sqlalchemy-utc)
 - [python-sqlalchemy_schemadisplay](/tools/python-sqlalchemy_schemadisplay)
-- [python-srsly
-python-srsly](/tools/python-srsly
-python-srsly)
+- [python-srsly](/tools/python-srsly
 - [python-ssdeep](/tools/python-ssdeep)
 - [python-ssh-mitm](/tools/python-ssh-mitm)
 - [python-statsd](/tools/python-statsd)
@@ -3404,9 +2930,7 @@ python-srsly)
 - [python-terminable-thread](/tools/python-terminable-thread)
 - [python-textblob](/tools/python-textblob)
 - [python-textract](/tools/python-textract)
-- [python-thinc
-python-thinc](/tools/python-thinc
-python-thinc)
+- [python-thinc](/tools/python-thinc
 - [python-thinc-debug](/tools/python-thinc-debug)
 - [python-threatcrowd](/tools/python-threatcrowd)
 - [python-timeout-decorator](/tools/python-timeout-decorator)
@@ -3414,9 +2938,7 @@ python-thinc)
 - [python-tinyec](/tools/python-tinyec)
 - [python-tls-parser](/tools/python-tls-parser)
 - [python-tlslite-ng](/tools/python-tlslite-ng)
-- [python-tokenize-rt
-python-tokenize-rt](/tools/python-tokenize-rt
-python-tokenize-rt)
+- [python-tokenize-rt](/tools/python-tokenize-rt
 - [python-torf](/tools/python-torf)
 - [python-torrequest](/tools/python-torrequest)
 - [python-tracer](/tools/python-tracer)
@@ -3442,9 +2964,7 @@ python-tokenize-rt)
 - [python-utidylib](/tools/python-utidylib)
 - [python-uvicorn](/tools/python-uvicorn)
 - [python-validator-collection](/tools/python-validator-collection)
-- [python-validators
-python-validators](/tools/python-validators
-python-validators)
+- [python-validators](/tools/python-validators
 - [python-validictory](/tools/python-validictory)
 - [python-values](/tools/python-values)
 - [python-verboselogs](/tools/python-verboselogs)
@@ -3456,24 +2976,16 @@ python-validators)
 - [python-vulners](/tools/python-vulners)
 - [python-w3af-api-client](/tools/python-w3af-api-client)
 - [python-wakeonlan](/tools/python-wakeonlan)
-- [python-wasabi
-python-wasabi](/tools/python-wasabi
-python-wasabi)
+- [python-wasabi](/tools/python-wasabi
 - [python-wasm](/tools/python-wasm)
 - [python-wayback](/tools/python-wayback)
 - [python-weakrefmethod](/tools/python-weakrefmethod)
-- [python-webargs
-python-webargs](/tools/python-webargs
-python-webargs)
+- [python-webargs](/tools/python-webargs
 - [python-webdriver-manager](/tools/python-webdriver-manager)
 - [python-wget](/tools/python-wget)
-- [python-whichcraft
-python-whichcraft](/tools/python-whichcraft
-python-whichcraft)
+- [python-whichcraft](/tools/python-whichcraft
 - [python-whois](/tools/python-whois)
-- [python-wikipedia
-python-wikipedia](/tools/python-wikipedia
-python-wikipedia)
+- [python-wikipedia](/tools/python-wikipedia
 - [python-win_inet_pton](/tools/python-win_inet_pton)
 - [python-winacl](/tools/python-winacl)
 - [python-wincertstore](/tools/python-wincertstore)
@@ -3495,9 +3007,7 @@ python-wikipedia)
 - [python-xpath-expressions](/tools/python-xpath-expressions)
 - [python-xtermcolor](/tools/python-xtermcolor)
 - [python-yagooglesearch](/tools/python-yagooglesearch)
-- [python-yara
-python-yara](/tools/python-yara
-python-yara)
+- [python-yara](/tools/python-yara
 - [python-yara-rednaga](/tools/python-yara-rednaga)
 - [python-yaraprocessor](/tools/python-yaraprocessor)
 - [python-yaswfp](/tools/python-yaswfp)
@@ -4387,12 +3897,8 @@ python-yara)
 - [qscintilla-qt4](/tools/qscintilla-qt4)
 - [qsreplace](/tools/qsreplace)
 - [qt3](/tools/qt3)
-- [qt4
-qt4](/tools/qt4
-qt4)
-- [qt5-webkit
-qt5-webkit](/tools/qt5-webkit
-qt5-webkit)
+- [qt4](/tools/qt4
+- [qt5-webkit](/tools/qt5-webkit
 - [qtwebkit](/tools/qtwebkit)
 - [quark-engine](/tools/quark-engine)
 - [quickrecon](/tools/quickrecon)
@@ -4400,17 +3906,11 @@ qt5-webkit)
 - [quickscope](/tools/quickscope)
 - [qwt5](/tools/qwt5)
 - [qwtplot3d](/tools/qwtplot3d)
-- [r2ghidra
-r2ghidra](/tools/r2ghidra
-r2ghidra)
+- [r2ghidra](/tools/r2ghidra
 - [rabid](/tools/rabid)
 - [raccoon](/tools/raccoon)
-- [radamsa
-radamsa](/tools/radamsa
-radamsa)
-- [radare2
-radare2](/tools/radare2
-radare2)
+- [radamsa](/tools/radamsa
+- [radare2](/tools/radare2
 - [radare2-keystone](/tools/radare2-keystone)
 - [radare2-unicorn](/tools/radare2-unicorn)
 - [radare2-unicorn-debug](/tools/radare2-unicorn-debug)
@@ -4421,9 +3921,7 @@ radare2)
 - [rapidscan](/tools/rapidscan)
 - [rarcrack](/tools/rarcrack)
 - [rasenum](/tools/rasenum)
-- [rathole
-rathole](/tools/rathole
-rathole)
+- [rathole](/tools/rathole
 - [ratproxy](/tools/ratproxy)
 - [rats](/tools/rats)
 - [raven](/tools/raven)
@@ -4439,9 +3937,7 @@ rathole)
 - [rdp-sec-check](/tools/rdp-sec-check)
 - [rdpassspray](/tools/rdpassspray)
 - [rdwarecon](/tools/rdwarecon)
-- [reaver
-reaver](/tools/reaver
-reaver)
+- [reaver](/tools/reaver
 - [reaver-wps-fork-t6x](/tools/reaver-wps-fork-t6x)
 - [rebind](/tools/rebind)
 - [recaf](/tools/recaf)
@@ -4484,9 +3980,7 @@ reaver)
 - [rex](/tools/rex)
 - [rext](/tools/rext)
 - [rfcat](/tools/rfcat)
-- [rfdump
-rfdump](/tools/rfdump
-rfdump)
+- [rfdump](/tools/rfdump
 - [rfidiot](/tools/rfidiot)
 - [rfidtool](/tools/rfidtool)
 - [rhodiola](/tools/rhodiola)
@@ -4499,9 +3993,7 @@ rfdump)
 - [rita](/tools/rita)
 - [rita-debug](/tools/rita-debug)
 - [riwifshell](/tools/riwifshell)
-- [rkhunter
-rkhunter](/tools/rkhunter
-rkhunter)
+- [rkhunter](/tools/rkhunter
 - [rlogin-scanner](/tools/rlogin-scanner)
 - [rmiscout](/tools/rmiscout)
 - [rogue-mysql-server](/tools/rogue-mysql-server)
@@ -4510,17 +4002,11 @@ rkhunter)
 - [rootbrute](/tools/rootbrute)
 - [ropeadope](/tools/ropeadope)
 - [ropeme](/tools/ropeme)
-- [ropgadget
-ropgadget](/tools/ropgadget
-ropgadget)
-- [ropper
-ropper](/tools/ropper
-ropper)
+- [ropgadget](/tools/ropgadget
+- [ropper](/tools/ropper
 - [roputils](/tools/roputils)
 - [routerhunter](/tools/routerhunter)
-- [routersploit
-routersploit](/tools/routersploit
-routersploit)
+- [routersploit](/tools/routersploit
 - [rp](/tools/rp)
 - [rpak](/tools/rpak)
 - [rpcsniffer](/tools/rpcsniffer)
@@ -4537,9 +4023,7 @@ routersploit)
 - [rsmangler](/tools/rsmangler)
 - [rspet](/tools/rspet)
 - [rtfm](/tools/rtfm)
-- [rtkit
-rtkit](/tools/rtkit
-rtkit)
+- [rtkit](/tools/rtkit
 - [rtl8812au-aircrack-dkms](/tools/rtl8812au-aircrack-dkms)
 - [rtl8814au-aircrack-dkms](/tools/rtl8814au-aircrack-dkms)
 - [rtlamr](/tools/rtlamr)
@@ -4549,28 +4033,20 @@ rtkit)
 - [rtpbreak](/tools/rtpbreak)
 - [rubilyn](/tools/rubilyn)
 - [ruby-blankslate-2](/tools/ruby-blankslate-2)
-- [ruby-connection_pool
-ruby-connection_pool](/tools/ruby-connection_pool
-ruby-connection_pool)
+- [ruby-connection_pool](/tools/ruby-connection_pool
 - [ruby-docopt](/tools/ruby-docopt)
-- [ruby-domain_name
-ruby-domain_name](/tools/ruby-domain_name
-ruby-domain_name)
+- [ruby-domain_name](/tools/ruby-domain_name
 - [ruby-foreman](/tools/ruby-foreman)
 - [ruby-gtk2](/tools/ruby-gtk2)
 - [ruby-http_configuration](/tools/ruby-http_configuration)
 - [ruby-httparty](/tools/ruby-httparty)
 - [ruby-iostruct](/tools/ruby-iostruct)
-- [ruby-json
-ruby-json](/tools/ruby-json
-ruby-json)
+- [ruby-json](/tools/ruby-json
 - [ruby-mechanize](/tools/ruby-mechanize)
 - [ruby-mini_exiftool](/tools/ruby-mini_exiftool)
 - [ruby-multi_xml](/tools/ruby-multi_xml)
 - [ruby-net-http-digest_auth](/tools/ruby-net-http-digest_auth)
-- [ruby-nokogiri
-ruby-nokogiri](/tools/ruby-nokogiri
-ruby-nokogiri)
+- [ruby-nokogiri](/tools/ruby-nokogiri
 - [ruby-nokogiri-debug](/tools/ruby-nokogiri-debug)
 - [ruby-ntlm-http](/tools/ruby-ntlm-http)
 - [ruby-prime](/tools/ruby-prime)
@@ -4598,17 +4074,11 @@ ruby-nokogiri)
 - [rustbuster](/tools/rustbuster)
 - [rustcat](/tools/rustcat)
 - [rustpad](/tools/rustpad)
-- [rustscan
-rustscan](/tools/rustscan
-rustscan)
+- [rustscan](/tools/rustscan
 - [rvi-capture](/tools/rvi-capture)
 - [rww-attack](/tools/rww-attack)
-- [rz-cutter
-rz-cutter](/tools/rz-cutter
-rz-cutter)
-- [rz-ghidra
-rz-ghidra](/tools/rz-ghidra
-rz-ghidra)
+- [rz-cutter](/tools/rz-cutter
+- [rz-ghidra](/tools/rz-ghidra
 - [s3-fuzzer](/tools/s3-fuzzer)
 - [s3scanner](/tools/s3scanner)
 - [safecopy](/tools/safecopy)
@@ -4629,35 +4099,27 @@ rz-ghidra)
 - [sasm](/tools/sasm)
 - [sawef](/tools/sawef)
 - [sb0x](/tools/sb0x)
-- [sbc
-sbc](/tools/sbc
-sbc)
+- [sbc](/tools/sbc
 - [sbd](/tools/sbd)
 - [sc-make](/tools/sc-make)
 - [scalpel](/tools/scalpel)
 - [scamper](/tools/scamper)
 - [scanless](/tools/scanless)
-- [scanmem
-scanmem](/tools/scanmem
-scanmem)
+- [scanmem](/tools/scanmem
 - [scannerl](/tools/scannerl)
 - [scanqli](/tools/scanqli)
 - [scansploit](/tools/scansploit)
 - [scanssh](/tools/scanssh)
 - [scap-security-guide](/tools/scap-security-guide)
 - [scap-workbench](/tools/scap-workbench)
-- [scapy
-scapy](/tools/scapy
-scapy)
+- [scapy](/tools/scapy
 - [scapy-ssl_tls](/tools/scapy-ssl_tls)
 - [scavenger](/tools/scavenger)
 - [schnappi-dhcp](/tools/schnappi-dhcp)
 - [scout2](/tools/scout2)
 - [scoutsuite](/tools/scoutsuite)
 - [scrape-dns](/tools/scrape-dns)
-- [scrapy
-scrapy](/tools/scrapy
-scrapy)
+- [scrapy](/tools/scrapy
 - [scratchabit](/tools/scratchabit)
 - [scrounge-ntfs](/tools/scrounge-ntfs)
 - [scrying](/tools/scrying)
@@ -4697,9 +4159,7 @@ scrapy)
 - [shareenum](/tools/shareenum)
 - [sharesniffer](/tools/sharesniffer)
 - [shed](/tools/shed)
-- [shellcheck
-shellcheck](/tools/shellcheck
-shellcheck)
+- [shellcheck](/tools/shellcheck
 - [shellcode-compiler](/tools/shellcode-compiler)
 - [shellcode-factory](/tools/shellcode-factory)
 - [shellcodecs](/tools/shellcodecs)
@@ -4725,9 +4185,7 @@ shellcheck)
 - [shuffledns](/tools/shuffledns)
 - [sickle](/tools/sickle)
 - [sidguesser](/tools/sidguesser)
-- [siege
-siege](/tools/siege
-siege)
+- [siege](/tools/siege
 - [sigma](/tools/sigma)
 - [sign](/tools/sign)
 - [sigploit](/tools/sigploit)
@@ -4767,22 +4225,16 @@ siege)
 - [skype-dump](/tools/skype-dump)
 - [skypefreak](/tools/skypefreak)
 - [slackpirate](/tools/slackpirate)
-- [sleuthkit
-sleuthkit](/tools/sleuthkit
-sleuthkit)
+- [sleuthkit](/tools/sleuthkit
 - [sleuthkit-java](/tools/sleuthkit-java)
 - [sleuthql](/tools/sleuthql)
 - [slither](/tools/slither)
 - [sloth-fuzzer](/tools/sloth-fuzzer)
-- [slowhttptest
-slowhttptest](/tools/slowhttptest
-slowhttptest)
+- [slowhttptest](/tools/slowhttptest
 - [slowloris](/tools/slowloris)
 - [slowloris-py](/tools/slowloris-py)
 - [slurp-scanner](/tools/slurp-scanner)
-- [smali
-smali](/tools/smali
-smali)
+- [smali](/tools/smali
 - [smali-cfgs](/tools/smali-cfgs)
 - [smalisca](/tools/smalisca)
 - [smap](/tools/smap)
@@ -4815,9 +4267,7 @@ smali)
 - [snarf-mitm](/tools/snarf-mitm)
 - [sniff-probe-req](/tools/sniff-probe-req)
 - [sniffer](/tools/sniffer)
-- [sniffglue
-sniffglue](/tools/sniffglue
-sniffglue)
+- [sniffglue](/tools/sniffglue
 - [sniffjoke](/tools/sniffjoke)
 - [sniffles](/tools/sniffles)
 - [snitch](/tools/snitch)
@@ -4837,9 +4287,7 @@ sniffglue)
 - [snuck](/tools/snuck)
 - [snyk](/tools/snyk)
 - [soapui](/tools/soapui)
-- [socat
-socat](/tools/socat
-socat)
+- [socat](/tools/socat
 - [social-analyzer](/tools/social-analyzer)
 - [social-mapper](/tools/social-mapper)
 - [social-vuln-scanner](/tools/social-vuln-scanner)
@@ -4859,21 +4307,15 @@ socat)
 - [speedpwn](/tools/speedpwn)
 - [spf](/tools/spf)
 - [spfmap](/tools/spfmap)
-- [sphinxbase
-sphinxbase](/tools/sphinxbase
-sphinxbase)
+- [sphinxbase](/tools/sphinxbase
 - [spiderfoot](/tools/spiderfoot)
 - [spiderpig-pdffuzzer](/tools/spiderpig-pdffuzzer)
 - [spiga](/tools/spiga)
 - [spike-fuzzer](/tools/spike-fuzzer)
 - [spike-proxy](/tools/spike-proxy)
-- [spiped
-spiped](/tools/spiped
-spiped)
+- [spiped](/tools/spiped
 - [spipscan](/tools/spipscan)
-- [splint
-splint](/tools/splint
-splint)
+- [splint](/tools/splint
 - [sploitctl](/tools/sploitctl)
 - [sploitego](/tools/sploitego)
 - [spoofcheck](/tools/spoofcheck)
@@ -4891,21 +4333,15 @@ splint)
 - [sqldict](/tools/sqldict)
 - [sqlite2](/tools/sqlite2)
 - [sqlivulscan](/tools/sqlivulscan)
-- [sqlmap
-sqlmap](/tools/sqlmap
-sqlmap)
+- [sqlmap](/tools/sqlmap
 - [sqlninja](/tools/sqlninja)
 - [sqlpat](/tools/sqlpat)
 - [sqlping](/tools/sqlping)
 - [sqlpowerinjector](/tools/sqlpowerinjector)
 - [sqlsus](/tools/sqlsus)
-- [ssdeep
-ssdeep](/tools/ssdeep
-ssdeep)
+- [ssdeep](/tools/ssdeep
 - [ssdp-scanner](/tools/ssdp-scanner)
-- [ssh-audit
-ssh-audit](/tools/ssh-audit
-ssh-audit)
+- [ssh-audit](/tools/ssh-audit
 - [ssh-honeypot](/tools/ssh-honeypot)
 - [ssh-mitm](/tools/ssh-mitm)
 - [ssh-privkey-crack](/tools/ssh-privkey-crack)
@@ -4915,31 +4351,21 @@ ssh-audit)
 - [sshprank](/tools/sshprank)
 - [sshscan](/tools/sshscan)
 - [sshtrix](/tools/sshtrix)
-- [sshtunnel
-sshtunnel](/tools/sshtunnel
-sshtunnel)
-- [sshuttle
-sshuttle](/tools/sshuttle
-sshuttle)
+- [sshtunnel](/tools/sshtunnel
+- [sshuttle](/tools/sshuttle
 - [ssl-hostname-resolver](/tools/ssl-hostname-resolver)
 - [ssl-phuck3r](/tools/ssl-phuck3r)
 - [sslcat](/tools/sslcat)
 - [sslcaudit](/tools/sslcaudit)
 - [ssldump](/tools/ssldump)
-- [sslh
-sslh](/tools/sslh
-sslh)
+- [sslh](/tools/sslh
 - [ssllabs-scan](/tools/ssllabs-scan)
 - [sslmap](/tools/sslmap)
 - [sslnuke](/tools/sslnuke)
-- [sslscan
-sslscan](/tools/sslscan
-sslscan)
+- [sslscan](/tools/sslscan
 - [sslscan2](/tools/sslscan2)
 - [sslsniff](/tools/sslsniff)
-- [sslsplit
-sslsplit](/tools/sslsplit
-sslsplit)
+- [sslsplit](/tools/sslsplit
 - [sslstrip](/tools/sslstrip)
 - [sslyze](/tools/sslyze)
 - [ssma](/tools/ssma)
@@ -4971,21 +4397,15 @@ sslsplit)
 - [stoq](/tools/stoq)
 - [storm-ring](/tools/storm-ring)
 - [stowaway](/tools/stowaway)
-- [strace
-strace](/tools/strace
-strace)
+- [strace](/tools/strace
 - [streamfinder](/tools/streamfinder)
 - [striker](/tools/striker)
 - [stringsifter](/tools/stringsifter)
 - [striptls](/tools/striptls)
 - [strutscan](/tools/strutscan)
-- [stunnel
-stunnel](/tools/stunnel
-stunnel)
+- [stunnel](/tools/stunnel
 - [sub7](/tools/sub7)
-- [subbrute
-subbrute](/tools/subbrute
-subbrute)
+- [subbrute](/tools/subbrute
 - [subdomainer](/tools/subdomainer)
 - [subfinder](/tools/subfinder)
 - [subjack](/tools/subjack)
@@ -5002,9 +4422,7 @@ subbrute)
 - [suricata](/tools/suricata)
 - [suricata-verify](/tools/suricata-verify)
 - [svn-extractor](/tools/svn-extractor)
-- [swaks
-swaks](/tools/swaks
-swaks)
+- [swaks](/tools/swaks
 - [swamp](/tools/swamp)
 - [swap-digger](/tools/swap-digger)
 - [swarm](/tools/swarm)
@@ -5018,9 +4436,7 @@ swaks)
 - [synner](/tools/synner)
 - [synscan](/tools/synscan)
 - [syringe](/tools/syringe)
-- [sysdig
-sysdig](/tools/sysdig
-sysdig)
+- [sysdig](/tools/sysdig
 - [sysinternals-suite](/tools/sysinternals-suite)
 - [t50](/tools/t50)
 - [tabi](/tools/tabi)
@@ -5036,18 +4452,12 @@ sysdig)
 - [tcpcontrol-fuzzer](/tools/tcpcontrol-fuzzer)
 - [tcpcopy](/tools/tcpcopy)
 - [tcpdstat](/tools/tcpdstat)
-- [tcpdump
-tcpdump](/tools/tcpdump
-tcpdump)
+- [tcpdump](/tools/tcpdump
 - [tcpextract](/tools/tcpextract)
-- [tcpflow
-tcpflow](/tools/tcpflow
-tcpflow)
+- [tcpflow](/tools/tcpflow
 - [tcpick](/tools/tcpick)
 - [tcpjunk](/tools/tcpjunk)
-- [tcpreplay
-tcpreplay](/tools/tcpreplay
-tcpreplay)
+- [tcpreplay](/tools/tcpreplay
 - [tcptrace](/tools/tcptrace)
 - [tcptraceroute](/tools/tcptraceroute)
 - [tcpwatch](/tools/tcpwatch)
@@ -5062,21 +4472,15 @@ tcpreplay)
 - [terminus-font-dv1-ij1-ll2-td1](/tools/terminus-font-dv1-ij1-ll2-td1)
 - [terminus-font-dv1-ij1-ll2-td1-otb](/tools/terminus-font-dv1-ij1-ll2-td1-otb)
 - [terminus-font-ttf](/tools/terminus-font-ttf)
-- [testdisk
-testdisk](/tools/testdisk
-testdisk)
-- [testssl.sh
-testssl.sh](/tools/testssl.sh
-testssl.sh)
+- [testdisk](/tools/testdisk
+- [testssl.sh](/tools/testssl.sh
 - [tfsec](/tools/tfsec)
 - [tfsec-debug](/tools/tfsec-debug)
 - [tftp-bruteforce](/tools/tftp-bruteforce)
 - [tftp-fuzz](/tools/tftp-fuzz)
 - [tftp-proxy](/tools/tftp-proxy)
 - [tgcd](/tools/tgcd)
-- [thc-ipv6
-thc-ipv6](/tools/thc-ipv6
-thc-ipv6)
+- [thc-ipv6](/tools/thc-ipv6
 - [thc-keyfinder](/tools/thc-keyfinder)
 - [thc-pptp-bruter](/tools/thc-pptp-bruter)
 - [thc-smartbrute](/tools/thc-smartbrute)
@@ -5095,14 +4499,10 @@ thc-ipv6)
 - [tilt](/tools/tilt)
 - [timegen](/tools/timegen)
 - [timeverter](/tools/timeverter)
-- [tinc
-tinc](/tools/tinc
-tinc)
+- [tinc](/tools/tinc
 - [tinfoleak](/tools/tinfoleak)
 - [tinfoleak2](/tools/tinfoleak2)
-- [tinyproxy
-tinyproxy](/tools/tinyproxy
-tinyproxy)
+- [tinyproxy](/tools/tinyproxy
 - [tls-attacker](/tools/tls-attacker)
 - [tls-fingerprinting](/tools/tls-fingerprinting)
 - [tls-map](/tools/tls-map)
@@ -5112,33 +4512,23 @@ tinyproxy)
 - [tlspretense](/tools/tlspretense)
 - [tlssled](/tools/tlssled)
 - [tnscmd](/tools/tnscmd)
-- [toilet
-toilet](/tools/toilet
-toilet)
+- [toilet](/tools/toilet
 - [token-hunter](/tools/token-hunter)
 - [token-reverser](/tools/token-reverser)
 - [tomcatwardeployer](/tools/tomcatwardeployer)
 - [topera](/tools/topera)
-- [tor
-tor](/tools/tor
-tor)
+- [tor](/tools/tor
 - [tor-autocircuit](/tools/tor-autocircuit)
-- [tor-browser
-tor-browser](/tools/tor-browser
-tor-browser)
+- [tor-browser](/tools/tor-browser
 - [tor-router](/tools/tor-router)
 - [torcrawl](/tools/torcrawl)
 - [torctl](/tools/torctl)
 - [torpy](/tools/torpy)
 - [torshammer](/tools/torshammer)
-- [torsocks
-torsocks](/tools/torsocks
-torsocks)
+- [torsocks](/tools/torsocks
 - [tpcat](/tools/tpcat)
 - [tplmap](/tools/tplmap)
-- [traceroute
-traceroute](/tools/traceroute
-traceroute)
+- [traceroute](/tools/traceroute
 - [trape](/tools/trape)
 - [traxss](/tools/traxss)
 - [treasure](/tools/treasure)
@@ -5149,9 +4539,7 @@ traceroute)
 - [trinity-debug](/tools/trinity-debug)
 - [triton](/tools/triton)
 - [triton-debug](/tools/triton-debug)
-- [trivy
-trivy](/tools/trivy
-trivy)
+- [trivy](/tools/trivy
 - [trixd00r](/tools/trixd00r)
 - [truecrack](/tools/truecrack)
 - [truegaze](/tools/truegaze)
@@ -5179,9 +4567,7 @@ trivy)
 - [udis86](/tools/udis86)
 - [udork](/tools/udork)
 - [udp-hunter](/tools/udp-hunter)
-- [udp2raw-tunnel
-udp2raw-tunnel](/tools/udp2raw-tunnel
-udp2raw-tunnel)
+- [udp2raw-tunnel](/tools/udp2raw-tunnel
 - [udpastcp](/tools/udpastcp)
 - [udptunnel](/tools/udptunnel)
 - [udsim](/tools/udsim)
@@ -5196,9 +4582,7 @@ udp2raw-tunnel)
 - [uncaptcha2](/tools/uncaptcha2)
 - [underscorejs](/tools/underscorejs)
 - [unfurl](/tools/unfurl)
-- [unhide
-unhide](/tools/unhide
-unhide)
+- [unhide](/tools/unhide
 - [unibrute](/tools/unibrute)
 - [unicorn-powershell](/tools/unicorn-powershell)
 - [unicornscan](/tools/unicornscan)
@@ -5213,12 +4597,8 @@ unhide)
 - [upnpscan](/tools/upnpscan)
 - [uppwn](/tools/uppwn)
 - [uptux](/tools/uptux)
-- [upx
-upx](/tools/upx
-upx)
-- [urh
-urh](/tools/urh
-urh)
+- [upx](/tools/upx
+- [urh](/tools/urh
 - [urlcrazy](/tools/urlcrazy)
 - [urldigger](/tools/urldigger)
 - [urlextractor](/tools/urlextractor)
@@ -5237,12 +4617,8 @@ urh)
 - [uw-zone](/tools/uw-zone)
 - [v3n0m](/tools/v3n0m)
 - [vais](/tools/vais)
-- [valabind
-valabind](/tools/valabind
-valabind)
-- [valgrind
-valgrind](/tools/valgrind
-valgrind)
+- [valabind](/tools/valabind
+- [valgrind](/tools/valgrind
 - [valhalla](/tools/valhalla)
 - [vane](/tools/vane)
 - [vanguard](/tools/vanguard)
@@ -5256,9 +4632,7 @@ valgrind)
 - [veil](/tools/veil)
 - [veles](/tools/veles)
 - [venom](/tools/venom)
-- [veracrypt
-veracrypt](/tools/veracrypt
-veracrypt)
+- [veracrypt](/tools/veracrypt
 - [verinice](/tools/verinice)
 - [vfeed](/tools/vfeed)
 - [vhostscan](/tools/vhostscan)
@@ -5284,9 +4658,7 @@ veracrypt)
 - [voipong](/tools/voipong)
 - [volafox](/tools/volafox)
 - [volatility-extra](/tools/volatility-extra)
-- [volatility3
-volatility3](/tools/volatility3
-volatility3)
+- [volatility3](/tools/volatility3
 - [voltron](/tools/voltron)
 - [vpnpivot](/tools/vpnpivot)
 - [vsaudit](/tools/vsaudit)
@@ -5297,9 +4669,7 @@ volatility3)
 - [vulnerabilities-spider](/tools/vulnerabilities-spider)
 - [vulnx](/tools/vulnx)
 - [vuls](/tools/vuls)
-- [vulscan
-vulscan](/tools/vulscan
-vulscan)
+- [vulscan](/tools/vulscan
 - [w13scan](/tools/w13scan)
 - [w3af](/tools/w3af)
 - [wafninja](/tools/wafninja)
@@ -5310,9 +4680,7 @@ vulscan)
 - [waldo](/tools/waldo)
 - [wapiti](/tools/wapiti)
 - [wascan](/tools/wascan)
-- [wavemon
-wavemon](/tools/wavemon
-wavemon)
+- [wavemon](/tools/wavemon
 - [waybackpack](/tools/waybackpack)
 - [waybackurls](/tools/waybackurls)
 - [wcc](/tools/wcc)
@@ -5370,9 +4738,7 @@ wavemon)
 - [wifiphisher](/tools/wifiphisher)
 - [wifiscanmap](/tools/wifiscanmap)
 - [wifitap](/tools/wifitap)
-- [wifite
-wifite](/tools/wifite
-wifite)
+- [wifite](/tools/wifite
 - [wig](/tools/wig)
 - [wikigen](/tools/wikigen)
 - [wildpwn](/tools/wildpwn)
@@ -5392,17 +4758,11 @@ wifite)
 - [winrelay](/tools/winrelay)
 - [wiredtiger](/tools/wiredtiger)
 - [wireless-ids](/tools/wireless-ids)
-- [wireshark-cli
-wireshark-cli](/tools/wireshark-cli
-wireshark-cli)
-- [wireshark-qt
-wireshark-qt](/tools/wireshark-qt
-wireshark-qt)
+- [wireshark-cli](/tools/wireshark-cli
+- [wireshark-qt](/tools/wireshark-qt
 - [wirouter-keyrec](/tools/wirouter-keyrec)
 - [witchxtool](/tools/witchxtool)
-- [wkhtmltopdf
-wkhtmltopdf](/tools/wkhtmltopdf
-wkhtmltopdf)
+- [wkhtmltopdf](/tools/wkhtmltopdf
 - [wlan2eth](/tools/wlan2eth)
 - [wmat](/tools/wmat)
 - [wmd](/tools/wmd)
@@ -5424,9 +4784,7 @@ wkhtmltopdf)
 - [wpbullet](/tools/wpbullet)
 - [wpforce](/tools/wpforce)
 - [wpintel](/tools/wpintel)
-- [wpscan
-wpscan](/tools/wpscan
-wpscan)
+- [wpscan](/tools/wpscan
 - [wpseku](/tools/wpseku)
 - [wpsik](/tools/wpsik)
 - [wpsweep](/tools/wpsweep)
@@ -5456,9 +4814,7 @@ wpscan)
 - [xmpppy](/tools/xmpppy)
 - [xorbruteforcer](/tools/xorbruteforcer)
 - [xorsearch](/tools/xorsearch)
-- [xortool
-xortool](/tools/xortool
-xortool)
+- [xortool](/tools/xortool
 - [xpire-crossdomain-scanner](/tools/xpire-crossdomain-scanner)
 - [xpl-search](/tools/xpl-search)
 - [xplico](/tools/xplico)
@@ -5489,18 +4845,14 @@ xortool)
 - [xxxpwn-smart](/tools/xxxpwn-smart)
 - [yaaf](/tools/yaaf)
 - [yaf](/tools/yaf)
-- [yara
-yara](/tools/yara
-yara)
+- [yara](/tools/yara
 - [yara-rules](/tools/yara-rules)
 - [yasat](/tools/yasat)
 - [yasca](/tools/yasca)
 - [yasuo](/tools/yasuo)
 - [yate-bts](/tools/yate-bts)
 - [yawast](/tools/yawast)
-- [yay
-yay](/tools/yay
-yay)
+- [yay](/tools/yay
 - [ycrawler](/tools/ycrawler)
 - [yersinia](/tools/yersinia)
 - [yeti](/tools/yeti)
@@ -5508,9 +4860,7 @@ yay)
 - [ysoserial](/tools/ysoserial)
 - [yuck](/tools/yuck)
 - [zackattack](/tools/zackattack)
-- [zaproxy
-zaproxy](/tools/zaproxy
-zaproxy)
+- [zaproxy](/tools/zaproxy
 - [zarp](/tools/zarp)
 - [zdns](/tools/zdns)
 - [zeek](/tools/zeek)
@@ -5526,19 +4876,11 @@ zaproxy)
 - [zipexec](/tools/zipexec)
 - [zirikatu](/tools/zirikatu)
 - [zizzania](/tools/zizzania)
-- [zmap
-zmap](/tools/zmap
-zmap)
-- [zssh
-zssh](/tools/zssh
-zssh)
+- [zmap](/tools/zmap
+- [zssh](/tools/zssh
 - [zsteg](/tools/zsteg)
 - [zulu](/tools/zulu)
-- [zulucrypt
-zulucrypt](/tools/zulucrypt
-zulucrypt)
+- [zulucrypt](/tools/zulucrypt
 - [zxing](/tools/zxing)
 - [zykeys](/tools/zykeys)
-- [zzuf
-zzuf](/tools/zzuf
-zzuf)
+- [zzuf](/tools/zzuf
