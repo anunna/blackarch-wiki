@@ -1,0 +1,6 @@
+---
+name: python-property
+url: https://pypi.org/project/property/#files
+description: A python module to read a property file.
+group: None
+---

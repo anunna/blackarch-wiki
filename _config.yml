@@ -91,6 +91,7 @@ prose:
     - assets
     - /_layouts
     - /_sass
+    - prep
   metadata:
     _pages:
       - name: "published"
@@ -136,6 +137,9 @@ plugins:
 include:
   - CONTRIBUTING.md
   - CODE_OF_CONDUCT.md
+
+exclude:
+  - "prep"
 
 #
 # INCLUDING HOOKS
