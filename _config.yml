@@ -75,6 +75,9 @@ kramdown:
   syntax_highlighter: rouge
   hard_wrap: true
 
+exclude:
+  - "/tools"
+
 prose:
   media: "media"
   ignore:
