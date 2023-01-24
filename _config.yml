@@ -76,7 +76,7 @@ kramdown:
   hard_wrap: true
 
 exclude:
-  - "tools"
+  - "tools/"
 
 prose:
   media: "media"
