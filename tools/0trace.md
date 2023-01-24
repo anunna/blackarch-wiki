@@ -13,12 +13,10 @@ group: blackarch blackarch-scanner
 The important benefit of using an established connection and matching TCP packets to send a TTL-based probe is that such traffic is happily allowed through by many stateful firewalls and other defenses without further inspection (since it is related to an entry in the connection table).
 
 ## Groups
-
 - blackarch
 - blackarch-scanner
 
 ## Tool functions
-
 - Security reconnaissance
 - Firewall bypassing
 
@@ -41,7 +39,6 @@ telnet <target-ip> 80
 ```
 
 ### Initiate some TCP activity in telnet session - GET/HTTP/1.0
-
 `telnet 66.135.192.87 80`
 
 `0trace eth0 66.135.192.87 80`
@@ -79,6 +76,9 @@ TRACE RESULTS
 24 66.135.207.186
 Target reached.
 ```
+
+## Additional Resources
+The tool is now archived and no longer available by the author. The code can be found in a repo hosted by BlackArch [here](https://github.com/BlackArch/0trace/blob/master/0trace.py).
 
 ## Disclaimer
 It is important to note that the use of this tool for any illegal or unauthorized activities is strictly prohibited. The creators of this tool and BlackArch Linux will not be held liable for any actions taken with its use. This tool is intended for use by security professionals and researchers for lawful and ethical testing purposes only. Remember, always obtain proper authorization and comply with all relevant laws and regulations when using this tool or any other security tool.
