@@ -20,7 +20,7 @@ The goal of this wiki is to provide information and documentation for the users 
 
 | If you are looking for: | See:   |
 |---|---------|
-| The installation guide | [Installation Guide](/install-guide)  |
+| The installation guide | [Installation Guide](/install_guide)  |
 | Tool Guides | [Tool Index](/tools)
 | Troubleshooting help | [Troubleshooting](/troubleshooting) |
 | Videos of BlackArch in use | [Video Demos](https://youtube.com/blackarch) |
