@@ -91,6 +91,11 @@ pre {
   background: rgba(0, 0, 0, 0.4);
   padding: 2px;
   border-radius: 3px;
+  /* CHange the color of the horizontal scrollbar */
+  ::-webkit-scrollbar {
+    width: 0.5em;
+    background-color: #494949;
+  }
 }
 
 pre {
