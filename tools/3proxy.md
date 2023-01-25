@@ -125,16 +125,16 @@ A Tiny free proxy server.
 Combined proxy server may be used as executable or service (supports installation and removal). It uses config file to read it's configuration (see [3proxy.cfg.sample](https://github.com/3proxy/3proxy/blob/master/cfg/3proxy.cfg.sample) for details). `3proxy.exe` is an all-in-one, it doesn't require additional executables to work. See [3proxy.cfg.sample](https://github.com/3proxy/3proxy/blob/master/cfg/3proxy.cfg.sample) for examples, see `man 3proxy.cfg`.
 
 | Function | Description |
-|----------|-------------|
-| proxy    | HTTP proxy server, binds to port `3128` |
-| ftppr    | FTP proxy server, binds to port `21` |
-| socks    | SOCKS 4/5 proxy server, binds to port `1080` |
-| ftppr    | FTP proxy server, please do not mess it with FTP over HTTP proxy used in browsers |
-| pop3p    | POP3 proxy server, binds to port `110`. You must specify POP3 username as `username@target.host.ip[:port]` port is `110` by default. Example: in Username configuration for you e-mail reader set someuser@pop.example.org, to obtains mail for someuser from pop.somehost.ru via proxy. |
-| smtpp    | SMTP proxy server, binds to port `25`. You must specify SMTP username as `username@target.host.ip[:port]` port is `25` by default. Example: in Username configuration for you e-mail reader set someuser@mail.example.org, to send mail as someuser via mail.somehost.ru via proxy. |
-| tcppm    | TCP port mapping. Maps some TCP port on local machine to TCP port on remote host. |
-| udppm    | UDP port mapping. Maps some UDP port on local machine to UDP port on remote machine. Only one user simulationeously can use UDP mapping, so it cann't be used for public service in large networks. It's OK to use it to map to DNS server in small network or to map Counter-Strike server for single client (you can use few mappings on different ports for different clients in last case). |
-| mycrypt  | Program to obtain crypted password fro cleartext. Supports both MD5/crypt and NT password. |
+|---|---------|
+| proxy | HTTP proxy server, binds to port `3128` |
+| ftppr | FTP proxy server, binds to port `21` |
+| socks | SOCKS 4/5 proxy server, binds to port `1080` |
+| ftppr | FTP proxy server, please do not mess it with FTP over HTTP proxy used in browsers |
+| pop3p | POP3 proxy server, binds to port `110`. You must specify POP3 username as `username@target.host.ip[:port]` port is `110` by default. Example: in Username configuration for you e-mail reader set someuser@pop.example.org, to obtains mail for someuser from pop.somehost.ru via proxy. |
+| smtpp | SMTP proxy server, binds to port `25`. You must specify SMTP username as `username@target.host.ip[:port]` port is `25` by default. Example: in Username configuration for you e-mail reader set someuser@mail.example.org, to send mail as someuser via mail.somehost.ru via proxy. |
+| tcppm | TCP port mapping. Maps some TCP port on local machine to TCP port on remote host. |
+| udppm | UDP port mapping. Maps some UDP port on local machine to UDP port on remote machine. Only one user simulationeously can use UDP mapping, so it cann't be used for public service in large networks. It's OK to use it to map to DNS server in small network or to map Counter-Strike server for single client (you can use few mappings on different ports for different clients in last case). |
+| mycrypt | Program to obtain crypted password fro cleartext. Supports both MD5/crypt and NT password. |
 	mycrypt password
 	produces NT password
 	mycrypt salt password
