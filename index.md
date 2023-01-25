@@ -20,10 +20,11 @@ The goal of this wiki is to provide information and documentation for the users 
 
 | If you are looking for: | See:   |
 |---|---------|
-| the installation guide | [Installation Guide](/install-guide)  |
-| troubleshooting help | [Troubleshooting](/troubleshooting) |
-| videos of BlackArch in use | [Video Demos](https://youtube.com/blackarch) |
-| answers to frequently asked questions | [FAQ](/FAQ) |
+| The installation guide | [Installation Guide](/install-guide)  |
+| Tool Guides | [Tool Index](/tools)
+| Troubleshooting help | [Troubleshooting](/troubleshooting) |
+| Videos of BlackArch in use | [Video Demos](https://youtube.com/blackarch) |
+| Answers to frequently asked questions | [FAQ](/FAQ) |
 
 ## Community Channels
 
