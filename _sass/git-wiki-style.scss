@@ -96,6 +96,11 @@ pre {
     width: 0.5em;
     background-color: #494949;
   }
+  /* Change the color of the scrollbar handle*/
+  ::-webkit-scrollbar-thumb {
+    background-color: #222;
+    border-radius: 10px;
+  }
 }
 
 pre {
@@ -104,6 +109,16 @@ pre {
   border-radius: 5px;
   border: 1px solid #494949;
   overflow-x: auto;
+  /* CHange the color of the horizontal scrollbar */
+  ::-webkit-scrollbar {
+    width: 0.5em;
+    background-color: #494949;
+  }
+  /* Change the color of the scrollbar handle*/
+  ::-webkit-scrollbar-thumb {
+    background-color: #222;
+    border-radius: 10px;
+  }
 }
 
 pre > code {
@@ -409,5 +424,10 @@ screen and (max-width: 480px) {
   ::-webkit-scrollbar {
     width: 0.5em;
     background-color: #494949;
+  }
+  /* Change the color of the scrollbar handle*/
+  ::-webkit-scrollbar-thumb {
+    background-color: #222;
+    border-radius: 10px;
   }
 }
