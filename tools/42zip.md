@@ -32,5 +32,15 @@ The ZIP file is copied to `/usr/share/42zip/42.zip` during installaton. If extra
 ## Additional Resources
 See [Fefe's Blog](http://blog.fefe.de/?ts=b6cea88d)
 
+<details>
+<summary role="button">Detection</summary>
+<p>
+Demonstration of McAfee detection:
+</p>
+<img src="/media/42zip.jpg"
+    alt="screenshot of siteadviser provided by 42zip owner, Fefe"
+/>
+</details>
+
 ## Disclaimer
 It is important to note that the use of this tool for any illegal or unauthorized activities is strictly prohibited. The creators of this tool and BlackArch Linux will not be held liable for any actions taken with its use. This tool is intended for use by security professionals and researchers for lawful and ethical testing purposes only. Remember, always obtain proper authorization and comply with all relevant laws and regulations when using this tool or any other security tool.
