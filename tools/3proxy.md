@@ -98,12 +98,12 @@ A Tiny free proxy server.
 - support for setuid
 - support for signals (SIGUSR1 to reload configuration)
 
-**Windows*
+**Windows**
 - support --install as service
 - support --remove as service
 - support for service START, STOP, PAUSE and CONTINUE commands (on PAUSE no new connection accepted, but active connections still in progress, on CONTINUE configuration is reloaded)
 
-***Windows 95/98/ME**
+**Windows 95/98/ME**
 - support --install as service
 - support --remove as service
 
