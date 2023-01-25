@@ -93,19 +93,19 @@ A Tiny free proxy server.
 - Configuration reload on any file change
 
 **Unix**
-- support for chroot
-- support for setgid
-- support for setuid
-- support for signals (SIGUSR1 to reload configuration)
+- Support for chroot
+- Support for setgid
+- Support for setuid
+- Support for signals (SIGUSR1 to reload configuration)
 
-**Windows*
-- support --install as service
-- support --remove as service
-- support for service START, STOP, PAUSE and CONTINUE commands (on PAUSE no new connection accepted, but active connections still in progress, on CONTINUE configuration is reloaded)
+**Windows**
+- Support `--install` as service
+- Support `--remove` as service
+- Support for service START, STOP, PAUSE and CONTINUE commands (on PAUSE no new connection accepted, but active connections still in progress, on CONTINUE configuration is reloaded)
 
-***Windows 95/98/ME**
-- support --install as service
-- support --remove as service
+**Windows 95/98/ME**
+- Support `--install` as service
+- Support `--remove` as service
 
 ### Compilation
 - MSVC (static)
@@ -119,10 +119,10 @@ A Tiny free proxy server.
 - Mac OS X, iPhone OS
 - Linux and derivered systems
 - Lite version for Windows 95/98/NT/2000/XP/2003
-- 32 bit and 64 bit versions for Windows Vista and above, Windows 2008 server and above 
+- 32 bit and 64 bit versions for Windows Vista and above, Windows 2008 Server and above 
 
 ### 3proxy    	
-Combined proxy server may be used as executable or service (supports installation and removal). It uses config file to read it's configuration (see 3proxy.cfg.sample for details). 3proxy.exe is all-in-one, it doesn't require all others .exe to work. See [3proxy.cfg.sample](https://github.com/3proxy/3proxy/blob/master/cfg/3proxy.cfg.sample) for examples, see man 3proxy.cfg.
+Combined proxy server may be used as executable or service (supports installation and removal). It uses config file to read it's configuration (see [3proxy.cfg.sample](https://github.com/3proxy/3proxy/blob/master/cfg/3proxy.cfg.sample) for details). `3proxy.exe` is an all-in-one, it doesn't require additional executables to work. See [3proxy.cfg.sample](https://github.com/3proxy/3proxy/blob/master/cfg/3proxy.cfg.sample) for examples, see `man 3proxy.cfg`.
 
 | Function | Description |
 |----------|-------------|
