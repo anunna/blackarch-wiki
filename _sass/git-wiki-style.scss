@@ -405,4 +405,9 @@ screen and (max-width: 480px) {
 .highlight {
   background-color: rgba(0, 0, 0, 0.4);
   max-width: 1050px;
+  /* Change the color of the horizontal scrollbar */
+  ::-webkit-scrollbar {
+    width: 0.5em;
+    background-color: #494949;
+  }
 }
