@@ -137,6 +137,7 @@ plugins:
 include:
   - CONTRIBUTING.md
   - CODE_OF_CONDUCT.md
+  - "wiki/"
 
 exclude:
   - "prep"
