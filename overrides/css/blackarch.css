@@ -17,7 +17,9 @@ code, pre {
   box-shadow: #494949;
 }
 
-table {max-width: 70rem;}
+table {
+  width: 100%;
+}
 
 details {
   padding: .5em;
