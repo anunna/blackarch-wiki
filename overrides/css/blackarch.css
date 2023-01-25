@@ -15,6 +15,16 @@ code, pre {
   color: #6298e0;
   background-color: rgba(0, 0, 0, 0.4);
   box-shadow: #494949;
+  /* Change the color of the horizontal scrollbar */
+  ::-webkit-scrollbar {
+    width: 0.5em;
+    background-color: #494949;
+  }
+  /* Change the color of the scrollbar handle*/
+  ::-webkit-scrollbar-thumb {
+    background-color: #1a1a1a;
+    border-radius: 10px;
+  }
 }
 
 table {
