@@ -32,8 +32,14 @@ The ZIP file is copied to `/usr/share/42zip/42.zip` during installaton. If extra
 ## Additional Resources
 See [Fefe's Blog](http://blog.fefe.de/?ts=b6cea88d)
 
+<style>
+    summary[role="button"] {
+        max-width: 200px;
+    }
+</style>
+
 <details>
-<summary role="button">Detection</summary>
+<summary role="button">Click to expand image</summary>
 <p>
 Demonstration of McAfee detection:
 </p>
