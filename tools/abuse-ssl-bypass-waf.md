@@ -42,21 +42,21 @@ abuse-ssl-bypass-waf -thread 4 -target https://target.com
 If you don't know what the WAF type is, you can compare the HTML response contect lenght ad try to find the bypassing WAF ciphers.
 <details>
 <summary role="button">Click to expand image</summary>
-<img src="../media/abuse-ssl-bypass-waf-example1.png"
+<img src="/media/abuse-ssl-bypass-waf-example1.png"
 />
 </details>
 
 If you know the keyword or regex for the WAF:
 <details>
 <summary role="button">Click to expand image</summary>
-<img src="../media/abuse-ssl-bypass-waf-example2.png"
+<img src="/media/abuse-ssl-bypass-waf-example2.png"
 />
 </details>
 
 When utilizing certain SSL/TLS ciphers to request a payload URL, if a WAF keyword or regular expression is not present in the HTML page, it is possible to bypass the WAF by utilizing the Cipher.
 <details>
 <summary role="button">Click to expand image</summary>
-<img src="../media/abuse-ssl-bypass-waf-example3.png"
+<img src="/media/abuse-ssl-bypass-waf-example3.png"
 />
 </details>
 
