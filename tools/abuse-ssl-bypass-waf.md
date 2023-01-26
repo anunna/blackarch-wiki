@@ -43,23 +43,23 @@ If you don't know what the WAF type is, you can compare the HTML response contec
 <details>
 <summary role="button">Click to expand image</summary>
 <img src="../media/abuse-ssl-bypass-waf-example1.png"
-    alt="screenshot of siteadviser provided by 42zip owner, Fefe"
+    alt="Example provided by tool author LandGrey"
 />
 </details>
 
 If you know the keyword or regex for the WAF:
 <details>
 <summary role="button">Click to expand image</summary>
-<img src="../media/abuse-ssl-bypass-waf-example1.png"
-    alt="screenshot of siteadviser provided by 42zip owner, Fefe"
+<img src="../media/abuse-ssl-bypass-waf-example2.png"
+    alt="Example provided by tool author LandGrey"
 />
 </details>
 
 When utilizing certain SSL/TLS ciphers to request a payload URL, if a WAF keyword or regular expression is not present in the HTML page, it is possible to bypass the WAF by utilizing the Cipher.
 <details>
 <summary role="button">Click to expand image</summary>
-<img src="../media/abuse-ssl-bypass-waf-example1.png"
-    alt="screenshot of siteadviser provided by 42zip owner, Fefe"
+<img src="../media/abuse-ssl-bypass-waf-example3.png"
+    alt="Example provided by tool author LandGrey"
 />
 </details>
 
