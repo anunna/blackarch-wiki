@@ -1,8 +1,9 @@
 ---
 name: aclpwn
-url: https://github.com/fox-it/aclpwn.py
+url: 'https://github.com/fox-it/aclpwn.py'
 description: Active Directory ACL exploitation with BloodHound.
 group: blackarch blackarch-exploitation
+published: true
 ---
 
 # aclpwn
@@ -85,7 +86,7 @@ Please supply the password or LM:NTLM hashes for the account S2012EXC.TESTSEGMEN
 ```
 
 ## Additional Resources
-**Mitigations and detection:** aclpwn does not exploit any vulnerabilities, but relies on misconfigured (often because of delegated privileges) or insecure default ACLs. To solve these issues, it is important to identify potentially dangerous ACLs in your Active Directory environment with BloodHound. For detection, Windows Event Logs can be used. The relevant event IDs are described in the developer's [blog](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/).
+**Mitigations and detection:** aclpwn does not exploit any vulnerabilities, but relies on misconfigured (often because of delegated privileges) or insecure default ACLs. To solve these issues, it is important to identify potentially dangerous ACLs in your Active Directory environment with [BloodHound](https://github.com/BloodHoundAD/BloodHound). For detection, Windows Event Logs can be used. The relevant event IDs are described in the developer's [blog](https://blog.fox-it.com/2018/04/26/escalating-privileges-with-acls-in-active-directory/).
 
 ## Disclaimer
 It is important to note that the use of this tool for any illegal or unauthorized activities is strictly prohibited. The creators of this tool and BlackArch Linux will not be held liable for any actions taken with its use. This tool is intended for use by security professionals and researchers for lawful and ethical testing purposes only. Remember, always obtain proper authorization and comply with all relevant laws and regulations when using this tool or any other security tool.
