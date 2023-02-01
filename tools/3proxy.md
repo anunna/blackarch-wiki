@@ -6,7 +6,7 @@ group: blackarch blackarch-proxy
 published: true
 ---
 
-# 3proxy
+# **3proxy**
 
 ## Description
 A Tiny free proxy server.
