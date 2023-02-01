@@ -18,7 +18,7 @@ A password dictionary attack tool that targets windows authentication via the SM
 
 ## Tool functions
 - Designed as a password dictionary attack tool that targets windows authentication via the SMB protocol.
-- A wrapper script around the `smbclient` binary.
+- A wrapper script around the [smbclient](https://wiki.archlinux.org/title/Samba#Client) binary.
 
 ## Installation
 Instructions on how to install the tool or package on BlackArch Linux.
