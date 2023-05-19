@@ -26,3 +26,41 @@ We recommend that regular backups of the mirror should be taken to ensure that y
 
 ##### Monitoring and Performance Optimization: 
 Regular monitoring of the mirror is important to ensure that it remains fast and reliable. Performance optimization techniques, such as using a CDN, caching, and compression, can help improve the mirror's performance.
+
+## Setup
+The following rsync command should be sufficient:
+```
+rsync -avzzl --delete [...] $site:/blackarch/. /wherever/you/want/to/sync/to/.
+```
+##### A breakdown of the commands used:
+`-a`: Archive mode, which preserves file permissions, timestamps, and other attributes.
+
+`-v`: Verbose mode, which displays detailed information about the synchronization process.
+
+`-zz`: Enables compression during data transfer to reduce bandwidth usage.
+
+`-l`: Copies symlinks as symlinks instead of copying the files they point to.
+
+`--delete`: This option instructs rsync to delete any files or directories in the destination that do not exist in the source. It ensures that the destination is an exact mirror of the source.
+
+`[...]`: This represents the source files and directories you want to synchronize. You would replace [...] with the actual paths of the files and directories you wish to sync.
+
+`$site:/blackarch/.`: This specifies the remote destination where the files will be synchronized. $site is a placeholder for the remote server's hostname or IP address. Any link from [mirrors](https://blackarch.org/downloads.html#mirror-list) can be used.
+
+The following mirrors are recommended
+```
+rsync://blackarch.unixpeople.org/blackarch/
+rsync://ftp.halifax.rwth-aachen.de/blackarch/
+rsync://rsync.mirrorservice.org/blackarch.org/blackarch/
+```
+**NOTE: It is __not__ recommended to sync the main site `rsync://blackarch.org/blackarch/`**
+
+/blackarch/ is the directory on the remote server where the files will be synced.
+
+`wherever/you/want/to/sync/to/.`: This represents the local destination directory where the files will be synchronized. You would replace /wherever/you/want/to/sync/to/ with the actual path of the local directory where you want the files to be synced.
+
+
+To use this command, you would replace `$site` with the actual hostname or IP address of the remote server, and `[...]` with the source files and directories you want to sync.
+```
+rsync -avzzl --delete /path/to/local/files/ user@example.com:/home/remoteuser/destination/.
+```
