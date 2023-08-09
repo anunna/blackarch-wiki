@@ -62,12 +62,12 @@ Depending on the problem you're facing, you can visit our [Github](https://githu
 * [BlackArch Installer repository](https://github.com/blackarch/blackarch-installer/issues): related to our installer. For example: the installation failed or you can not boot after a successful installation. 
 
 You can also take some time to browse our other [repositories](https://guthub.com/blackarch).
-If you still cannot find a soltuon to your problem, visit our [Matrix channel](https://matrix.to/#/%23BlackArch:matrix.org) and ask for help. But please be advised, BlackArch users are in different parts of the globe (different time zones). Therefor, be patient. Ask your question clearly and wait for a reply.
+If you still cannot find a solution to your problem, visit our [Matrix channel](https://matrix.to/#/%23BlackArch:matrix.org) and ask for help. But please be advised, BlackArch users are in different parts of the globe (different time zones). Therefor, be patient. Ask your question clearly and wait for a reply.
 
 ### How can I contribute to BlackArch?
 
 BlackArch Linux is a huge project, we are adding new applications and features everyday. 
-If you would like to help us with anytihng, visit our [Matrix channel](https://matrix.to/#/%23BlackArch:matrix.org). Just remember to wait for a reply, we are in different time zones.
+If you would like to help us with anything, visit our [Matrix channel](https://matrix.to/#/%23BlackArch:matrix.org). Just remember to wait for a reply, we are in different time zones.
 
 ### Troubleshooting
 
