@@ -53,7 +53,7 @@ rsync://blackarch.unixpeople.org/blackarch/
 rsync://ftp.halifax.rwth-aachen.de/blackarch/
 rsync://rsync.mirrorservice.org/blackarch.org/blackarch/
 ```
-**NOTE: It is **not** recommended to sync the main site `rsync://blackarch.org/blackarch/`
+**NOTE: It is NOT recommended to sync the main site `rsync://blackarch.org/blackarch/`**
 
 /blackarch/ is the directory on the remote server where the files will be synced.
 
