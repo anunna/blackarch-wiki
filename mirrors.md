@@ -30,7 +30,7 @@ Regular monitoring of the mirror is important to ensure that it remains fast and
 ## Setup
 The following rsync command should be sufficient:
 ```
-rsync -avzzl --delete [...] $site:/blackarch/. /wherever/you/want/to/sync/to/.
+rsync -avzzlr --delete [...] $site:/blackarch/. /wherever/you/want/to/sync/to/.
 ```
 ##### A breakdown of the commands used:
 `-a`: Archive mode, which preserves file permissions, timestamps, and other attributes.
@@ -40,6 +40,8 @@ rsync -avzzl --delete [...] $site:/blackarch/. /wherever/you/want/to/sync/to/.
 `-zz`: Enables compression during data transfer to reduce bandwidth usage.
 
 `-l`: Copies symlinks as symlinks instead of copying the files they point to.
+
+`-r`: Allows rsync to copy the contents of the source directory and subdirectories.
 
 `--delete`: This option instructs rsync to delete any files or directories in the destination that do not exist in the source. It ensures that the destination is an exact mirror of the source.
 
@@ -62,5 +64,5 @@ rsync://rsync.mirrorservice.org/blackarch.org/blackarch/
 
 To use this command, you would replace `$site` with the actual hostname or IP address of the remote server, and `[...]` with the source files and directories you want to sync.
 ```
-rsync -avzzl --delete /path/to/local/files/ user@example.com:/home/remoteuser/destination/.
+rsync -avzzlr --delete /path/to/local/files/ user@example.com:/home/remoteuser/destination/.
 ```
