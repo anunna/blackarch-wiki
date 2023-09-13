@@ -49,7 +49,7 @@ Password: `blackarch`
 
 Networking is disabled by default on this live environment for various professional reasons, e.g., Forensic Analysis.
 
-Networking is controlled by systemd and can be enabled with `systemctl enable --now systemd-networkd && dhcpcd` | For further reading please see [systemd-networkd](https://wiki.archlinux.org/title/Systemd-networkd).
+Networking is controlled by systemd and can be enabled with `systemctl enable --now systemd-networkd && dhcpcd`. For further reading please see [systemd-networkd](https://wiki.archlinux.org/title/Systemd-networkd).
 
 Wireless networking is controlled by [iwd](https://wiki.archlinux.org/title/Iwd).
 ```
@@ -63,4 +63,3 @@ Blackarch-linux-netinstall is an alternative option for those that prefer a smal
 ## blackarch-install method
 
 This guide assumes you have already downloaded and created your bootable BlackArch Linux medium. Both full and netinstall comes bundled with `blackarch-install`.
-
