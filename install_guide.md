@@ -37,10 +37,10 @@ BlackArch-Linux-Full is the most popular iso because its suitable for offline us
 
 The default window manager is [fluxbox](http://fluxbox.org/).
 Other options include:
-- [i3](https://i3wm.org/) - Tiling window manager | https://i3wm.org/
-- [AwesomeWM](https://awesomewm.org/ - Highly configurable, next gen framework window manager. Configured in Lua. | https://awesomewm.org/
-- [Spectrwm](https://github.com/conformal/spectrwm) - Small dynamic tiling window manager, largely inspired by xmonad and dwm. | https://github.com/conformal/spectrwm
-- [Openbox](http://openbox.org/) - Highly configurable window manager with extensive standards support. | http://openbox.org/
+- [i3](https://i3wm.org/): Tiling window manager.
+- [AwesomeWM](https://awesomewm.org/): Highly configurable, next gen framework window manager. Configured in Lua.
+- [Spectrwm](https://github.com/conformal/spectrwm): Small dynamic tiling window manager, largely inspired by xmonad and dwm.
+- [Openbox](http://openbox.org/): Highly configurable window manager with extensive standards support.
 
 These window managers are selectable at the greeter.
 
