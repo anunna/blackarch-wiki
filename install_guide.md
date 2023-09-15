@@ -9,7 +9,7 @@ BlackArch Linux offers two installers for your preference. Each bundled as a def
 
 ### blackarch-installer
 
-The standard installer for BlackArch Linux is a guided CLI installer which might seem difficult to many users trying out BlackArch Linux. However, it is a guided installer with a series of options for you to select, or accept the defaults selected by the BlackArch team.
+The standard installer for BlackArch Linux is a guided CLI installer. While it may appear daunting to some users trying out BlackArch Linux, it offers a series of options for customization. You can either select your preferences or simply accept the defaults chosen by the BlackArch team.
 
 The [blackarch-installer](https://github.com/BlackArch/blackarch-installer) can be installed from the BlackArch repository as well.
 ```
@@ -33,7 +33,7 @@ We have a number of options for your convenience as follow:
 
 ### Blackarch-linux-full
 
-BlackArch-Linux-Full is the most popular iso because its suitable for offline use and offline installation. It is bundled with a graphical live environment, five popular [Window Managers](https://wiki.archlinux.org/title/Window_manager) for you to choose from and all tools in the BlackArch Linux repository. Note that this is a large download. Should you choose to run the installation online, be cautious of your bandwidth limitations due to the size of the entire repository.
+BlackArch-Linux-Full is the most popular ISO because it's suitable for offline use and offline installation. It is bundled with a graphical live environment, five popular [Window Managers](https://wiki.archlinux.org/title/Window_manager) for you to choose from, and all tools in the BlackArch Linux repository. Please note that this is a large download. If you choose to run the installation online, be cautious of your bandwidth limitations due to the size of the entire repository.
 
 The default window manager is [fluxbox](http://fluxbox.org/).
 Other options include:
@@ -58,19 +58,19 @@ iwctl station wlan0 connect <SSID>
 
 ### Blackarch-linux-netinstall
 
-Blackarch-linux-netinstall is an alternative option for those that prefer a smaller download, a minimal live environment (TTY only). You will not be able to run `blackarch-install` in offline mode and will require an internet connection for installation. You have the option to install all tools similar to the blackarch-linux-full installation. Note that should you choose to install all tools in the repo, your download size will be approximately 100GB.
+Blackarch-linux-netinstall provides a smaller download option with a minimal live environment (TTY only). However, please note that it requires an internet connection for installation, and you won't be able to run blackarch-install in offline mode. You still have the option to install all tools, similar to the blackarch-linux-full installation. Be aware that if you opt for the full toolset, the download size will be approximately 100GB.
 
 ### Blackarch-linux-slim
 
-Blackarch-linux-slim is our newest addition targeting the general security professional and users that are new to Arch Linux, or Linux in general. The ISO comes bundled with a Desktop Manager that will bring comfort to new users. We have handpicked 50 of the most popular security tools. This ISO is suitable for users that need a smaller download but also require a convenient live environment.
+Blackarch-linux-slim is our latest addition, designed for both general security professionals and newcomers to Arch Linux or Linux in general. This ISO includes a user-friendly Desktop Manager and features a curated selection of 50 popular security tools. It's ideal for users seeking a smaller download size while still needing a convenient live environment.
 
-#### Features
+#### Key Features
 
-- XFCE Desktop Manager.
-- 50 popular handpicked tools. List can be found [here]().
-- Calamares: A graphical installer for easy install
-- Access to blackarch-installer: CLI installer that is standard on the full and netinstall ISO.
-- Access to the complete BlackArch repository (requires internet connection).
+- XFCE Desktop: Enjoy a user-friendly XFCE Desktop Manager for a comfortable experience.
+- Curated Tools: Benefit from a selection of 50 carefully chosen popular security tools. [View the list](/slim-tools).
+- Easy Installation: Utilize Calamares, a graphical installer, for a hassle-free setup.
+- Installation Options: Access the versatile blackarch-installer, available via the CLI, as standard on the full and netinstall ISOs.
+- Full Repository: Access the complete BlackArch repository (internet connection required) for an extensive range of tools and resources.
 
 Username: `root`
 Password: `blackarch`
