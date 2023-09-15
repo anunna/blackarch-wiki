@@ -49,7 +49,7 @@ Password: `blackarch`
 
 Networking is disabled by default on the live environment for various professional reasons, e.g., Forensic Analysis.
 
-Networking is managed by systemd and can be enabled with `systemctl enable --now systemd-networkd && dhcpcd` | For further reading please see [systemd-networkd](https://wiki.archlinux.org/title/Systemd-networkd).
+Networking is managed by systemd and can be enabled with `systemctl enable --now systemd-networkd && dhcpcd`. For further reading please see [systemd-networkd](https://wiki.archlinux.org/title/Systemd-networkd).
 
 Wireless networking is managed by [iwd](https://wiki.archlinux.org/title/Iwd).
 ```
@@ -90,4 +90,3 @@ You wil be required to configure your partitons
 ## Calamares method
 
 This guide assumes you have already downloaded and created your bootable BlackArch Linux medium. The Calamares installer is bundled with the Slim ISO.
-
