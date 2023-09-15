@@ -81,9 +81,95 @@ This guide assumes you have already downloaded and created your bootable BlackAr
 
 You may open a terminal by right clicking on the desktop and run `blackarch-install`. You will be prompted for your installation type, i.e., offline or online.
 
+### Online installation
+
+#### Installation Modes
+
+Select option 1 from the installation modes.It is recommended to select verbose installation in order to observe the installation progress and take note of any errors that may occur.
+
+#### Keymaps
+
+The default keymap is `en`. You may select a preferred keymap from the list of available keymaps.
+
+#### Hostname
+
+Enter your preferred hostname.
+
+#### Networking
+
+Your system will automatically detect all network interfaces in your system. Type out your preferred network interface and skip device configuration if you are already connected to the internet. This is confirmed when the script is launched because the script checks for an updated version of itself. If not connected, select option option 1.
+
+#### Partitions
+
+Validate your system boot type. Most modern systems boots UEFI by default. If your computer was manufactured prior to 2017, please confirm whether you have booted UEFI or BIOS/MBR.
+
+UEFI systems must create a GPT partition scheme. You will be prompted for the type once you boot into `CFDISK` as prompted. CFDISK wipes the entire disk, please proceed with caution. Should you wish to setup dual boot, first create your partions via `FDISK` (Recommended for advanced users). 
+
+Default partition layout:
+- BOOT (/boot): 1GB
+- SWAP (SWAP): x2 system memory e.g., 16GB system memory = 32GB SWAP. This is a best practice guidline only and you may proceed with your own preferrence. 
+- ROOT (/): This will vary depending on whether you wish to install all BlackArch tools or not. 60 - 120 GB disk size.
+
+In `CFDISK`, create the BOOT partition. Select the `EFI Filesystem` parition type. For the swap partition, assign the `Linux swap / Solaris` type. For the root, leave default on `Linux` and write all your changes before exiting. 
+
+##### Encryption
+
+Select whether you would like a fully encrypted root partition and set a password. Note you will need to remember this password and enter each time you boot your BlackArch system. 
+
+Complete the harddrive configuration by matching your partitions and selecting your desired filesystem. 
+
+E.g., 
+- Boot partition: /dev/sda1
+- Root partition: /dev/sda3 
+	- FS Type: ext4
+- Swap parition: /dev/sda2
+	- or leave blank if no swap partition is required.
+
+#### Accounts
+
+Set the root password. Enter details for your personal account should you have one created.
+
+#### Mirrors
+
+Select from the list your preferred mirror. Note this can be manually changed or updated in `/etc/pacman.d/blackarch-mirrorlist` by commenting out the mirrors your want. Alternatively you can install `rankmirrors` e.g., `rankmirrors -n 6 /etc/pacman.d/mirrorlist.backup > /etc/pacman.d/blackarch-mirrorlist`
+
+##### Window Managers
+
+You the choice to install xorg-server with one or all Window Managers. If you opt out, your system will boot TTY and you have to manually set it up. 
+
+All blackarch environment configs are avialable in the repository as following:
+
+```
+blackarch-config-fluxbox
+blackarch-config-spectrwm
+blackarch-config-awesome
+blackarch-config-i3
+blackarch-config-xfce
+blackarch-config-vim
+blackarch-config-gtk
+blackarch-config-zsh
+blackarch-config-icons
+blackarch-config-openbox
+blacakrch-config-bash
+blackarch-config-x11
+blackarch-config-lxdm
+```
+
+Reboot and you can enjoy your newly setup BlackArch Linux machine. 
+
 ### Offline installation
 
-You have selected the offline installation method. It is recommended to select verbose installation in order to observe the installation status and take note of any errors that may occur.
+#### Installation Modes
+
+Select option 2 from the installation modes. It is recommended to select verbose installation in order to observe the installation progress and take note of any errors that may occur.
+
+##### Keymaps
+
+The default keymap is `en`. You may select a preferred keymap from the list of available keymaps.
+
+##### Hostname
+
+Enter a name for your host.
 
 You wil be required to configure your partitons
 
