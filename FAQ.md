@@ -58,7 +58,7 @@ It's very important to follow the suggestions above as well as checking the [Arc
 
 Depending on the problem you're facing, you can visit our [Github](https://github.com/blackarch/blackarch) and submit an issue on our issue page, such as:
 * [BlackArch repository](https://github.com/blackarch/blackarch/issues): related to our packages. For example: a package hasn't been updated or failed to run.
-* [BlackARch Site repository](https://github.com/blackarch/blackarch-site/issues): related to our website. For example: If a link is broken or an image isn't loading.
+* [BlackArch Site repository](https://github.com/blackarch/blackarch-site/issues): related to our website. For example: If a link is broken or an image isn't loading.
 * [BlackArch Installer repository](https://github.com/blackarch/blackarch-installer/issues): related to our installer. For example: the installation failed or you can not boot after a successful installation. 
 
 You can also take some time to browse our other [repositories](https://guthub.com/blackarch).
