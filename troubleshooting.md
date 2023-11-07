@@ -11,6 +11,9 @@ Example of a conflict that may occure during a system update:
 ```
 If you have installed BlackArch Linux using one of the currnet ISOs (dated 2023-04-01 or 2023-05-01) or earlier, you will need to execute the following command to address the JDK/JRE conflicts:
 ```shell
-pacman -Rns mobsf tls-attacker jre-openjdk jdk-openjdk && pacman -Syyu && sysclean.sh && pacman -S blackarch --needed
+pacman -Rns mobsf tls-attacker jre-openjdk jdk-openjdk
+pacman -Syyu
+sysclean.sh
+pacman -S blackarch --needed
 ```
 
