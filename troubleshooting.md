@@ -1,6 +1,6 @@
 # Troubleshooting
 
-## JDK/JRE 21 changes conflicts during package updates
+### JDK/JRE 21 changes conflicts during package updates
 
 Following a recent [change](https://archlinux.org/news/incoming-changes-in-jdk-jre-21-packages-may-require-manual-intervention/) (2023-11-02) from Arch Linux regarding JDK/JRE packages. You may run into dependency conflicts when updating your BlackArch Linux system and will require manual intervention.
 
