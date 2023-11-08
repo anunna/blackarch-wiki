@@ -41,7 +41,7 @@ There are links in the top right corner of the site to edit the content in GitHu
 ![screenshot github editor](media/github_editor.png)
 
 
-The GitHub UI provides an option to either commit directly to `main` branch (if you are a member of Talon Community) or make a new branch and submit a pull request, which can be merged from a member of TalonCommunity.
+The GitHub UI provides an option to either commit directly to `main` branch (if you are a member of BlackArch Linux) or submit a pull request, which can be merged by a member of BlackArch Linux.
 
 ### Using git
 
