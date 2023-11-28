@@ -1,7 +1,5 @@
 # Welcome to the BlackArch Linux Wiki
 
-# **The site is in development phase and not open to QA/Contribution. It will be opened to the public when development reaches an agreed state.**
-
 ## What is BlackArch Linux
 
 [BlackArch](https://blackarch.org) is a complete Linux distribution for penetration testers and security researchers.
