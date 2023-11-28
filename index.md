@@ -6,7 +6,7 @@
 
 [BlackArch](https://blackarch.org) is a complete Linux distribution for penetration testers and security researchers.
 It is derived from [ArchLinux](https://www.archlinux.org) and users can install BlackArch components
-individually or in groups directly on top of it. 
+individually or in groups directly on top of it.
 
 The toolset is distributed as an Arch Linux [unoffical user repository](https://wiki.archlinux.org/index.php/Unofficial\_User\_Repositories) so you can install BlackArch on top of
 an existing Arch Linux installation. Packages may be installed individually or by category.
@@ -32,7 +32,7 @@ The goal of this wiki is to provide information and documentation for the users 
 
 ### BlackArch on Matrix
 BlackArch has a Matrix community for users to get help, ask questions, and meet one another.
-If you are starting to use BlackArch, join the [BlackArch Room](https://matrix.to/#/%23BlackArch:matrix.org). 
+If you are starting to use BlackArch, join the [BlackArch Room](https://matrix.to/#/%23BlackArch:matrix.org).
 This is the most efficient way to get questions answered if they are not covered in this wiki.
 
 ### BlackArch on Reddit
@@ -40,9 +40,9 @@ This is the most efficient way to get questions answered if they are not covered
 While actively monitored by the team and community, for those that prefer a slightly slower means of support and community interaction,
 join our [BlackArch subreddit](https://reddit.com/r/OfficialBlackArchLinux). We also post project notices here.
 
-### BlackArch on Twitter
+### BlackArch on X
 
-For updates on the status of new ISO releases, tool additions and other announcements, follow us on [Twitter](https://twitter.com/BlackArchLinux).
+For updates on the status of new ISO releases, tool additions and other announcements, follow us on [X](https://X.com/BlackArchLinux).
 
 ### BlackArch on Github
 
@@ -50,4 +50,4 @@ Get involved by contributing to BlackArch and report bugs, request new tools, or
 
 # Contributing
 
-This wiki is maintained by the members of the BlackArch Community (i.e., anyone who uses BlackArch). Contributions are welcomed and appreciated. See the [Contributing](/CONTRIBUTING) documentation. Please keep in mind our [Code of Conduct](/CODE_OF_CONDUCT).
+This wiki is maintained by the members of BlackArch Linux, including the BlackArch Linux community. Contributions are welcomed and appreciated. See the [Contributing](/CONTRIBUTING) documentation. Please keep in mind our [Code of Conduct](/CODE_OF_CONDUCT).
