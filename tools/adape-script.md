@@ -55,10 +55,7 @@ The script will be located in `/usr/share/windows/adape-script` and called `ADAP
 
 
 ## Additional Resources
-### External Libs
-- To gain extreme performance, 0d1n uses a thread pool of POSIX threads. You can study this small [library](https://github.com/Pithikos/C-Thread-Pool).
-- 0d1n uses OpenBSD/NetBSD functions to work with strings something like `strlcat()` and `strlcpy()` to prevent buffer overflow. More info [here](https://man.openbsd.org/strlcpy.3).
-- Developer demonstration [video](https://www.youtube.com/watch?v=1L22mbbVge0).
+
 
 ## Disclaimer
 It is important to note that the use of this tool for any illegal or unauthorized activities is strictly prohibited. The creators of this tool and BlackArch Linux will not be held liable for any actions taken with its use. This tool is intended for use by security professionals and researchers for lawful and ethical testing purposes only. Remember, always obtain proper authorization and comply with all relevant laws and regulations when using this tool or any other security tool.
