@@ -23,18 +23,18 @@ paginate_path: "/blog/page:num"
 permalink: pretty
 # (boolean) Enable/disable download buttons in sidebar
 show_downloads: true
-repository: anunna/ba-wiki
+repository: anunna/blackarch-wiki
 # (string) Specify github metadata allowing wiki tool buttons to work
 git_hostname: "github.com"
 git_owner_url: "https://github.com/anunna"
 git_owner_name: "anunna"
-repository_url: "https://github.com/anunna/ba-wiki"
-git_repository_nwo: "anunna/ba-wiki"
+repository_url: "https://github.com/anunna/blackarch-wiki"
+git_repository_nwo: "anunna/blackarch-wiki"
 git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: 
+logo_url:
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics: 
+google_analytics:
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: ""
 # (boolean) if you're using github wiki as submodule then this config
@@ -52,11 +52,11 @@ use_prose_io: true
 search_engine : "js"
 # Setting google custom search engine for google
 # cse search bar (https://cse.google.it/cse/)
-google_cse_token: 
+google_cse_token:
 
 # (string) path of site root. Normally it's must be empty because _config.yml resides in the root of your repository.
-# If you have _config.yml and your site in a subfolder, then change this config accordly 
-site_root: 
+# If you have _config.yml and your site in a subfolder, then change this config accordly
+site_root:
 
 #
 # Jekyll configurations
@@ -148,26 +148,26 @@ exclude:
 # Check wiki documentation to learn how they work
 #
 
-inc_before_toc : 
-inc_after_toc : 
-inc_before_content : 
-inc_after_content : 
-inc_before_footer : 
-inc_after_footer : 
-inc_before_head : 
-inc_after_head : 
-inc_before_meta : 
-inc_after_meta : 
-inc_before_scripts : 
-inc_after_scripts : 
-inc_before_styles : 
+inc_before_toc :
+inc_after_toc :
+inc_before_content :
+inc_after_content :
+inc_before_footer :
+inc_after_footer :
+inc_before_head :
+inc_after_head :
+inc_before_meta :
+inc_after_meta :
+inc_before_scripts :
+inc_after_scripts :
+inc_before_styles :
 inc_after_styles : "blackarch.html"
-inc_before_header : 
-inc_after_header : 
-inc_before_tail : 
-inc_after_tail : 
-inc_before_tools : 
-inc_after_tools : 
+inc_before_header :
+inc_after_header :
+inc_before_tail :
+inc_after_tail :
+inc_before_tools :
+inc_after_tools :
 
 inc_before_page_list : sidebar.html
 inc_after_page_list :
