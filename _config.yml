@@ -23,13 +23,13 @@ paginate_path: "/blog/page:num"
 permalink: pretty
 # (boolean) Enable/disable download buttons in sidebar
 show_downloads: true
-repository: anunna/ - blackarch-wiki
+repository: anunna/blackarch-wiki
 # (string) Specify github metadata allowing wiki tool buttons to work
 git_hostname: "github.com"
 git_owner_url: "https://github.com/anunna"
 git_owner_name: "anunna"
-repository_url: "https://github.com/anunna/ - blackarch-wiki"
-git_repository_nwo: "anunna/ - blackarch-wiki"
+repository_url: "https://github.com/anunna/blackarch-wiki"
+git_repository_nwo: "anunna/blackarch-wiki"
 git_branch: "main"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url:
