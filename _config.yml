@@ -141,9 +141,8 @@ include:
 
 exclude:
   - "prep"
-arch
 
-catagories-order:
+categories-order:
  - blackarch-anti-forensic
  - blackarch-automation
  - blackarch-automobile
