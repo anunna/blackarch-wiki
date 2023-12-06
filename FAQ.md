@@ -54,19 +54,25 @@ You could try to temporarily switch to another mirror:
 `sudoedit /etc/pacman.d/blacakrch-mirrorlist`
 It's very important to follow the suggestions above as well as checking the [ArchLinux Wiki](https://wiki.archlinux.org) to assist you as needed. If you still encounter any problems; pay us a visit at [#BlackArch](https://matrix.to/#/%23BlackArch:matrix.org).
 
+4th option:
+**Easiest Option** Update the Arch Linux and BlackArch Linux keyrings which will refresh all the keys and automatically resolve curruption.
+```
+pacman -S archlinux-keyring blackarch-keyring && pacman -Syu
+```
+
 ### Where can I get help for a problem that I'm facing?
 
 Depending on the problem you're facing, you can visit our [Github](https://github.com/blackarch/blackarch) and submit an issue on our issue page, such as:
 * [BlackArch repository](https://github.com/blackarch/blackarch/issues): related to our packages. For example: a package hasn't been updated or failed to run.
 * [BlackArch Site repository](https://github.com/blackarch/blackarch-site/issues): related to our website. For example: If a link is broken or an image isn't loading.
-* [BlackArch Installer repository](https://github.com/blackarch/blackarch-installer/issues): related to our installer. For example: the installation failed or you can not boot after a successful installation. 
+* [BlackArch Installer repository](https://github.com/blackarch/blackarch-installer/issues): related to our installer. For example: the installation failed or you can not boot after a successful installation.
 
 You can also take some time to browse our other [repositories](https://guthub.com/blackarch).
 If you still cannot find a solution to your problem, visit our [Matrix channel](https://matrix.to/#/%23BlackArch:matrix.org) and ask for help. But please be advised, BlackArch users are in different parts of the globe (different time zones). Therefor, be patient. Ask your question clearly and wait for a reply.
 
 ### How can I contribute to BlackArch?
 
-BlackArch Linux is a huge project, we are adding new applications and features everyday. 
+BlackArch Linux is a huge project, we are adding new applications and features everyday.
 If you would like to help us with anything, visit our [Matrix channel](https://matrix.to/#/%23BlackArch:matrix.org). Just remember to wait for a reply, we are in different time zones.
 
 ### Troubleshooting
