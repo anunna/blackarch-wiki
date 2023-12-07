@@ -29,7 +29,7 @@ pacman-key --populate archlinux blackarch
 pacman-key --update keyserver.ubuntu.com
 ```
 
-When runnnig system updates, use the --ignore flag to exclude gnupg or ignore gnupg in your pacman.conf file.
+When runnnig system updates, use the `--ignore` flag to exclude gnupg or ignore gnupg in your `pacman.conf` file.
 
 #### Example 1
 Temporarily ignore the package during system update.
