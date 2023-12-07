@@ -26,7 +26,7 @@ pacman -U https://archive.archlinux.org/packages/g/gnupg/gnupg-2.2.41-2-x86_64.p
 rm -rf /etc/pacman.d/gnupg
 pacman-key --init
 pacman-key --populate archlinux blackarch
-pacman-key --update keyserver.ubuntu.com
+pacman-key --update --keyserver keyserver.ubuntu.com
 ```
 
 When runnnig system updates, use the `--ignore` flag to exclude gnupg or ignore gnupg in your `pacman.conf` file.
