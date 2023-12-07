@@ -16,4 +16,29 @@ pacman -Syyu
 sysclean.sh
 pacman -S blackarch --needed
 ```
+### GNUPG 2.4.3-2 broken in Arch Linux and BlackArch Linux
 
+After GNUPG updated to version 2.4 in Arch Linux with major upstream changes, there are issues with the blackarch-keyring being corrupted. This prevents you from running the `strap.sh` script, installing some appications verifying integrity via AUR, and in some cases; generating new gpg keys.
+We are working on finding a solution. However, downgrading to the previous version of GNUPG will resolve your issue.
+
+```
+pacman -U https://archive.archlinux.org/packages/g/gnupg/gnupg-2.2.41-2-x86_64.pkg.tar.zst
+rm -rf /etc/pacman.d/gnupg
+pacman-key --init
+pacman-key --populate archlinux blackarch
+pacman-key --update keyserver.ubuntu.com
+```
+
+When runnnig system updates, use the --ignore flag to exclude gnupg or ignore gnupg in your pacman.conf file.
+
+#### Example 1
+Temporarily ignore the package during system update.
+```
+pacman -Syu --ignore gnupg
+```
+
+#### Example 2
+Permanently ignoring the package.
+```
+sed -i '/IgnorePkg/ s/^#//; /IgnorePkg/ s/$/ gnupg/' /etc/pacman.conf
+```
