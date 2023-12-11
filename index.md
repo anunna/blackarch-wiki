@@ -48,4 +48,4 @@ Get involved by contributing to BlackArch and report bugs, request new tools, or
 
 # Contributing
 
-This wiki is maintained by the members of BlackArch Linux, including the BlackArch Linux community. Contributions are welcomed and appreciated. See the [Contributing](/CONTRIBUTING) documentation. Please keep in mind our [Code of Conduct](/CODE_OF_CONDUCT).
+This wiki is maintained by the members of BlackArch Linux, including the BlackArch Linux community. Contributions are welcome and encouraged. See the [Contributing](/CONTRIBUTING) documentation. Please keep in mind our [Code of Conduct](/CODE_OF_CONDUCT).
