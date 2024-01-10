@@ -1,6 +1,6 @@
 # Installation Guide
 
-This document is a guide for installing BlackArch Linux using the live system booted from blackarch-linux-full or blackarch-linux-netinst made from an offical installation image. 
+This document is a guide for installing BlackArch Linux using the live system booted from blackarch-linux-full or blackarch-linux-netinst made from an offical installation image.
 
 BlackArch Linux should run on any x86_64 compatible machine with a minimum of 512MB RAM if opting out to installing [X display](https://wiki.archlinux.org/title/Xorg) and [Window Managers](https://wiki.archlinux.org/title/Window_manager), 1GB is recommended as more memory is needed to boot a live medium. An alternataive installation of BlackArch Linux using the live system booted from blackarch-linux-slim installation media should also run on any x86_64 compatible machine with a minimum of 1GB (2GB Recommended).
 
@@ -77,7 +77,7 @@ Password: `blackarch`
 
 ## blackarch-install CLI method
 
-This guide assumes you have already downloaded and created your bootable BlackArch Linux medium. The `blackarch-install` script is bundled with the full and netinstall ISO. 
+This guide assumes you have already downloaded and created your bootable BlackArch Linux medium. The `blackarch-install` script is bundled with the full and netinstall ISO.
 
 You may open a terminal by right clicking on the desktop and run `blackarch-install`. You will be prompted for your installation type, i.e., offline or online.
 
@@ -103,24 +103,24 @@ Your system will automatically detect all network interfaces in your system. Typ
 
 Validate your system boot type. Most modern systems boots UEFI by default. If your computer was manufactured prior to 2017, please confirm whether you have booted UEFI or BIOS/MBR.
 
-UEFI systems must create a GPT partition scheme. You will be prompted for the type once you boot into `CFDISK` as prompted. CFDISK wipes the entire disk, please proceed with caution. Should you wish to setup dual boot, first create your partions via `FDISK` (Recommended for advanced users). 
+UEFI systems must create a GPT partition scheme. You will be prompted for the type once you boot into `CFDISK` as prompted. CFDISK wipes the entire disk, please proceed with caution. Should you wish to setup dual boot, first create your partions via `FDISK` (Recommended for advanced users).
 
 Default partition layout:
 - BOOT (/boot): 1GB
-- SWAP (SWAP): x2 system memory e.g., 16GB system memory = 32GB SWAP. This is a best practice guidline only and you may proceed with your own preferrence. 
+- SWAP (SWAP): x2 system memory e.g., 16GB system memory = 32GB SWAP. This is a best practice guidline only and you may proceed with your own preferrence.
 - ROOT (/): This will vary depending on whether you wish to install all BlackArch tools or not. 60 - 120 GB disk size.
 
 In `CFDISK`, create the BOOT partition. Select the `EFI Filesystem` parition type. For the swap partition, assign the `Linux swap / Solaris` type. For the root, leave default on `Linux` and write all your changes before exiting. 
 
 ##### Encryption
 
-Select whether you would like a fully encrypted root partition and set a password. Note you will need to remember this password and enter each time you boot your BlackArch system. 
+Select whether you would like a fully encrypted root partition and set a password. Note you will need to remember this password and enter each time you boot your BlackArch system.
 
 Complete the harddrive configuration by matching your partitions and selecting your desired filesystem. 
 
-E.g., 
+E.g.,
 - Boot partition: /dev/sda1
-- Root partition: /dev/sda3 
+- Root partition: /dev/sda3
 	- FS Type: ext4
 - Swap parition: /dev/sda2
 	- or leave blank if no swap partition is required.
@@ -135,7 +135,7 @@ Select from the list your preferred mirror. Note this can be manually changed or
 
 ##### Window Managers
 
-You the choice to install xorg-server with one or all Window Managers. If you opt out, your system will boot TTY and you have to manually set it up. 
+You the choice to install xorg-server with one or all Window Managers. If you opt out, your system will boot TTY and you have to manually set it up.
 
 All blackarch environment configs are avialable in the repository as following:
 
@@ -155,7 +155,7 @@ blackarch-config-x11
 blackarch-config-lxdm
 ```
 
-Reboot and you can enjoy your newly setup BlackArch Linux machine. 
+Reboot and you can enjoy your newly setup BlackArch Linux machine.
 
 ### Offline installation
 
