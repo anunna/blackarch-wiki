@@ -9,7 +9,7 @@ individually or in groups directly on top of it.
 The toolset is distributed as an Arch Linux [unoffical user repository](https://wiki.archlinux.org/index.php/Unofficial\_User\_Repositories) so you can install BlackArch on top of
 an existing Arch Linux installation. Packages may be installed individually or by category.
 
-The constantly expanding repository currently includes over [2800](https://blackarch.org/tools.html) tools.
+The constantly expanding repository currently includes over [2900](https://blackarch.org/tools.html) tools.
 All tools are thoroughly tested before being added to the codebase to maintain the quality of the repository.
 
 ## Goal of this Wiki
