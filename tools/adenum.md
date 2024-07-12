@@ -39,33 +39,32 @@ pacman -S adenum
 
 ## Attack examples
 ### Basic usage
-- To perform a basic enumeration of an Active Directory domain, use the following command structure:
+To perform a basic enumeration of an Active Directory domain, use the following command structure:
 ```
 adenum -d <DOMAIN_NAME> -u <USERNAME> -p <PASSWORD>
 ```
 Replace `<DOMAIN_NAME>`, `<USERNAME>`, and `<PASSWORD>` with the actual domain name, username, and password you wish to use for authentication.
 
 ### Advanced options
-- Specify Server IP: You can specify the IP address of the server you're targeting with the `-ip` option:
+Specify Server IP: You can specify the IP address of the server you're targeting with the `-ip` option:
 ```
 adenum -d <DOMAIN_NAME> -u <USERNAME> -p <PASSWORD> -ip <SERVER_IP>
 ```
-- Enable Hash Cracking: To enable hash cracking using John the Ripper, use the `-j` flag. You can also specify the path to the John binary with `-jp` and provide a custom wordlist with `-w`:
+Enable Hash Cracking: To enable hash cracking using John the Ripper, use the `-j` flag. You can also specify the path to the John binary with `-jp` and provide a custom wordlist with `-w`:
 ```
 adenum -d <DOMAIN_NAME> -u <USERNAME> -p <PASSWORD> -j -jp /path/to/john -w /path/to/custom_wordlist
 ```
-- Use LDAP over SSL: To enforce the use of LDAP over SSL, add the `-s` flag:
+Use LDAP over SSL: To enforce the use of LDAP over SSL, add the `-s` flag:
 ```
 adenum -d <DOMAIN_NAME> -u <USERNAME> -p <PASSWORD> -s
 ```
-- Check for ASREP Roastable Users: To check for users who might be vulnerable to AS-REP Roasting, use the `--NPUsersCheck` option:
+Check for ASREP Roastable Users: To check for users who might be vulnerable to AS-REP Roasting, use the `--NPUsersCheck` option:
 ```
 adenum -d <DOMAIN_NAME> -u <USERNAME> -p <PASSWORD> --NPUsersCheck
 ```
 
 ## Additional Resources
-### Demo
-- Developer demonstration video.
+### Developer Demo Video
 [![asciicast](https://asciinema.org/a/362017.svg)](https://asciinema.org/a/362017?autoplay=1)
 
 ### Microsoft Advanced Threat Analytics
@@ -77,7 +76,7 @@ ATA detects two suspicious events but does **not** trigger an **alert**:
 
 As shown in this screenshot:
 
-![image/ATAdetection.png](media/ATAdetection.png)
+![media/ATAdetection.png](/media/ATAdetection.png)
 
 ### Documentation:
 
