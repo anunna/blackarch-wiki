@@ -25,6 +25,7 @@ AD Enum is a powerful tool for identifying and exploiting vulnerabilities in Act
 - Enum Domain users with not the default encryption
 - Enum Domain users with Protecting Privileged Domain Accounts
 - Enum Domain users with not default object Attributes
+
 ### Kerberos
 - AS-REP Roastable
 - Kerberoastable
