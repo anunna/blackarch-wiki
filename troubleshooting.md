@@ -18,8 +18,13 @@ pacman -S blackarch --needed
 ```
 ### GNUPG 2.4.3-2 broken in Arch Linux and BlackArch Linux
 
-After GNUPG updated to version 2.4 in Arch Linux with major upstream changes, there are issues with the blackarch-keyring being corrupted. This prevents you from running the `strap.sh` script, installing some appications verifying integrity via AUR, and in some cases; generating new gpg keys.
-We are working on finding a solution. However, downgrading to the previous version of GNUPG will resolve your issue.
+After GNUPG updated to version 2.4 in Arch Linux with major upstream changes, there are issues with the blackarch-keyring being corrupted. This prevents you from running the `strap.sh` script, installing BlackArch packages. The team is working on fixing the keyring. 
+
+There are two options to temporarily resolve the issue.
+
+### Option 1
+
+Downgrading to the previous version of GNUPG will resolve your issue.
 
 ```
 pacman -U https://archive.archlinux.org/packages/g/gnupg/gnupg-2.2.41-2-x86_64.pkg.tar.zst
@@ -41,4 +46,16 @@ pacman -Syu --ignore gnupg
 Permanently ignoring the package.
 ```
 sed -i '/IgnorePkg/ s/^#//; /IgnorePkg/ s/$/ gnupg/' /etc/pacman.conf
+```
+
+### Option 2
+
+Add missing key
+```
+echo "F9A6E68A711354D84A9B91637533BAFE69A25079:4:" >> /usr/share/pacman/keyrings/blackarch-trusted
+pacman-key --populate
+```
+Update the system to verify
+```
+pacman -Syu
 ```
