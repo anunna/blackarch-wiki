@@ -30,7 +30,7 @@ Downgrading to the previous version of GNUPG will resolve your issue.
 pacman -U https://archive.archlinux.org/packages/g/gnupg/gnupg-2.2.41-2-x86_64.pkg.tar.zst
 rm -rf /etc/pacman.d/gnupg
 pacman-key --init
-pacman-key --populate archlinux blackarch
+pacman-key --populate
 pacman-key --update --keyserver keyserver.ubuntu.com
 ```
 
