@@ -4,12 +4,12 @@
 
 Following a recent [change](https://archlinux.org/news/incoming-changes-in-jdk-jre-21-packages-may-require-manual-intervention/) (2023-11-02) from Arch Linux regarding JDK/JRE packages. You may run into dependency conflicts when updating your BlackArch Linux system and will require manual intervention.
 
-Example of a conflict that may occure during a system update:
+Example of a conflict that may occur during a system update:
 ```shell
 :: removing jre-openjdk breaks the dependency 'jre-openjdk' required by mobsf
 :: removing jre-openjdk breaks the dependency 'jre-openjdk' required by tls-attacker
 ```
-If you have installed BlackArch Linux using one of the currnet ISOs (dated 2023-04-01 or 2023-05-01) or earlier, you will need to execute the following command to address the JDK/JRE conflicts:
+If you have installed BlackArch Linux using one of the current ISOs (dated 2023-04-01 or 2023-05-01) or earlier, you will need to execute the following command to address the JDK/JRE conflicts:
 ```shell
 pacman -Rns mobsf tls-attacker jre-openjdk jdk-openjdk
 pacman -Syyu
@@ -34,7 +34,7 @@ pacman-key --populate
 pacman-key --update --keyserver keyserver.ubuntu.com
 ```
 
-When runnnig system updates, use the `--ignore` flag to exclude gnupg or ignore gnupg in your `pacman.conf` file.
+When running system updates, use the `--ignore` flag to exclude gnupg or ignore gnupg in your `pacman.conf` file.
 
 #### Example 1
 Temporarily ignore the package during system update.
@@ -50,12 +50,12 @@ sed -i '/IgnorePkg/ s/^#//; /IgnorePkg/ s/$/ gnupg/' /etc/pacman.conf
 
 ### Option 2
 
-Add missing key
+Add missing key:
 ```
 echo "F9A6E68A711354D84A9B91637533BAFE69A25079:4:" >> /usr/share/pacman/keyrings/blackarch-trusted
 pacman-key --populate
 ```
-Update the system to verify
+Update the system to verify:
 ```
 pacman -Syu
 ```
