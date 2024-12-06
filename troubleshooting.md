@@ -16,7 +16,7 @@ pacman -Syyu
 sysclean.sh
 pacman -S blackarch --needed
 ```
-### GNUPG 2.4.3-2 broken in Arch Linux and BlackArch Linux
+### GNUPG 2.4.3-2 breaks BlackArch Keyring
 
 After GNUPG updated to version 2.4 in Arch Linux with major upstream changes, there are issues with the blackarch-keyring being corrupted. This prevents you from running the `strap.sh` script, installing BlackArch packages. The team is working on fixing the keyring. 
 
